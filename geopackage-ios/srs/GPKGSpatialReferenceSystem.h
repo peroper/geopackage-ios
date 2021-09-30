@@ -7,8 +7,8 @@
 //
 
 #import <Foundation/Foundation.h>
-#import "PROJProjection.h"
-#import "SFPGeometryTransform.h"
+#import <sf_proj_ios/sf_proj_ios.h>
+#import <sf_proj_ios/sf_proj_ios.h>
 
 /**
  *  Spatial Reference System table constants

@@ -7,9 +7,9 @@
 //
 
 #import "GPKGFeatureTileGenerator.h"
+#import <sf_proj_ios/sf_proj_ios.h>
 #import "GPKGFeatureTileTableLinker.h"
 #import "GPKGTileBoundingBoxUtils.h"
-#import "PROJProjectionConstants.h"
 
 @interface GPKGFeatureTileGenerator ()
 

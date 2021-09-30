@@ -7,14 +7,12 @@
 //
 
 #import "GPKGOAPIFeatureGenerator.h"
-#import "PROJProjectionFactory.h"
-#import "PROJProjectionConstants.h"
+#import <sf_proj_ios/sf_proj_ios.h>
+#import <sf_geojson_ios/sf_geojson_ios.h>
+#import <ogc_api_features_json_ios/ogc_api_features_json_ios.h>
 #import "GPKGProperties.h"
 #import "GPKGPropertyConstants.h"
 #import "GPKGDateTimeUtils.h"
-#import "SFGFeature.h"
-#import "OAFCrs.h"
-#import "OAFFeaturesConverter.h"
 #import "GPKGNetworkUtils.h"
 
 /**

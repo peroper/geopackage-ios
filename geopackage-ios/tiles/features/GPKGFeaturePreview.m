@@ -7,10 +7,9 @@
 //
 
 #import "GPKGFeaturePreview.h"
+#import <sf_proj_ios/sf_proj_ios.h>
 #import "GPKGSqlUtils.h"
-#import "PROJProjectionFactory.h"
 #import "GPKGTileBoundingBoxUtils.h"
-#import "PROJProjectionConstants.h"
 
 @interface GPKGFeaturePreview ()
 

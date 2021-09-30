@@ -7,9 +7,9 @@
 //
 
 #import <Foundation/Foundation.h>
+#import <sf_ios/sf_ios.h>
 #import "GPKGContents.h"
 #import "GPKGSpatialReferenceSystem.h"
-#import "SFGeometryTypes.h"
 
 /**
  *  Geometry Columns table constants

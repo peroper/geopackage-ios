@@ -7,8 +7,7 @@
 //
 
 #import "GPKGPlatteCarreOptimize.h"
-#import "PROJProjectionFactory.h"
-#import "PROJProjectionConstants.h"
+#import <sf_wkb_ios/sf_wkb_ios.h>
 #import "GPKGTileBoundingBoxUtils.h"
 
 @implementation GPKGPlatteCarreOptimize

@@ -7,7 +7,7 @@
 //
 
 #import "GPKGIcons.h"
-#import "SFGeometryUtils.h"
+#import <sf_ios/sf_ios.h>
 
 @interface GPKGIcons ()
 

@@ -8,7 +8,7 @@
 
 #import "GPKGBoundingBox.h"
 #import "GPKGTileBoundingBoxUtils.h"
-#import "PROJProjectionConstants.h"
+#import <proj_ios/proj_ios.h>
 
 @implementation GPKGBoundingBox
 

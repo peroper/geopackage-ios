@@ -7,9 +7,9 @@
 //
 
 #import "GPKGMapUtils.h"
+#import <sf_proj_ios/sf_proj_ios.h>
 #import "GPKGProperties.h"
 #import "GPKGPropertyConstants.h"
-#import "PROJProjectionConstants.h"
 #import "GPKGTileBoundingBoxUtils.h"
 
 @implementation GPKGMapUtils

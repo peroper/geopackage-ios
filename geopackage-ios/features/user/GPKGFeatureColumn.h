@@ -7,7 +7,7 @@
 //
 
 #import "GPKGUserColumn.h"
-#import "SFGeometryTypes.h"
+#import <sf_ios/sf_ios.h>
 #import "GPKGTableColumn.h"
 
 /**

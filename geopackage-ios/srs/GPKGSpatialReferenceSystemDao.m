@@ -7,11 +7,10 @@
 //
 
 #import "GPKGSpatialReferenceSystemDao.h"
-#import "PROJProjectionConstants.h"
+#import <sf_wkb_ios/sf_wkb_ios.h>
 #import "GPKGGeometryColumnsDao.h"
 #import "GPKGTileMatrixSetDao.h"
 #import "GPKGContentsDao.h"
-#import "PROJProjectionFactory.h"
 #import "GPKGProperties.h"
 #import "GPKGPropertyConstants.h"
 #import "GPKGCrsWktExtension.h"

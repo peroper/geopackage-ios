@@ -8,7 +8,7 @@
 
 #import <Foundation/Foundation.h>
 #import "GPKGBoundingBox.h"
-#import "PROJProjection.h"
+#import <sf_proj_ios/sf_proj_ios.h>
 
 /**
  * Abstract overlay which provides bounding returned tiles by zoom levels and/or a bounding box

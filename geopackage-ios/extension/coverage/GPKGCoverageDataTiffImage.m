@@ -7,10 +7,8 @@
 //
 
 #import "GPKGCoverageDataTiffImage.h"
+#import <tiff_ios/tiff_ios.h>
 #import "GPKGCoverageDataTiff.h"
-#import "TIFFRasters.h"
-#import "TIFFReader.h"
-#import "TIFFWriter.h"
 
 @interface GPKGCoverageDataTiffImage ()
 

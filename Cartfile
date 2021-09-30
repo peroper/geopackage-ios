@@ -1,4 +1,12 @@
-# github "AFNetworking/AFNetworking" ~> 2.1
-# github "OSGeo/proj.4" ~> 4.8
-# github "ngageoint/geopackage-wkb-iOS" ~> 1.0
-git "~/git/wkb-ios" "master"
+
+github "peroper/ogc-api-features-json-ios" "carthage-support"
+github "peroper/tiff-ios" "carthage-support"
+github "peroper/simple-features-proj-ios" "carthage-support"
+github "peroper/simple-features-wkt-ios" "carthage-support"
+github "peroper/simple-features-wkb-ios" "carthage-support"
+
+github "peroper/coordinate-reference-systems-ios" "carthage-support"
+github "peroper/simple-features-ios" "carthage-support"
+github "peroper/projections-ios" "carthage-support"
+github "peroper/simple-features-geojson-ios" "carthage-support"
+github "peroper/Proj4-iOS" "carthage-support"

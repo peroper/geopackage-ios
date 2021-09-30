@@ -7,7 +7,7 @@
 //
 
 #import "GPKGSpatialReferenceSystem.h"
-#import "PROJProjectionFactory.h"
+#import <sf_proj_ios/sf_proj_ios.h>
 
 NSString * const GPKG_SRS_TABLE_NAME = @"gpkg_spatial_ref_sys";
 NSString * const GPKG_SRS_COLUMN_PK = @"srs_id";

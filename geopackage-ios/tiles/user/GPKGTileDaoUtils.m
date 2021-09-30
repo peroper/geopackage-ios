@@ -7,10 +7,9 @@
 //
 
 #import "GPKGTileDaoUtils.h"
+#import <sf_proj_ios/sf_proj_ios.h>
 #import "GPKGTileMatrixSet.h"
 #import "GPKGTileMatrix.h"
-#import "PROJProjectionFactory.h"
-#import "PROJProjectionConstants.h"
 
 @implementation GPKGTileDaoUtils
 

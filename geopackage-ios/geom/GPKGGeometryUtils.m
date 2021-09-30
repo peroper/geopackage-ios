@@ -7,8 +7,8 @@
 //
 
 #import "GPKGGeometryUtils.h"
+#import <sf_proj_ios/sf_proj_ios.h>
 #import "GPKGGeoPackageConstants.h"
-#import "PROJProjectionConstants.h"
 
 @implementation GPKGGeometryUtils
 

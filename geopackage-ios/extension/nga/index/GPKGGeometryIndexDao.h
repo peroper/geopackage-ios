@@ -9,7 +9,7 @@
 #import "GPKGBaseDao.h"
 #import "GPKGGeometryIndex.h"
 #import "GPKGTableIndex.h"
-#import "SFGeometryEnvelope.h"
+#import <sf_ios/sf_ios.h>
 
 /**
  * Geometry Index Data Access Object

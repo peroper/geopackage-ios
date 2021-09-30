@@ -7,6 +7,8 @@
 //
 
 #import "GPKGGeoPackageManager.h"
+#import <sf_ios/sf_ios.h>
+#import <objc/runtime.h>
 #import "GPKGGeoPackageConstants.h"
 #import "GPKGGeoPackageTableCreator.h"
 #import "GPKGIOUtils.h"
@@ -15,9 +17,7 @@
 #import "GPKGSqlUtils.h"
 #import "GPKGProperties.h"
 #import "GPKGPropertyConstants.h"
-#import "SFByteReader.h"
 #import "GPKGSessionTaskData.h"
-#import <objc/runtime.h>
 
 @implementation GPKGGeoPackageManager
 

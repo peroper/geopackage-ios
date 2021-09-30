@@ -7,8 +7,8 @@
 //
 
 #import "GPKGCoverageDataImage.h"
+#import <tiff_ios/tiff_ios.h>
 #import "GPKGTileRow.h"
-#import "TIFFFileDirectory.h"
 
 /**
  * Coverage Data TIFF image

@@ -7,12 +7,11 @@
 //
 
 #import "GPKGTileDao.h"
+#import <sf_proj_ios/sf_proj_ios.h>
 #import "GPKGTileRow.h"
 #import "GPKGTileMatrix.h"
 #import "GPKGUtils.h"
 #import "GPKGTileDaoUtils.h"
-#import "PROJProjectionFactory.h"
-#import "PROJProjectionConstants.h"
 #import "GPKGTileBoundingBoxUtils.h"
 
 @implementation GPKGTileDao

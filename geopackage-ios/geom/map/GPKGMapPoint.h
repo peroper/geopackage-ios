@@ -8,7 +8,7 @@
 
 #import <Foundation/Foundation.h>
 @import MapKit;
-#import "SFPoint.h"
+#import <sf_ios/sf_ios.h>
 #import "GPKGMapPointOptions.h"
 
 /**

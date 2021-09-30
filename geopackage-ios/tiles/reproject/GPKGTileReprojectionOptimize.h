@@ -7,7 +7,7 @@
 //
 
 #import <Foundation/Foundation.h>
-#import "PROJProjection.h"
+#import <sf_proj_ios/sf_proj_ios.h>
 #import "GPKGBoundingBox.h"
 #import "GPKGTileGrid.h"
 

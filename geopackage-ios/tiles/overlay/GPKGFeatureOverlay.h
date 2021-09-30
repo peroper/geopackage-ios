@@ -7,9 +7,9 @@
 //
 
 #import <MapKit/MapKit.h>
+#import <sf_ios/sf_ios.h>
 #import "GPKGBoundingBox.h"
 #import "GPKGFeatureTiles.h"
-#import "PROJProjection.h"
 #import "GPKGBoundedOverlay.h"
 
 /**

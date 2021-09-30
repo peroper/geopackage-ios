@@ -7,7 +7,7 @@
 //
 
 #import "GPKGBoundedOverlay.h"
-#import "PROJProjectionConstants.h"
+#import <sf_proj_ios/sf_proj_ios.h>
 #import "GPKGTileBoundingBoxUtils.h"
 
 @implementation GPKGBoundedOverlay

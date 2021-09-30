@@ -7,8 +7,8 @@
 //
 
 #import "GPKGBaseDao.h"
+#import <sf_ios/sf_ios.h>
 #import "GPKGGeometryMetadata.h"
-#import "SFGeometryEnvelope.h"
 #import "GPKGBoundingBox.h"
 
 /**

@@ -7,7 +7,7 @@
 //
 
 #import "GPKGCoverageData.h"
-#import "TIFFFileDirectory.h"
+#import <tiff_ios/tiff_ios.h>
 #import "GPKGCoverageDataTiffImage.h"
 
 /**

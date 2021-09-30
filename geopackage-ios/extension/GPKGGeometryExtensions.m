@@ -7,11 +7,11 @@
 //
 
 #import "GPKGGeometryExtensions.h"
-#import "SFGeometryTypes.h"
+#import <sf_ios/sf_ios.h>
+#import <sf_wkb_ios/sf_wkb_ios.h>
 #import "GPKGGeoPackageConstants.h"
 #import "GPKGExtensions.h"
 #import "GPKGProperties.h"
-#import "SFWBGeometryCodes.h"
 
 NSString * const GPKG_PROP_GEOMETRY_TYPES_EXTENSION_DEFINITION = @"geopackage.extensions.geometry_types";
 NSString * const GPKG_PROP_USER_GEOMETRY_TYPES_EXTENSION_DEFINITION = @"geopackage.extensions.user_geometry_types";

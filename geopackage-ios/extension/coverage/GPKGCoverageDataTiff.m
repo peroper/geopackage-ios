@@ -7,9 +7,8 @@
 //
 
 #import "GPKGCoverageDataTiff.h"
+#import <tiff_ios/tiff_ios.h>
 #import "GPKGCoverageDataTiffImage.h"
-#import "TIFFConstants.h"
-#import "TIFFReader.h"
 
 /**
  * Single sample coverage data

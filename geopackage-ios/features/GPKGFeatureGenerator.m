@@ -7,8 +7,7 @@
 //
 
 #import "GPKGFeatureGenerator.h"
-#import "PROJProjectionFactory.h"
-#import "PROJProjectionConstants.h"
+#import <sf_proj_ios/sf_proj_ios.h>
 #import "GPKGFeatureTableReader.h"
 #import "GPKGFeatureTableMetadata.h"
 

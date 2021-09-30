@@ -7,8 +7,8 @@
 //
 
 #import "GPKGUserDao.h"
+#import <sf_proj_ios/sf_proj_ios.h>
 #import "GPKGUserRow.h"
-#import "PROJProjectionConstants.h"
 #import "GPKGTileBoundingBoxUtils.h"
 #import "GPKGSqlUtils.h"
 #import "GPKGAlterTable.h"

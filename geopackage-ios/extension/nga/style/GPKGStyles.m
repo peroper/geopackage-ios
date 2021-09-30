@@ -7,7 +7,7 @@
 //
 
 #import "GPKGStyles.h"
-#import "SFGeometryUtils.h"
+#import <sf_ios/sf_ios.h>
 
 @interface GPKGStyles ()
 

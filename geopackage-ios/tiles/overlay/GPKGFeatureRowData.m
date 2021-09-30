@@ -7,7 +7,7 @@
 //
 
 #import "GPKGFeatureRowData.h"
-#import "SFGFeatureConverter.h"
+#import <sf_geojson_ios/sf_geojson_ios.h>
 
 @interface GPKGFeatureRowData ()
 

@@ -7,18 +7,13 @@
 //
 
 #import "GPKGGeometryData.h"
-#import "SFByteReader.h"
+#import <sf_ios/sf_ios.h>
+#import <sf_wkb_ios/sf_wkb_ios.h>
+#import <sf_wkt_ios/sf_wkt_ios.h>
 #import "GPKGGeoPackageConstants.h"
 #import "GPKGGeometryExtensions.h"
-#import "SFWBGeometryReader.h"
-#import "SFByteWriter.h"
-#import "SFWBGeometryWriter.h"
-#import "SFGeometryEnvelopeBuilder.h"
-#import "SFPointFiniteFilter.h"
 #import "GPKGProperties.h"
 #import "GPKGPropertyConstants.h"
-#import "SFWTGeometryWriter.h"
-#import "SFWTGeometryReader.h"
 
 @implementation GPKGGeometryData
 

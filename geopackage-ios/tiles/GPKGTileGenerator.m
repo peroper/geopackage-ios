@@ -7,7 +7,7 @@
 //
 
 #import "GPKGTileGenerator.h"
-#import "PROJProjectionConstants.h"
+#import <sf_proj_ios/sf_proj_ios.h>
 #import "GPKGTileBoundingBoxUtils.h"
 #import "GPKGUtils.h"
 #import "GPKGImageConverter.h"

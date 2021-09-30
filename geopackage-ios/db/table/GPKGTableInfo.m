@@ -7,7 +7,7 @@
 //
 
 #import "GPKGTableInfo.h"
-#import "SFGeometryTypes.h"
+#import <sf_ios/sf_ios.h>
 #import "GPKGSqlUtils.h"
 #import "GPKGDateTimeUtils.h"
 #import "GPKGUtils.h"

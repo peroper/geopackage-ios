@@ -7,7 +7,7 @@
 //
 
 #import "GPKGGeoPackageOverlay.h"
-#import "PROJProjectionConstants.h"
+#import <sf_proj_ios/sf_proj_ios.h>
 #import "GPKGGeoPackageTileRetriever.h"
 #import "GPKGTileUtils.h"
 

@@ -7,7 +7,7 @@
 //
 
 #import <Foundation/Foundation.h>
-#import "SFPoint.h"
+#import <sf_ios/sf_ios.h>
 
 /**
  *  Geometry Utilities

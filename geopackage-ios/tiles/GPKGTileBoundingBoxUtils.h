@@ -7,11 +7,11 @@
 //
 
 #import <Foundation/Foundation.h>
+#import <sf_proj_ios/sf_proj_ios.h>
+#import <sf_ios/sf_ios.h>
 #import "GPKGBoundingBox.h"
 #import "GPKGTileGrid.h"
-#import "PROJProjection.h"
 #import "GPKGTileMatrix.h"
-#import "SFPoint.h"
 
 /**
  *  Tile Bounding Box utility methods

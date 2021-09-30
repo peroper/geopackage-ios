@@ -7,10 +7,8 @@
 //
 
 #import <Foundation/Foundation.h>
-#import "SFGeometryEnvelope.h"
-#import "SFGeometry.h"
-#import "SFGeometryFilter.h"
-#import "SFPGeometryTransform.h"
+#import <sf_ios/sf_ios.h>
+#import <sf_proj_ios/sf_proj_ios.h>
 
 /**
  *  GeoPackage Geometry Data

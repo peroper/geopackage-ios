@@ -7,6 +7,7 @@
 //
 
 #import "GPKGMapShape.h"
+#import <sf_proj_ios/sf_proj_ios.h>
 #import "GPKGMultiPoint.h"
 #import "GPKGMultiPolyline.h"
 #import "GPKGMultiPolygon.h"
@@ -15,7 +16,6 @@
 #import "GPKGMultiPolylinePoints.h"
 #import "GPKGMultiPolygonPoints.h"
 #import "GPKGMapPoint.h"
-#import "PROJProjectionConstants.h"
 
 @implementation GPKGMapShape
 

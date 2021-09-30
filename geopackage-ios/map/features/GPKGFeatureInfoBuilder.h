@@ -7,10 +7,10 @@
 //
 
 #import <Foundation/Foundation.h>
+#import <sf_ios/sf_ios.h>
 #import "GPKGFeatureDao.h"
 #import "GPKGFeatureTableData.h"
 #import "GPKGFeatureIndexResults.h"
-#import "SFPoint.h"
 #import "GPKGMapTolerance.h"
 
 @interface GPKGFeatureInfoBuilder : NSObject

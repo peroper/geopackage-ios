@@ -7,12 +7,12 @@
 //
 
 #import "GPKGMapShapeConverter.h"
+#import <sf_proj_ios/sf_proj_ios.h>
+#import <sf_ios/sf_ios.h>
 #import "GPKGMapPoint.h"
-#import "PROJProjectionConstants.h"
 #import "GPKGUtils.h"
 #import "GPKGPolygonOrientations.h"
 #import "GPKGGeometryUtils.h"
-#import "SFGeometryUtils.h"
 
 @interface GPKGMapShapeConverter ()
 

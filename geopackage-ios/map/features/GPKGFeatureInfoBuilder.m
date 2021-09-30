@@ -7,14 +7,14 @@
 //
 
 #import "GPKGFeatureInfoBuilder.h"
+#import <sf_ios/sf_ios.h>
+#import <sf_proj_ios/sf_proj_ios.h>
 #import "GPKGProperties.h"
 #import "GPKGPropertyConstants.h"
-#import "SFGeometryPrinter.h"
 #import "GPKGDataColumnsDao.h"
 #import "GPKGSpatialReferenceSystemDao.h"
 #import "GPKGFeatureIndexListResults.h"
 #import "GPKGMapShapeConverter.h"
-#import "PROJProjectionFactory.h"
 #import "GPKGMapUtils.h"
 
 @interface GPKGFeatureInfoBuilder ()

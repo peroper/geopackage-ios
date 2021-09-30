@@ -7,9 +7,7 @@
 //
 
 #import "GPKGTileBoundingBoxUtils.h"
-#import "PROJProjectionConstants.h"
-#import "PROJProjectionFactory.h"
-#import "SFPGeometryTransform.h"
+#import <sf_proj_ios/sf_proj_ios.h>
 #import "GPKGGeoPackageConstants.h"
 #import "GPKGProperties.h"
 #import "GPKGPropertyConstants.h"

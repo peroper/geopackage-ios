@@ -7,10 +7,9 @@
 //
 
 #import "GPKGGeoPackageTileRetriever.h"
+#import <sf_proj_ios/sf_proj_ios.h>
 #import "GPKGTileBoundingBoxUtils.h"
-#import "PROJProjectionFactory.h"
 #import "GPKGTileCreator.h"
-#import "PROJProjectionConstants.h"
 
 @interface GPKGGeoPackageTileRetriever ()
 

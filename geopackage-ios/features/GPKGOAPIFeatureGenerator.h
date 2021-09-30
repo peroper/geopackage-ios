@@ -8,7 +8,7 @@
 
 #import <UIKit/UIKit.h>
 #import "GPKGFeatureGenerator.h"
-#import "OAFCollection.h"
+#import <ogc_api_features_json_ios/ogc_api_features_json_ios.h>
 
 /**
  * OGC API Features Generator

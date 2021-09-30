@@ -7,9 +7,8 @@
 //
 
 #import "GPKGTileCreator.h"
-#import "PROJProjectionFactory.h"
+#import <sf_proj_ios/sf_proj_ios.h>
 #import "GPKGTileMatrixSetDao.h"
-#import "PROJProjectionTransform.h"
 #import "GPKGImageConverter.h"
 #import "GPKGTileBoundingBoxUtils.h"
 

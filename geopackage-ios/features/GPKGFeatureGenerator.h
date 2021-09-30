@@ -7,10 +7,9 @@
 //
 
 #import <Foundation/Foundation.h>
+#import <sf_proj_ios/sf_proj_ios.h>
 #import "GPKGGeoPackage.h"
-#import "PROJProjection.h"
 #import "GPKGProgress.h"
-#import "PROJProjections.h"
 
 /**
  * Feature Generator

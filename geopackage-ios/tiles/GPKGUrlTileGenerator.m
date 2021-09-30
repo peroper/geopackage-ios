@@ -7,11 +7,11 @@
 //
 
 #import "GPKGUrlTileGenerator.h"
+#import <sf_proj_ios/sf_proj_ios.h>
 #import "GPKGProperties.h"
 #import "GPKGPropertyConstants.h"
 #import "GPKGTileBoundingBoxUtils.h"
 #import "GPKGIOUtils.h"
-#import "PROJProjectionFactory.h"
 
 @interface GPKGUrlTileGenerator ()
 

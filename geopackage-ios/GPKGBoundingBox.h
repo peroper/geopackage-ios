@@ -8,8 +8,8 @@
 
 #import <Foundation/Foundation.h>
 @import MapKit;
-#import "SFGeometryEnvelope.h"
-#import "SFPGeometryTransform.h"
+#import <sf_ios/sf_ios.h>
+#import <sf_proj_ios/sf_proj_ios.h>
 
 /**
  *  Bounding box width and height struct
