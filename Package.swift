@@ -11,18 +11,17 @@ let package = Package(
         .library(
             name: "geopackage-ios",
             targets: [
-                "geopackage-ios"
+                "geopackage-ios-wrapper"
             ]
         )
     ],
     dependencies: [
     ],
     targets: [
-        // Targets are the basic building blocks of a package. A target can define a module or a test suite.
-        // Targets can depend on other targets in this package, and on products in packages this package depends on.
         .target(
-            name: "geopackage-ios",
+            name: "geopackage-ios-wrapper",
             dependencies: [
+                "geopackage-ios",
                 "tiff-ios",
                 "simple-features-ios",
                 "simple-features-projections-ios",
@@ -33,17 +32,11 @@ let package = Package(
                 "coordinate-reference-systems-ios",
                 "projections-ios"
             ],
-            path: "geopackage-ios",
-            exclude: [
-                "Info.plist",
-                "extension/geopackage.tables.gpkg.plist",
-                "extension/nga/geopackage.tables.nga.plist",
-                "db/metadata/geopackage.tables.metadata.plist",
-                "geopackage.plist",
-                "extension/rtree/geopackage.rtree_sql.plist",
-                "geopackage-ios-Prefix.pch",
-                "geopackage.tables.plist"
-            ]
+            path: "geopackage-ios-wrapper"
+        ),
+        .binaryTarget(
+            name: "geopackage-ios",
+            path: "XCFrameworks/geopackage_ios.xcframework"
         ),
         .binaryTarget(
             name: "tiff-ios",
