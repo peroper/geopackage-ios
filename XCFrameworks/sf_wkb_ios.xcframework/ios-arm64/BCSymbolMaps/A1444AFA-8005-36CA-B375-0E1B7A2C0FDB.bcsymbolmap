@@ -1,0 +1,280 @@
+BCSymbolMap Version: 2.0
+Apple clang version 13.0.0 (clang-1300.0.29.3)
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS15.0.sdk
+iPhoneOS15.0.sdk
+/Users/albintornqvist/Library/Caches/org.carthage.CarthageKit/DerivedData/13.0_13A233/simple-features-wkb-ios/0d05713b09050ee520ea40b32fcf606ea5a4b75f/Build/Intermediates.noindex/ArchiveIntermediates/sf-wkb-ios/IntermediateBuildFilesPath/sf-wkb-ios.build/Release-iphoneos/sf-wkb-ios.build/DerivedSources/sf_wkb_ios_vers.c
+/Users/albintornqvist/projects/GlobalForester-iOS/Carthage/Checkouts/simple-features-wkb-ios
++[SFWBGeometryWriter writeGeometry:]
++[SFWBGeometryWriter writeGeometry:inByteOrder:]
+-[SFWBGeometryWriter init]
+-[SFWBGeometryWriter initWithByteOrder:]
+-[SFWBGeometryWriter initWithWriter:]
+-[SFWBGeometryWriter byteWriter]
+-[SFWBGeometryWriter data]
+-[SFWBGeometryWriter close]
+-[SFWBGeometryWriter write:]
+-[SFWBGeometryWriter writePoint:]
+-[SFWBGeometryWriter writeLineString:]
+-[SFWBGeometryWriter writePolygon:]
+-[SFWBGeometryWriter writeMultiPoint:]
+-[SFWBGeometryWriter writeMultiLineString:]
+-[SFWBGeometryWriter writeMultiPolygon:]
+-[SFWBGeometryWriter writeGeometryCollection:]
+-[SFWBGeometryWriter writeCircularString:]
+-[SFWBGeometryWriter writeCompoundCurve:]
+-[SFWBGeometryWriter writeCurvePolygon:]
+-[SFWBGeometryWriter writePolyhedralSurface:]
+-[SFWBGeometryWriter writeTIN:]
+-[SFWBGeometryWriter writeTriangle:]
+-[SFWBGeometryWriter writeInt:]
++[SFWBGeometryWriter writeGeometry:withWriter:]
++[SFWBGeometryWriter writePoint:withWriter:]
++[SFWBGeometryWriter writeLineString:withWriter:]
++[SFWBGeometryWriter writePolygon:withWriter:]
++[SFWBGeometryWriter writeMultiPoint:withWriter:]
++[SFWBGeometryWriter writeMultiLineString:withWriter:]
++[SFWBGeometryWriter writeMultiPolygon:withWriter:]
++[SFWBGeometryWriter writeGeometryCollection:withWriter:]
++[SFWBGeometryWriter writeCircularString:withWriter:]
++[SFWBGeometryWriter writeCompoundCurve:withWriter:]
++[SFWBGeometryWriter writeCurvePolygon:withWriter:]
++[SFWBGeometryWriter writePolyhedralSurface:withWriter:]
++[SFWBGeometryWriter writeTIN:withWriter:]
++[SFWBGeometryWriter writeTriangle:withWriter:]
++[SFWBGeometryWriter writeInt:withWriter:]
+-[SFWBGeometryWriter writer]
+-[SFWBGeometryWriter setWriter:]
+-[SFWBGeometryWriter .cxx_destruct]
+_OBJC_SELECTOR_REFERENCES_
+_OBJC_CLASSLIST_REFERENCES_$_
+_OBJC_SELECTOR_REFERENCES_.2
+_OBJC_SELECTOR_REFERENCES_.4
+_OBJC_SELECTOR_REFERENCES_.6
+_OBJC_SELECTOR_REFERENCES_.8
+_OBJC_CLASSLIST_REFERENCES_$_.9
+_OBJC_SELECTOR_REFERENCES_.11
+_OBJC_SELECTOR_REFERENCES_.13
+_OBJC_SELECTOR_REFERENCES_.15
+_OBJC_CLASSLIST_REFERENCES_$_.16
+_OBJC_SELECTOR_REFERENCES_.20
+_OBJC_CLASSLIST_REFERENCES_$_.21
+_OBJC_SELECTOR_REFERENCES_.23
+_OBJC_SELECTOR_REFERENCES_.25
+_OBJC_CLASSLIST_REFERENCES_$_.26
+_OBJC_SELECTOR_REFERENCES_.28
+_OBJC_SELECTOR_REFERENCES_.30
+_OBJC_SELECTOR_REFERENCES_.32
+_OBJC_CLASSLIST_REFERENCES_$_.37
+_OBJC_SELECTOR_REFERENCES_.39
+_OBJC_SELECTOR_REFERENCES_.41
+_OBJC_SELECTOR_REFERENCES_.43
+_OBJC_SELECTOR_REFERENCES_.45
+_OBJC_SELECTOR_REFERENCES_.47
+_OBJC_SELECTOR_REFERENCES_.49
+_OBJC_SELECTOR_REFERENCES_.51
+_OBJC_SELECTOR_REFERENCES_.53
+_OBJC_SELECTOR_REFERENCES_.55
+_OBJC_SELECTOR_REFERENCES_.57
+_OBJC_SELECTOR_REFERENCES_.59
+_OBJC_SELECTOR_REFERENCES_.61
+_OBJC_SELECTOR_REFERENCES_.63
+_OBJC_SELECTOR_REFERENCES_.65
+_OBJC_SELECTOR_REFERENCES_.71
+_OBJC_SELECTOR_REFERENCES_.73
+_OBJC_SELECTOR_REFERENCES_.75
+_OBJC_SELECTOR_REFERENCES_.77
+_OBJC_SELECTOR_REFERENCES_.79
+_OBJC_SELECTOR_REFERENCES_.81
+_OBJC_SELECTOR_REFERENCES_.83
+_OBJC_SELECTOR_REFERENCES_.85
+_OBJC_SELECTOR_REFERENCES_.87
+_OBJC_SELECTOR_REFERENCES_.89
+_OBJC_SELECTOR_REFERENCES_.91
+_OBJC_SELECTOR_REFERENCES_.93
+_OBJC_SELECTOR_REFERENCES_.95
+_OBJC_SELECTOR_REFERENCES_.97
+_OBJC_SELECTOR_REFERENCES_.99
+_OBJC_SELECTOR_REFERENCES_.101
+_OBJC_SELECTOR_REFERENCES_.103
+_OBJC_SELECTOR_REFERENCES_.105
+_OBJC_SELECTOR_REFERENCES_.107
+__OBJC_$_CLASS_METHODS_SFWBGeometryWriter
+__OBJC_METACLASS_RO_$_SFWBGeometryWriter
+__OBJC_$_INSTANCE_METHODS_SFWBGeometryWriter
+_OBJC_IVAR_$_SFWBGeometryWriter._writer
+__OBJC_$_INSTANCE_VARIABLES_SFWBGeometryWriter
+__OBJC_$_PROP_LIST_SFWBGeometryWriter
+__OBJC_CLASS_RO_$_SFWBGeometryWriter
+/Users/albintornqvist/projects/GlobalForester-iOS/Carthage/Checkouts/simple-features-wkb-ios/sf-wkb-ios/SFWBGeometryWriter.m
+sf-wkb-ios/SFWBGeometryWriter.m
++[SFWBGeometryReader readGeometryWithData:]
++[SFWBGeometryReader readGeometryWithData:andFilter:]
++[SFWBGeometryReader readGeometryWithData:andExpectedType:]
++[SFWBGeometryReader readGeometryWithData:andFilter:andExpectedType:]
+-[SFWBGeometryReader initWithData:]
+-[SFWBGeometryReader initWithReader:]
+-[SFWBGeometryReader byteReader]
+-[SFWBGeometryReader read]
+-[SFWBGeometryReader readWithFilter:]
+-[SFWBGeometryReader readWithExpectedType:]
+-[SFWBGeometryReader readWithFilter:andExpectedType:]
+-[SFWBGeometryReader readWithFilter:inType:andExpectedType:]
+-[SFWBGeometryReader readGeometryType]
+-[SFWBGeometryReader readPointWithHasZ:andHasM:]
+-[SFWBGeometryReader readLineStringWithHasZ:andHasM:]
+-[SFWBGeometryReader readLineStringWithFilter:andHasZ:andHasM:]
+-[SFWBGeometryReader readPolygonWithHasZ:andHasM:]
+-[SFWBGeometryReader readPolygonWithFilter:andHasZ:andHasM:]
+-[SFWBGeometryReader readMultiPointWithHasZ:andHasM:]
+-[SFWBGeometryReader readMultiPointWithFilter:andHasZ:andHasM:]
+-[SFWBGeometryReader readMultiLineStringWithHasZ:andHasM:]
+-[SFWBGeometryReader readMultiLineStringWithFilter:andHasZ:andHasM:]
+-[SFWBGeometryReader readMultiPolygonWithHasZ:andHasM:]
+-[SFWBGeometryReader readMultiPolygonWithFilter:andHasZ:andHasM:]
+-[SFWBGeometryReader readGeometryCollectionWithHasZ:andHasM:]
+-[SFWBGeometryReader readGeometryCollectionWithFilter:andHasZ:andHasM:]
+-[SFWBGeometryReader readCircularStringWithHasZ:andHasM:]
+-[SFWBGeometryReader readCircularStringWithFilter:andHasZ:andHasM:]
+-[SFWBGeometryReader readCompoundCurveWithHasZ:andHasM:]
+-[SFWBGeometryReader readCompoundCurveWithFilter:andHasZ:andHasM:]
+-[SFWBGeometryReader readCurvePolygonWithHasZ:andHasM:]
+-[SFWBGeometryReader readCurvePolygonWithFilter:andHasZ:andHasM:]
+-[SFWBGeometryReader readPolyhedralSurfaceWithHasZ:andHasM:]
+-[SFWBGeometryReader readPolyhedralSurfaceWithFilter:andHasZ:andHasM:]
+-[SFWBGeometryReader readTINWithHasZ:andHasM:]
+-[SFWBGeometryReader readTINWithFilter:andHasZ:andHasM:]
+-[SFWBGeometryReader readTriangleWithHasZ:andHasM:]
+-[SFWBGeometryReader readTriangleWithFilter:andHasZ:andHasM:]
++[SFWBGeometryReader readGeometryWithReader:]
++[SFWBGeometryReader readGeometryWithReader:andFilter:]
++[SFWBGeometryReader readGeometryWithReader:andExpectedType:]
++[SFWBGeometryReader readGeometryWithReader:andFilter:andExpectedType:]
++[SFWBGeometryReader readGeometryWithReader:andFilter:inType:andExpectedType:]
++[SFWBGeometryReader readGeometryTypeWithReader:]
++[SFWBGeometryReader readPointWithReader:andHasZ:andHasM:]
++[SFWBGeometryReader readLineStringWithReader:andHasZ:andHasM:]
++[SFWBGeometryReader readLineStringWithReader:andFilter:andHasZ:andHasM:]
++[SFWBGeometryReader readPolygonWithReader:andHasZ:andHasM:]
++[SFWBGeometryReader readPolygonWithReader:andFilter:andHasZ:andHasM:]
++[SFWBGeometryReader readMultiPointWithReader:andHasZ:andHasM:]
++[SFWBGeometryReader readMultiPointWithReader:andFilter:andHasZ:andHasM:]
++[SFWBGeometryReader readMultiLineStringWithReader:andHasZ:andHasM:]
++[SFWBGeometryReader readMultiLineStringWithReader:andFilter:andHasZ:andHasM:]
++[SFWBGeometryReader readMultiPolygonWithReader:andHasZ:andHasM:]
++[SFWBGeometryReader readMultiPolygonWithReader:andFilter:andHasZ:andHasM:]
++[SFWBGeometryReader readGeometryCollectionWithReader:andHasZ:andHasM:]
++[SFWBGeometryReader readGeometryCollectionWithReader:andFilter:andHasZ:andHasM:]
++[SFWBGeometryReader readCircularStringWithReader:andHasZ:andHasM:]
++[SFWBGeometryReader readCircularStringWithReader:andFilter:andHasZ:andHasM:]
++[SFWBGeometryReader readCompoundCurveWithReader:andHasZ:andHasM:]
++[SFWBGeometryReader readCompoundCurveWithReader:andFilter:andHasZ:andHasM:]
++[SFWBGeometryReader readCurvePolygonWithReader:andHasZ:andHasM:]
++[SFWBGeometryReader readCurvePolygonWithReader:andFilter:andHasZ:andHasM:]
++[SFWBGeometryReader readPolyhedralSurfaceWithReader:andHasZ:andHasM:]
++[SFWBGeometryReader readPolyhedralSurfaceWithReader:andFilter:andHasZ:andHasM:]
++[SFWBGeometryReader readTINWithReader:andHasZ:andHasM:]
++[SFWBGeometryReader readTINWithReader:andFilter:andHasZ:andHasM:]
++[SFWBGeometryReader readTriangleWithReader:andHasZ:andHasM:]
++[SFWBGeometryReader readTriangleWithReader:andFilter:andHasZ:andHasM:]
++[SFWBGeometryReader filter:geometry:inType:]
+-[SFWBGeometryReader reader]
+-[SFWBGeometryReader setReader:]
+-[SFWBGeometryReader .cxx_destruct]
+_OBJC_CLASSLIST_REFERENCES_$_.7
+_OBJC_SELECTOR_REFERENCES_.9
+_OBJC_SELECTOR_REFERENCES_.17
+_OBJC_SELECTOR_REFERENCES_.19
+_OBJC_SELECTOR_REFERENCES_.21
+_OBJC_CLASSLIST_REFERENCES_$_.24
+_OBJC_CLASSLIST_REFERENCES_$_.29
+_OBJC_SELECTOR_REFERENCES_.31
+_OBJC_SELECTOR_REFERENCES_.33
+_OBJC_SELECTOR_REFERENCES_.35
+_OBJC_SELECTOR_REFERENCES_.37
+_OBJC_SELECTOR_REFERENCES_.67
+_OBJC_CLASSLIST_REFERENCES_$_.84
+_OBJC_SELECTOR_REFERENCES_.86
+_OBJC_SELECTOR_REFERENCES_.88
+_OBJC_CLASSLIST_REFERENCES_$_.89
+_OBJC_CLASSLIST_REFERENCES_$_.96
+_OBJC_SELECTOR_REFERENCES_.98
+_OBJC_SELECTOR_REFERENCES_.100
+_OBJC_CLASSLIST_REFERENCES_$_.101
+_OBJC_CLASSLIST_REFERENCES_$_.108
+_OBJC_SELECTOR_REFERENCES_.110
+_OBJC_SELECTOR_REFERENCES_.112
+_OBJC_CLASSLIST_REFERENCES_$_.113
+_OBJC_SELECTOR_REFERENCES_.115
+_OBJC_CLASSLIST_REFERENCES_$_.116
+_OBJC_CLASSLIST_REFERENCES_$_.117
+_OBJC_SELECTOR_REFERENCES_.119
+_OBJC_CLASSLIST_REFERENCES_$_.120
+_OBJC_SELECTOR_REFERENCES_.122
+_OBJC_CLASSLIST_REFERENCES_$_.123
+_OBJC_CLASSLIST_REFERENCES_$_.124
+_OBJC_SELECTOR_REFERENCES_.126
+_OBJC_CLASSLIST_REFERENCES_$_.127
+_OBJC_CLASSLIST_REFERENCES_$_.128
+_OBJC_CLASSLIST_REFERENCES_$_.129
+_OBJC_CLASSLIST_REFERENCES_$_.130
+_OBJC_CLASSLIST_REFERENCES_$_.131
+_OBJC_CLASSLIST_REFERENCES_$_.132
+_OBJC_CLASSLIST_REFERENCES_$_.133
+_OBJC_SELECTOR_REFERENCES_.135
+_OBJC_SELECTOR_REFERENCES_.137
+_OBJC_SELECTOR_REFERENCES_.139
+_OBJC_SELECTOR_REFERENCES_.141
+_OBJC_SELECTOR_REFERENCES_.143
+_OBJC_SELECTOR_REFERENCES_.145
+_OBJC_SELECTOR_REFERENCES_.147
+_OBJC_SELECTOR_REFERENCES_.149
+_OBJC_SELECTOR_REFERENCES_.151
+_OBJC_SELECTOR_REFERENCES_.153
+_OBJC_SELECTOR_REFERENCES_.155
+_OBJC_SELECTOR_REFERENCES_.157
+_OBJC_SELECTOR_REFERENCES_.159
+_OBJC_SELECTOR_REFERENCES_.161
+_OBJC_SELECTOR_REFERENCES_.163
+__OBJC_$_CLASS_METHODS_SFWBGeometryReader
+__OBJC_METACLASS_RO_$_SFWBGeometryReader
+__OBJC_$_INSTANCE_METHODS_SFWBGeometryReader
+_OBJC_IVAR_$_SFWBGeometryReader._reader
+__OBJC_$_INSTANCE_VARIABLES_SFWBGeometryReader
+__OBJC_$_PROP_LIST_SFWBGeometryReader
+__OBJC_CLASS_RO_$_SFWBGeometryReader
+/Users/albintornqvist/projects/GlobalForester-iOS/Carthage/Checkouts/simple-features-wkb-ios/sf-wkb-ios/SFWBGeometryReader.m
+sf-wkb-ios/SFWBGeometryReader.m
+-[SFWBGeometryTypeInfo initWithCode:andType:andHasZ:andHasM:]
+-[SFWBGeometryTypeInfo geometryTypeCode]
+-[SFWBGeometryTypeInfo geometryType]
+-[SFWBGeometryTypeInfo hasZ]
+-[SFWBGeometryTypeInfo hasM]
+-[SFWBGeometryTypeInfo setGeometryTypeCode:]
+-[SFWBGeometryTypeInfo setGeometryType:]
+-[SFWBGeometryTypeInfo setHasZ:]
+-[SFWBGeometryTypeInfo setHasM:]
+__OBJC_METACLASS_RO_$_SFWBGeometryTypeInfo
+__OBJC_$_INSTANCE_METHODS_SFWBGeometryTypeInfo
+_OBJC_IVAR_$_SFWBGeometryTypeInfo._hasZ
+_OBJC_IVAR_$_SFWBGeometryTypeInfo._hasM
+_OBJC_IVAR_$_SFWBGeometryTypeInfo._geometryTypeCode
+_OBJC_IVAR_$_SFWBGeometryTypeInfo._geometryType
+__OBJC_$_INSTANCE_VARIABLES_SFWBGeometryTypeInfo
+__OBJC_$_PROP_LIST_SFWBGeometryTypeInfo
+__OBJC_CLASS_RO_$_SFWBGeometryTypeInfo
+/Users/albintornqvist/projects/GlobalForester-iOS/Carthage/Checkouts/simple-features-wkb-ios/sf-wkb-ios/SFWBGeometryTypeInfo.m
+sf-wkb-ios/SFWBGeometryTypeInfo.m
++[SFWBGeometryCodes codeFromGeometry:]
++[SFWBGeometryCodes codeFromGeometryType:andHasZ:andHasM:]
++[SFWBGeometryCodes codeFromGeometryType:]
++[SFWBGeometryCodes geometryTypeFromCode:]
++[SFWBGeometryCodes hasZFromCode:]
++[SFWBGeometryCodes hasMFromCode:]
++[SFWBGeometryCodes geometryModeFromCode:]
+_OBJC_SELECTOR_REFERENCES_.12
+_OBJC_SELECTOR_REFERENCES_.18
+__OBJC_$_CLASS_METHODS_SFWBGeometryCodes
+__OBJC_METACLASS_RO_$_SFWBGeometryCodes
+__OBJC_CLASS_RO_$_SFWBGeometryCodes
+/Users/albintornqvist/projects/GlobalForester-iOS/Carthage/Checkouts/simple-features-wkb-ios/sf-wkb-ios/SFWBGeometryCodes.m
+sf-wkb-ios/SFWBGeometryCodes.m

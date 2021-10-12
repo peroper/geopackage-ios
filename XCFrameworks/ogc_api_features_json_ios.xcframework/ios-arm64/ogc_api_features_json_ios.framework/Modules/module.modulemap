@@ -1,0 +1,6 @@
+framework module ogc_api_features_json_ios {
+  umbrella header "ogc_api_features_json_ios.h"
+
+  export *
+  module * { export * }
+}

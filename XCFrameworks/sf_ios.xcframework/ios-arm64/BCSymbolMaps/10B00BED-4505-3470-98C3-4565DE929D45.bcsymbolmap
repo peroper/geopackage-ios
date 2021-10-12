@@ -1,0 +1,1114 @@
+BCSymbolMap Version: 2.0
+Apple clang version 13.0.0 (clang-1300.0.29.3)
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS15.0.sdk
+iPhoneOS15.0.sdk
+/Users/albintornqvist/Library/Caches/org.carthage.CarthageKit/DerivedData/13.0_13A233/simple-features-ios/20e60b5024e234485e6ace364ca00be7bd4163b8/Build/Intermediates.noindex/ArchiveIntermediates/sf-ios/IntermediateBuildFilesPath/sf-ios.build/Release-iphoneos/sf-ios.build/DerivedSources/sf_ios_vers.c
+/Users/albintornqvist/projects/GlobalForester-iOS/Carthage/Checkouts/simple-features-ios
+-[SFGeometryCollection init]
+-[SFGeometryCollection initWithHasZ:andHasM:]
+-[SFGeometryCollection initWithGeometries:]
+-[SFGeometryCollection initWithGeometry:]
+-[SFGeometryCollection initWithType:andHasZ:andHasM:]
+-[SFGeometryCollection addGeometry:]
+-[SFGeometryCollection addGeometries:]
+-[SFGeometryCollection numGeometries]
+-[SFGeometryCollection geometryAtIndex:]
+-[SFGeometryCollection collectionType]
+-[SFGeometryCollection isMultiPoint]
+-[SFGeometryCollection asMultiPoint]
+-[SFGeometryCollection isMultiLineString]
+-[SFGeometryCollection asMultiLineString]
+-[SFGeometryCollection isMultiPolygon]
+-[SFGeometryCollection asMultiPolygon]
+-[SFGeometryCollection isMultiCurve]
+-[SFGeometryCollection asMultiCurve]
+-[SFGeometryCollection isMultiSurface]
+-[SFGeometryCollection asMultiSurface]
+-[SFGeometryCollection asGeometryCollection]
+-[SFGeometryCollection isCollectionOfType:]
+-[SFGeometryCollection isEmpty]
+-[SFGeometryCollection isSimple]
+-[SFGeometryCollection mutableCopyWithZone:]
++[SFGeometryCollection supportsSecureCoding]
+-[SFGeometryCollection encodeWithCoder:]
+-[SFGeometryCollection initWithCoder:]
+-[SFGeometryCollection isEqualToGeometryCollection:]
+-[SFGeometryCollection isEqual:]
+-[SFGeometryCollection hash]
+-[SFGeometryCollection geometries]
+-[SFGeometryCollection setGeometries:]
+-[SFGeometryCollection .cxx_destruct]
+_OBJC_SELECTOR_REFERENCES_
+_OBJC_SELECTOR_REFERENCES_.2
+_OBJC_CLASSLIST_REFERENCES_$_
+_OBJC_SELECTOR_REFERENCES_.4
+_OBJC_SELECTOR_REFERENCES_.6
+_OBJC_SELECTOR_REFERENCES_.8
+_OBJC_SELECTOR_REFERENCES_.10
+_OBJC_SELECTOR_REFERENCES_.12
+_OBJC_SELECTOR_REFERENCES_.14
+_OBJC_CLASSLIST_REFERENCES_$_.15
+_OBJC_SELECTOR_REFERENCES_.17
+_OBJC_SELECTOR_REFERENCES_.19
+_OBJC_SELECTOR_REFERENCES_.21
+_OBJC_SELECTOR_REFERENCES_.23
+_OBJC_SELECTOR_REFERENCES_.25
+_OBJC_SELECTOR_REFERENCES_.27
+_OBJC_SELECTOR_REFERENCES_.29
+_OBJC_SELECTOR_REFERENCES_.31
+_OBJC_SELECTOR_REFERENCES_.33
+_OBJC_SELECTOR_REFERENCES_.35
+_OBJC_SELECTOR_REFERENCES_.37
+_OBJC_SELECTOR_REFERENCES_.39
+_OBJC_SELECTOR_REFERENCES_.41
+_OBJC_CLASSLIST_REFERENCES_$_.42
+_OBJC_SELECTOR_REFERENCES_.46
+_OBJC_CLASSLIST_REFERENCES_$_.47
+_OBJC_SELECTOR_REFERENCES_.49
+_OBJC_SELECTOR_REFERENCES_.51
+_OBJC_CLASSLIST_REFERENCES_$_.52
+_OBJC_SELECTOR_REFERENCES_.54
+_OBJC_SELECTOR_REFERENCES_.56
+_OBJC_CLASSLIST_REFERENCES_$_.57
+_OBJC_CLASSLIST_REFERENCES_$_.58
+_OBJC_SELECTOR_REFERENCES_.60
+_OBJC_CLASSLIST_REFERENCES_$_.61
+_OBJC_CLASSLIST_REFERENCES_$_.62
+_OBJC_SELECTOR_REFERENCES_.64
+_OBJC_CLASSLIST_REFERENCES_$_.65
+_OBJC_CLASSLIST_REFERENCES_$_.66
+_OBJC_SELECTOR_REFERENCES_.68
+_OBJC_CLASSLIST_REFERENCES_$_.69
+_OBJC_SELECTOR_REFERENCES_.71
+_OBJC_SELECTOR_REFERENCES_.77
+_OBJC_SELECTOR_REFERENCES_.79
+_OBJC_SELECTOR_REFERENCES_.83
+_OBJC_SELECTOR_REFERENCES_.85
+_OBJC_CLASSLIST_REFERENCES_$_.86
+_OBJC_CLASSLIST_REFERENCES_$_.87
+_OBJC_SELECTOR_REFERENCES_.89
+_OBJC_SELECTOR_REFERENCES_.91
+_OBJC_IVAR_$_SFGeometryCollection._geometries
+_OBJC_SELECTOR_REFERENCES_.93
+_OBJC_SELECTOR_REFERENCES_.95
+_OBJC_SELECTOR_REFERENCES_.97
+__OBJC_$_CLASS_METHODS_SFGeometryCollection
+__OBJC_METACLASS_RO_$_SFGeometryCollection
+__OBJC_$_INSTANCE_METHODS_SFGeometryCollection
+__OBJC_$_INSTANCE_VARIABLES_SFGeometryCollection
+__OBJC_$_PROP_LIST_SFGeometryCollection
+__OBJC_CLASS_RO_$_SFGeometryCollection
+/Users/albintornqvist/projects/GlobalForester-iOS/Carthage/Checkouts/simple-features-ios/sf-ios/SFGeometryCollection.m
+sf-ios/SFGeometryCollection.m
+sf-ios/SFGeometryCollection.h
+-[SFExtendedGeometryCollection initWithGeometryCollection:]
+-[SFExtendedGeometryCollection updateGeometryType]
+-[SFExtendedGeometryCollection geometryType]
+-[SFExtendedGeometryCollection mutableCopyWithZone:]
++[SFExtendedGeometryCollection supportsSecureCoding]
+-[SFExtendedGeometryCollection encodeWithCoder:]
+-[SFExtendedGeometryCollection initWithCoder:]
+-[SFExtendedGeometryCollection isEqualToExtendedGeometryCollection:]
+-[SFExtendedGeometryCollection isEqual:]
+-[SFExtendedGeometryCollection hash]
+-[SFExtendedGeometryCollection extendedGeometryType]
+-[SFExtendedGeometryCollection setExtendedGeometryType:]
+_OBJC_SELECTOR_REFERENCES_.18
+_OBJC_SELECTOR_REFERENCES_.20
+_OBJC_CLASSLIST_REFERENCES_$_.21
+_OBJC_CLASSLIST_REFERENCES_$_.30
+_OBJC_SELECTOR_REFERENCES_.32
+_OBJC_SELECTOR_REFERENCES_.34
+_OBJC_SELECTOR_REFERENCES_.38
+_OBJC_SELECTOR_REFERENCES_.40
+_OBJC_SELECTOR_REFERENCES_.42
+_OBJC_IVAR_$_SFExtendedGeometryCollection._extendedGeometryType
+_OBJC_SELECTOR_REFERENCES_.44
+_OBJC_SELECTOR_REFERENCES_.48
+_OBJC_SELECTOR_REFERENCES_.50
+_OBJC_SELECTOR_REFERENCES_.52
+__OBJC_$_CLASS_METHODS_SFExtendedGeometryCollection
+__OBJC_METACLASS_RO_$_SFExtendedGeometryCollection
+__OBJC_$_INSTANCE_METHODS_SFExtendedGeometryCollection
+__OBJC_$_INSTANCE_VARIABLES_SFExtendedGeometryCollection
+__OBJC_$_PROP_LIST_SFExtendedGeometryCollection
+__OBJC_CLASS_RO_$_SFExtendedGeometryCollection
+/Users/albintornqvist/projects/GlobalForester-iOS/Carthage/Checkouts/simple-features-ios/sf-ios/extended/SFExtendedGeometryCollection.m
+sf-ios/extended/SFExtendedGeometryCollection.m
+-[SFCircularString init]
+-[SFCircularString initWithHasZ:andHasM:]
+-[SFCircularString initWithPoints:]
+-[SFCircularString mutableCopyWithZone:]
+_OBJC_CLASSLIST_REFERENCES_$_.9
+_OBJC_SELECTOR_REFERENCES_.11
+_OBJC_SELECTOR_REFERENCES_.13
+_OBJC_SELECTOR_REFERENCES_.15
+__OBJC_METACLASS_RO_$_SFCircularString
+__OBJC_$_INSTANCE_METHODS_SFCircularString
+__OBJC_CLASS_RO_$_SFCircularString
+/Users/albintornqvist/projects/GlobalForester-iOS/Carthage/Checkouts/simple-features-ios/sf-ios/SFCircularString.m
+sf-ios/SFCircularString.m
++[SFGeometryUtils dimensionOfGeometry:]
++[SFGeometryUtils distanceBetweenPoint1:andPoint2:]
++[SFGeometryUtils centroidOfGeometry:]
++[SFGeometryUtils minimizeGeometry:withMaxX:]
++[SFGeometryUtils minimizeLineString:withMaxX:]
++[SFGeometryUtils minimizeMultiLineString:withMaxX:]
++[SFGeometryUtils minimizePolygon:withMaxX:]
++[SFGeometryUtils minimizeMultiPolygon:withMaxX:]
++[SFGeometryUtils minimizeCompoundCurve:withMaxX:]
++[SFGeometryUtils minimizeCurvePolygon:withMaxX:]
++[SFGeometryUtils minimizePolyhedralSurface:withMaxX:]
++[SFGeometryUtils normalizeGeometry:withMaxX:]
++[SFGeometryUtils normalizePoint:withMaxX:]
++[SFGeometryUtils normalizeMultiPoint:withMaxX:]
++[SFGeometryUtils normalizeLineString:withMaxX:]
++[SFGeometryUtils normalizeMultiLineString:withMaxX:]
++[SFGeometryUtils normalizePolygon:withMaxX:]
++[SFGeometryUtils normalizeMultiPolygon:withMaxX:]
++[SFGeometryUtils normalizeCompoundCurve:withMaxX:]
++[SFGeometryUtils normalizeCurvePolygon:withMaxX:]
++[SFGeometryUtils normalizePolyhedralSurface:withMaxX:]
++[SFGeometryUtils simplifyPoints:withTolerance:]
++[SFGeometryUtils simplifyPoints:withTolerance:andStartIndex:andEndIndex:]
++[SFGeometryUtils perpendicularDistanceBetweenPoint:lineStart:lineEnd:]
++[SFGeometryUtils point:inPolygon:]
++[SFGeometryUtils point:inPolygon:withEpsilon:]
++[SFGeometryUtils point:inPolygonRing:]
++[SFGeometryUtils point:inPolygonRing:withEpsilon:]
++[SFGeometryUtils point:inPolygonPoints:]
++[SFGeometryUtils point:inPolygonPoints:withEpsilon:]
++[SFGeometryUtils point:onPolygonEdge:]
++[SFGeometryUtils point:onPolygonEdge:withEpsilon:]
++[SFGeometryUtils point:onPolygonRingEdge:]
++[SFGeometryUtils point:onPolygonRingEdge:withEpsilon:]
++[SFGeometryUtils point:onPolygonPointsEdge:]
++[SFGeometryUtils point:onPolygonPointsEdge:withEpsilon:]
++[SFGeometryUtils closedPolygon:]
++[SFGeometryUtils closedPolygonRing:]
++[SFGeometryUtils closedPolygonPoints:]
++[SFGeometryUtils point:onLine:]
++[SFGeometryUtils point:onLine:withEpsilon:]
++[SFGeometryUtils point:onLinePoints:]
++[SFGeometryUtils point:onLinePoints:withEpsilon:]
++[SFGeometryUtils point:onPathPoint1:andPoint2:]
++[SFGeometryUtils point:onPathPoint1:andPoint2:withEpsilon:]
++[SFGeometryUtils point:onPath:withEpsilon:andCircular:]
++[SFGeometryUtils hasZ:]
++[SFGeometryUtils hasM:]
++[SFGeometryUtils parentHierarchyOfType:]
++[SFGeometryUtils parentTypeOfType:]
++[SFGeometryUtils childHierarchyOfType:]
++[SFGeometryUtils childTypesOfType:]
++[SFGeometryUtils encodeGeometry:]
++[SFGeometryUtils decodeGeometry:]
+_OBJC_SELECTOR_REFERENCES_.16
+_OBJC_CLASSLIST_REFERENCES_$_.17
+_OBJC_CLASSLIST_REFERENCES_$_.22
+_OBJC_CLASSLIST_REFERENCES_$_.23
+_OBJC_SELECTOR_REFERENCES_.43
+_OBJC_SELECTOR_REFERENCES_.45
+_OBJC_CLASSLIST_REFERENCES_$_.46
+_OBJC_SELECTOR_REFERENCES_.58
+_OBJC_SELECTOR_REFERENCES_.62
+_OBJC_SELECTOR_REFERENCES_.66
+_OBJC_SELECTOR_REFERENCES_.70
+_OBJC_SELECTOR_REFERENCES_.72
+_OBJC_SELECTOR_REFERENCES_.74
+_OBJC_SELECTOR_REFERENCES_.76
+_OBJC_SELECTOR_REFERENCES_.78
+_OBJC_SELECTOR_REFERENCES_.80
+_OBJC_SELECTOR_REFERENCES_.82
+_OBJC_CLASSLIST_REFERENCES_$_.83
+_OBJC_SELECTOR_REFERENCES_.87
+_OBJC_CLASSLIST_REFERENCES_$_.90
+_OBJC_SELECTOR_REFERENCES_.92
+_OBJC_SELECTOR_REFERENCES_.94
+_OBJC_SELECTOR_REFERENCES_.96
+_OBJC_SELECTOR_REFERENCES_.98
+_OBJC_SELECTOR_REFERENCES_.100
+_OBJC_SELECTOR_REFERENCES_.102
+_OBJC_SELECTOR_REFERENCES_.104
+_OBJC_SELECTOR_REFERENCES_.106
+_OBJC_SELECTOR_REFERENCES_.108
+_OBJC_SELECTOR_REFERENCES_.110
+_OBJC_SELECTOR_REFERENCES_.112
+_OBJC_SELECTOR_REFERENCES_.114
+_OBJC_SELECTOR_REFERENCES_.116
+_OBJC_SELECTOR_REFERENCES_.118
+_OBJC_SELECTOR_REFERENCES_.120
+_OBJC_SELECTOR_REFERENCES_.122
+_OBJC_SELECTOR_REFERENCES_.124
+_OBJC_SELECTOR_REFERENCES_.126
+_OBJC_SELECTOR_REFERENCES_.128
+_OBJC_CLASSLIST_REFERENCES_$_.129
+_OBJC_SELECTOR_REFERENCES_.131
+_OBJC_SELECTOR_REFERENCES_.133
+_OBJC_CLASSLIST_REFERENCES_$_.134
+_OBJC_SELECTOR_REFERENCES_.136
+_OBJC_SELECTOR_REFERENCES_.138
+_OBJC_CLASSLIST_REFERENCES_$_.143
+_OBJC_SELECTOR_REFERENCES_.145
+_OBJC_CLASSLIST_REFERENCES_$_.146
+_OBJC_SELECTOR_REFERENCES_.148
+_OBJC_SELECTOR_REFERENCES_.150
+_OBJC_SELECTOR_REFERENCES_.152
+_OBJC_SELECTOR_REFERENCES_.154
+_OBJC_CLASSLIST_REFERENCES_$_.155
+_OBJC_SELECTOR_REFERENCES_.157
+_OBJC_CLASSLIST_REFERENCES_$_.162
+_OBJC_CLASSLIST_REFERENCES_$_.163
+_OBJC_SELECTOR_REFERENCES_.165
+_OBJC_SELECTOR_REFERENCES_.167
+__OBJC_$_CLASS_METHODS_SFGeometryUtils
+__OBJC_METACLASS_RO_$_SFGeometryUtils
+__OBJC_CLASS_RO_$_SFGeometryUtils
+/Users/albintornqvist/projects/GlobalForester-iOS/Carthage/Checkouts/simple-features-ios/sf-ios/util/SFGeometryUtils.m
+sf-ios/util/SFGeometryUtils.m
+NSMakeRange
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS15.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSRange.h
+-[SFMultiCurve initWithType:andHasZ:andHasM:]
+-[SFMultiCurve curves]
+-[SFMultiCurve setCurves:]
+-[SFMultiCurve addCurve:]
+-[SFMultiCurve addCurves:]
+-[SFMultiCurve numCurves]
+-[SFMultiCurve curveAtIndex:]
+-[SFMultiCurve isClosed]
+__OBJC_METACLASS_RO_$_SFMultiCurve
+__OBJC_$_INSTANCE_METHODS_SFMultiCurve
+__OBJC_CLASS_RO_$_SFMultiCurve
+/Users/albintornqvist/projects/GlobalForester-iOS/Carthage/Checkouts/simple-features-ios/sf-ios/SFMultiCurve.m
+sf-ios/SFMultiCurve.m
++[SFGeometryEnvelopeBuilder buildEnvelopeWithGeometry:]
++[SFGeometryEnvelopeBuilder buildEnvelope:andGeometry:]
++[SFGeometryEnvelopeBuilder updateHasZandMWithEnvelope:andGeometry:]
++[SFGeometryEnvelopeBuilder addPoint:andEnvelope:]
++[SFGeometryEnvelopeBuilder addMultiPoint:andEnvelope:]
++[SFGeometryEnvelopeBuilder addLineString:andEnvelope:]
++[SFGeometryEnvelopeBuilder addMultiLineString:andEnvelope:]
++[SFGeometryEnvelopeBuilder addPolygon:andEnvelope:]
++[SFGeometryEnvelopeBuilder addMultiPolygon:andEnvelope:]
++[SFGeometryEnvelopeBuilder addCompoundCurve:andEnvelope:]
++[SFGeometryEnvelopeBuilder addCurvePolygon:andEnvelope:]
++[SFGeometryEnvelopeBuilder addPolyhedralSurface:andEnvelope:]
+_OBJC_SELECTOR_REFERENCES_.22
+_OBJC_SELECTOR_REFERENCES_.24
+_OBJC_SELECTOR_REFERENCES_.26
+_OBJC_SELECTOR_REFERENCES_.28
+_OBJC_SELECTOR_REFERENCES_.30
+_OBJC_SELECTOR_REFERENCES_.36
+_OBJC_SELECTOR_REFERENCES_.84
+_OBJC_SELECTOR_REFERENCES_.86
+__OBJC_$_CLASS_METHODS_SFGeometryEnvelopeBuilder
+__OBJC_METACLASS_RO_$_SFGeometryEnvelopeBuilder
+__OBJC_CLASS_RO_$_SFGeometryEnvelopeBuilder
+/Users/albintornqvist/projects/GlobalForester-iOS/Carthage/Checkouts/simple-features-ios/sf-ios/util/SFGeometryEnvelopeBuilder.m
+sf-ios/util/SFGeometryEnvelopeBuilder.m
+-[SFByteWriter init]
+-[SFByteWriter initWithByteOrder:]
+-[SFByteWriter close]
+-[SFByteWriter data]
+-[SFByteWriter size]
+-[SFByteWriter writeString:]
+-[SFByteWriter writeByte:]
+-[SFByteWriter writeData:]
+-[SFByteWriter writeInt:]
+-[SFByteWriter writeDouble:]
+-[SFByteWriter nextByte]
+-[SFByteWriter setNextByte:]
+-[SFByteWriter os]
+-[SFByteWriter setOs:]
+-[SFByteWriter byteOrder]
+-[SFByteWriter setByteOrder:]
+-[SFByteWriter .cxx_destruct]
+__OBJC_METACLASS_RO_$_SFByteWriter
+__OBJC_$_INSTANCE_METHODS_SFByteWriter
+_OBJC_IVAR_$_SFByteWriter._nextByte
+_OBJC_IVAR_$_SFByteWriter._os
+_OBJC_IVAR_$_SFByteWriter._byteOrder
+__OBJC_$_INSTANCE_VARIABLES_SFByteWriter
+__OBJC_$_PROP_LIST_SFByteWriter
+__OBJC_CLASS_RO_$_SFByteWriter
+/Users/albintornqvist/projects/GlobalForester-iOS/Carthage/Checkouts/simple-features-ios/sf-ios/util/SFByteWriter.m
+sf-ios/util/SFByteWriter.m
+sf-ios/util/SFByteWriter.h
+CFSwapInt64HostToBig
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS15.0.sdk/System/Library/Frameworks/CoreFoundation.framework/Headers/CFByteOrder.h
++[SFGeometryPrinter geometryString:]
++[SFGeometryPrinter addPoint:toMessage:]
++[SFGeometryPrinter addMultiPoint:toMessage:]
++[SFGeometryPrinter addLineString:toMessage:]
++[SFGeometryPrinter addMultiLineString:toMessage:]
++[SFGeometryPrinter addPolygon:toMessage:]
++[SFGeometryPrinter addMultiPolygon:toMessage:]
++[SFGeometryPrinter addCompoundCurve:toMessage:]
++[SFGeometryPrinter addCurvePolygon:toMessage:]
++[SFGeometryPrinter addPolyhedralSurface:toMessage:]
+_OBJC_CLASSLIST_REFERENCES_$_.41
+_OBJC_SELECTOR_REFERENCES_.53
+_OBJC_SELECTOR_REFERENCES_.57
+_OBJC_SELECTOR_REFERENCES_.59
+_OBJC_SELECTOR_REFERENCES_.63
+_OBJC_SELECTOR_REFERENCES_.67
+_OBJC_SELECTOR_REFERENCES_.69
+_OBJC_SELECTOR_REFERENCES_.75
+__OBJC_$_CLASS_METHODS_SFGeometryPrinter
+__OBJC_METACLASS_RO_$_SFGeometryPrinter
+__OBJC_CLASS_RO_$_SFGeometryPrinter
+/Users/albintornqvist/projects/GlobalForester-iOS/Carthage/Checkouts/simple-features-ios/sf-ios/util/SFGeometryPrinter.m
+sf-ios/util/SFGeometryPrinter.m
+-[SFCentroidPoint init]
+-[SFCentroidPoint initWithGeometry:]
+-[SFCentroidPoint addGeometry:]
+-[SFCentroidPoint addPoint:]
+-[SFCentroidPoint centroid]
+-[SFCentroidPoint count]
+-[SFCentroidPoint setCount:]
+-[SFCentroidPoint sum]
+-[SFCentroidPoint setSum:]
+-[SFCentroidPoint .cxx_destruct]
+_OBJC_CLASSLIST_REFERENCES_$_.19
+__OBJC_METACLASS_RO_$_SFCentroidPoint
+__OBJC_$_INSTANCE_METHODS_SFCentroidPoint
+_OBJC_IVAR_$_SFCentroidPoint._count
+_OBJC_IVAR_$_SFCentroidPoint._sum
+__OBJC_$_INSTANCE_VARIABLES_SFCentroidPoint
+__OBJC_$_PROP_LIST_SFCentroidPoint
+__OBJC_CLASS_RO_$_SFCentroidPoint
+/Users/albintornqvist/projects/GlobalForester-iOS/Carthage/Checkouts/simple-features-ios/sf-ios/util/centroid/SFCentroidPoint.m
+sf-ios/util/centroid/SFCentroidPoint.m
+-[SFEvent initWithEdge:andRing:andPoint:andType:]
+-[SFEvent edge]
+-[SFEvent ring]
+-[SFEvent point]
+-[SFEvent type]
+-[SFEvent compare:]
++[SFEvent sort:]
+-[SFEvent setEdge:]
+-[SFEvent setRing:]
+-[SFEvent setPoint:]
+-[SFEvent setType:]
+-[SFEvent .cxx_destruct]
+_OBJC_CLASSLIST_REFERENCES_$_.13
+_OBJC_CLASSLIST_REFERENCES_$_.16
+__OBJC_$_CLASS_METHODS_SFEvent
+__OBJC_METACLASS_RO_$_SFEvent
+__OBJC_$_INSTANCE_METHODS_SFEvent
+_OBJC_IVAR_$_SFEvent._edge
+_OBJC_IVAR_$_SFEvent._ring
+_OBJC_IVAR_$_SFEvent._type
+_OBJC_IVAR_$_SFEvent._point
+__OBJC_$_INSTANCE_VARIABLES_SFEvent
+__OBJC_$_PROP_LIST_SFEvent
+__OBJC_CLASS_RO_$_SFEvent
+/Users/albintornqvist/projects/GlobalForester-iOS/Carthage/Checkouts/simple-features-ios/sf-ios/util/sweep/SFEvent.m
+sf-ios/util/sweep/SFEvent.m
+-[SFCentroidCurve init]
+-[SFCentroidCurve initWithGeometry:]
+-[SFCentroidCurve addGeometry:]
+-[SFCentroidCurve addLineStrings:]
+-[SFCentroidCurve addLineString:]
+-[SFCentroidCurve addPoints:]
+-[SFCentroidCurve centroid]
+-[SFCentroidCurve sum]
+-[SFCentroidCurve setSum:]
+-[SFCentroidCurve totalLength]
+-[SFCentroidCurve setTotalLength:]
+-[SFCentroidCurve .cxx_destruct]
+_OBJC_CLASSLIST_REFERENCES_$_.34
+_OBJC_CLASSLIST_REFERENCES_$_.45
+_OBJC_SELECTOR_REFERENCES_.47
+_OBJC_SELECTOR_REFERENCES_.55
+__OBJC_METACLASS_RO_$_SFCentroidCurve
+__OBJC_$_INSTANCE_METHODS_SFCentroidCurve
+_OBJC_IVAR_$_SFCentroidCurve._sum
+_OBJC_IVAR_$_SFCentroidCurve._totalLength
+__OBJC_$_INSTANCE_VARIABLES_SFCentroidCurve
+__OBJC_$_PROP_LIST_SFCentroidCurve
+__OBJC_CLASS_RO_$_SFCentroidCurve
+/Users/albintornqvist/projects/GlobalForester-iOS/Carthage/Checkouts/simple-features-ios/sf-ios/util/centroid/SFCentroidCurve.m
+sf-ios/util/centroid/SFCentroidCurve.m
+-[SFPolygon init]
+-[SFPolygon initWithHasZ:andHasM:]
+-[SFPolygon initWithRings:]
+-[SFPolygon initWithRing:]
+-[SFPolygon initWithType:andHasZ:andHasM:]
+-[SFPolygon lineStrings]
+-[SFPolygon setRings:]
+-[SFPolygon ringAtIndex:]
+-[SFPolygon exteriorRing]
+-[SFPolygon interiorRingAtIndex:]
+-[SFPolygon isSimple]
+-[SFPolygon mutableCopyWithZone:]
+_OBJC_CLASSLIST_REFERENCES_$_.26
+__OBJC_METACLASS_RO_$_SFPolygon
+__OBJC_$_INSTANCE_METHODS_SFPolygon
+__OBJC_CLASS_RO_$_SFPolygon
+/Users/albintornqvist/projects/GlobalForester-iOS/Carthage/Checkouts/simple-features-ios/sf-ios/SFPolygon.m
+sf-ios/SFPolygon.m
+-[SFLineString init]
+-[SFLineString initWithHasZ:andHasM:]
+-[SFLineString initWithPoints:]
+-[SFLineString initWithType:andHasZ:andHasM:]
+-[SFLineString addPoint:]
+-[SFLineString addPoints:]
+-[SFLineString numPoints]
+-[SFLineString pointAtIndex:]
+-[SFLineString startPoint]
+-[SFLineString endPoint]
+-[SFLineString isEmpty]
+-[SFLineString isSimple]
+-[SFLineString mutableCopyWithZone:]
++[SFLineString supportsSecureCoding]
+-[SFLineString encodeWithCoder:]
+-[SFLineString initWithCoder:]
+-[SFLineString isEqualToLineString:]
+-[SFLineString isEqual:]
+-[SFLineString hash]
+-[SFLineString points]
+-[SFLineString setPoints:]
+-[SFLineString .cxx_destruct]
+_OBJC_CLASSLIST_REFERENCES_$_.28
+_OBJC_CLASSLIST_REFERENCES_$_.31
+_OBJC_CLASSLIST_REFERENCES_$_.44
+_OBJC_IVAR_$_SFLineString._points
+__OBJC_$_CLASS_METHODS_SFLineString
+__OBJC_METACLASS_RO_$_SFLineString
+__OBJC_$_INSTANCE_METHODS_SFLineString
+__OBJC_$_INSTANCE_VARIABLES_SFLineString
+__OBJC_$_PROP_LIST_SFLineString
+__OBJC_CLASS_RO_$_SFLineString
+/Users/albintornqvist/projects/GlobalForester-iOS/Carthage/Checkouts/simple-features-ios/sf-ios/SFLineString.m
+sf-ios/SFLineString.m
+sf-ios/SFLineString.h
+-[SFMultiPolygon init]
+-[SFMultiPolygon initWithHasZ:andHasM:]
+-[SFMultiPolygon initWithPolygons:]
+-[SFMultiPolygon initWithPolygon:]
+-[SFMultiPolygon polygons]
+-[SFMultiPolygon setPolygons:]
+-[SFMultiPolygon addPolygon:]
+-[SFMultiPolygon addPolygons:]
+-[SFMultiPolygon numPolygons]
+-[SFMultiPolygon polygonAtIndex:]
+-[SFMultiPolygon mutableCopyWithZone:]
+_OBJC_CLASSLIST_REFERENCES_$_.27
+__OBJC_METACLASS_RO_$_SFMultiPolygon
+__OBJC_$_INSTANCE_METHODS_SFMultiPolygon
+__OBJC_CLASS_RO_$_SFMultiPolygon
+/Users/albintornqvist/projects/GlobalForester-iOS/Carthage/Checkouts/simple-features-ios/sf-ios/SFMultiPolygon.m
+sf-ios/SFMultiPolygon.m
+-[SFPolyhedralSurface init]
+-[SFPolyhedralSurface initWithHasZ:andHasM:]
+-[SFPolyhedralSurface initWithPolygons:]
+-[SFPolyhedralSurface initWithPolygon:]
+-[SFPolyhedralSurface initWithType:andHasZ:andHasM:]
+-[SFPolyhedralSurface patches]
+-[SFPolyhedralSurface setPatches:]
+-[SFPolyhedralSurface addPolygon:]
+-[SFPolyhedralSurface addPatch:]
+-[SFPolyhedralSurface addPolygons:]
+-[SFPolyhedralSurface addPatches:]
+-[SFPolyhedralSurface numPolygons]
+-[SFPolyhedralSurface numPatches]
+-[SFPolyhedralSurface polygonAtIndex:]
+-[SFPolyhedralSurface patchAtIndex:]
+-[SFPolyhedralSurface isEmpty]
+-[SFPolyhedralSurface isSimple]
+-[SFPolyhedralSurface mutableCopyWithZone:]
++[SFPolyhedralSurface supportsSecureCoding]
+-[SFPolyhedralSurface encodeWithCoder:]
+-[SFPolyhedralSurface initWithCoder:]
+-[SFPolyhedralSurface isEqualToPolyhedralSurface:]
+-[SFPolyhedralSurface isEqual:]
+-[SFPolyhedralSurface hash]
+-[SFPolyhedralSurface polygons]
+-[SFPolyhedralSurface setPolygons:]
+-[SFPolyhedralSurface .cxx_destruct]
+_OBJC_CLASSLIST_REFERENCES_$_.36
+_OBJC_CLASSLIST_REFERENCES_$_.55
+_OBJC_IVAR_$_SFPolyhedralSurface._polygons
+_OBJC_SELECTOR_REFERENCES_.61
+_OBJC_SELECTOR_REFERENCES_.65
+__OBJC_$_CLASS_METHODS_SFPolyhedralSurface
+__OBJC_METACLASS_RO_$_SFPolyhedralSurface
+__OBJC_$_INSTANCE_METHODS_SFPolyhedralSurface
+__OBJC_$_INSTANCE_VARIABLES_SFPolyhedralSurface
+__OBJC_$_PROP_LIST_SFPolyhedralSurface
+__OBJC_CLASS_RO_$_SFPolyhedralSurface
+/Users/albintornqvist/projects/GlobalForester-iOS/Carthage/Checkouts/simple-features-ios/sf-ios/SFPolyhedralSurface.m
+sf-ios/SFPolyhedralSurface.m
+sf-ios/SFPolyhedralSurface.h
+-[SFMultiLineString init]
+-[SFMultiLineString initWithHasZ:andHasM:]
+-[SFMultiLineString initWithLineStrings:]
+-[SFMultiLineString initWithLineString:]
+-[SFMultiLineString lineStrings]
+-[SFMultiLineString setLineStrings:]
+-[SFMultiLineString addLineString:]
+-[SFMultiLineString addLineStrings:]
+-[SFMultiLineString numLineStrings]
+-[SFMultiLineString lineStringAtIndex:]
+-[SFMultiLineString mutableCopyWithZone:]
+__OBJC_METACLASS_RO_$_SFMultiLineString
+__OBJC_$_INSTANCE_METHODS_SFMultiLineString
+__OBJC_CLASS_RO_$_SFMultiLineString
+/Users/albintornqvist/projects/GlobalForester-iOS/Carthage/Checkouts/simple-features-ios/sf-ios/SFMultiLineString.m
+sf-ios/SFMultiLineString.m
++[SFGeometryTypes name:]
++[SFGeometryTypes fromName:]
+_OBJC_CLASSLIST_REFERENCES_$_.37
+__OBJC_$_CLASS_METHODS_SFGeometryTypes
+__OBJC_METACLASS_RO_$_SFGeometryTypes
+__OBJC_CLASS_RO_$_SFGeometryTypes
+/Users/albintornqvist/projects/GlobalForester-iOS/Carthage/Checkouts/simple-features-ios/sf-ios/SFGeometryTypes.m
+sf-ios/SFGeometryTypes.m
+-[SFCurvePolygon init]
+-[SFCurvePolygon initWithHasZ:andHasM:]
+-[SFCurvePolygon initWithRings:]
+-[SFCurvePolygon initWithRing:]
+-[SFCurvePolygon initWithType:andHasZ:andHasM:]
+-[SFCurvePolygon addRing:]
+-[SFCurvePolygon addRings:]
+-[SFCurvePolygon numRings]
+-[SFCurvePolygon ringAtIndex:]
+-[SFCurvePolygon exteriorRing]
+-[SFCurvePolygon numInteriorRings]
+-[SFCurvePolygon interiorRingAtIndex:]
+-[SFCurvePolygon isEmpty]
+-[SFCurvePolygon isSimple]
+-[SFCurvePolygon mutableCopyWithZone:]
++[SFCurvePolygon supportsSecureCoding]
+-[SFCurvePolygon encodeWithCoder:]
+-[SFCurvePolygon initWithCoder:]
+-[SFCurvePolygon isEqualToCurvePolygon:]
+-[SFCurvePolygon isEqual:]
+-[SFCurvePolygon hash]
+-[SFCurvePolygon rings]
+-[SFCurvePolygon setRings:]
+-[SFCurvePolygon .cxx_destruct]
+_OBJC_CLASSLIST_REFERENCES_$_.35
+_OBJC_CLASSLIST_REFERENCES_$_.49
+_OBJC_IVAR_$_SFCurvePolygon._rings
+__OBJC_$_CLASS_METHODS_SFCurvePolygon
+__OBJC_METACLASS_RO_$_SFCurvePolygon
+__OBJC_$_INSTANCE_METHODS_SFCurvePolygon
+__OBJC_$_INSTANCE_VARIABLES_SFCurvePolygon
+__OBJC_$_PROP_LIST_SFCurvePolygon
+__OBJC_CLASS_RO_$_SFCurvePolygon
+/Users/albintornqvist/projects/GlobalForester-iOS/Carthage/Checkouts/simple-features-ios/sf-ios/SFCurvePolygon.m
+sf-ios/SFCurvePolygon.m
+sf-ios/SFCurvePolygon.h
+-[SFTextReader initWithText:]
+-[SFTextReader text]
+-[SFTextReader readToken]
+-[SFTextReader peekToken]
+-[SFTextReader readDouble]
+-[SFTextReader isTokenCharacter:]
+-[SFTextReader setText:]
+-[SFTextReader nextToken]
+-[SFTextReader setNextToken:]
+-[SFTextReader nextCharacterNum]
+-[SFTextReader setNextCharacterNum:]
+-[SFTextReader .cxx_destruct]
+__OBJC_METACLASS_RO_$_SFTextReader
+__OBJC_$_INSTANCE_METHODS_SFTextReader
+_OBJC_IVAR_$_SFTextReader._nextCharacterNum
+_OBJC_IVAR_$_SFTextReader._text
+_OBJC_IVAR_$_SFTextReader._nextToken
+__OBJC_$_INSTANCE_VARIABLES_SFTextReader
+__OBJC_$_PROP_LIST_SFTextReader
+__OBJC_CLASS_RO_$_SFTextReader
+/Users/albintornqvist/projects/GlobalForester-iOS/Carthage/Checkouts/simple-features-ios/sf-ios/util/SFTextReader.m
+sf-ios/util/SFTextReader.m
+-[SFTriangle init]
+-[SFTriangle initWithHasZ:andHasM:]
+-[SFTriangle initWithRings:]
+-[SFTriangle initWithRing:]
+-[SFTriangle mutableCopyWithZone:]
+__OBJC_METACLASS_RO_$_SFTriangle
+__OBJC_$_INSTANCE_METHODS_SFTriangle
+__OBJC_CLASS_RO_$_SFTriangle
+/Users/albintornqvist/projects/GlobalForester-iOS/Carthage/Checkouts/simple-features-ios/sf-ios/SFTriangle.m
+sf-ios/SFTriangle.m
++[SFShamosHoey simplePolygon:]
++[SFShamosHoey simplePolygonPoints:]
++[SFShamosHoey simplePolygonRingPoints:]
++[SFShamosHoey simplePolygonRing:]
++[SFShamosHoey simplePolygonRings:]
+_OBJC_CLASSLIST_REFERENCES_$_.11
+_OBJC_CLASSLIST_REFERENCES_$_.33
+__OBJC_$_CLASS_METHODS_SFShamosHoey
+__OBJC_METACLASS_RO_$_SFShamosHoey
+__OBJC_CLASS_RO_$_SFShamosHoey
+/Users/albintornqvist/projects/GlobalForester-iOS/Carthage/Checkouts/simple-features-ios/sf-ios/util/sweep/SFShamosHoey.m
+sf-ios/util/sweep/SFShamosHoey.m
+__OBJC_METACLASS_RO_$_SFEventTypes
+__OBJC_CLASS_RO_$_SFEventTypes
+/Users/albintornqvist/projects/GlobalForester-iOS/Carthage/Checkouts/simple-features-ios/sf-ios/util/sweep/SFEventTypes.m
+-[SFMultiPoint init]
+-[SFMultiPoint initWithHasZ:andHasM:]
+-[SFMultiPoint initWithPoints:]
+-[SFMultiPoint initWithPoint:]
+-[SFMultiPoint points]
+-[SFMultiPoint setPoints:]
+-[SFMultiPoint addPoint:]
+-[SFMultiPoint addPoints:]
+-[SFMultiPoint numPoints]
+-[SFMultiPoint pointAtIndex:]
+-[SFMultiPoint isSimple]
+-[SFMultiPoint mutableCopyWithZone:]
+__OBJC_METACLASS_RO_$_SFMultiPoint
+__OBJC_$_INSTANCE_METHODS_SFMultiPoint
+__OBJC_CLASS_RO_$_SFMultiPoint
+/Users/albintornqvist/projects/GlobalForester-iOS/Carthage/Checkouts/simple-features-ios/sf-ios/SFMultiPoint.m
+sf-ios/SFMultiPoint.m
+-[SFPoint init]
+-[SFPoint initWithXValue:andYValue:]
+-[SFPoint initWithX:andY:]
+-[SFPoint initWithX:andY:andZ:]
+-[SFPoint initWithXValue:andYValue:andZ:]
+-[SFPoint initWithXValue:andYValue:andZValue:]
+-[SFPoint initWithX:andY:andZ:andM:]
+-[SFPoint initWithXValue:andYValue:andZ:andM:]
+-[SFPoint initWithXValue:andYValue:andZValue:andMValue:]
+-[SFPoint initWithHasZ:andHasM:andX:andY:]
+-[SFPoint initWithHasZ:andHasM:andXValue:andYValue:]
+-[SFPoint setZ:]
+-[SFPoint setM:]
+-[SFPoint setXValue:]
+-[SFPoint setYValue:]
+-[SFPoint setZValue:]
+-[SFPoint setMValue:]
+-[SFPoint isEmpty]
+-[SFPoint isSimple]
+-[SFPoint mutableCopyWithZone:]
++[SFPoint supportsSecureCoding]
+-[SFPoint encodeWithCoder:]
+-[SFPoint initWithCoder:]
+-[SFPoint isEqualToPoint:]
+-[SFPoint isEqual:]
+-[SFPoint hash]
+-[SFPoint x]
+-[SFPoint setX:]
+-[SFPoint y]
+-[SFPoint setY:]
+-[SFPoint z]
+-[SFPoint m]
+-[SFPoint .cxx_destruct]
+_OBJC_IVAR_$_SFPoint._z
+_OBJC_IVAR_$_SFPoint._m
+_OBJC_IVAR_$_SFPoint._x
+_OBJC_IVAR_$_SFPoint._y
+__OBJC_$_CLASS_METHODS_SFPoint
+__OBJC_METACLASS_RO_$_SFPoint
+__OBJC_$_INSTANCE_METHODS_SFPoint
+__OBJC_$_INSTANCE_VARIABLES_SFPoint
+__OBJC_$_PROP_LIST_SFPoint
+__OBJC_CLASS_RO_$_SFPoint
+/Users/albintornqvist/projects/GlobalForester-iOS/Carthage/Checkouts/simple-features-ios/sf-ios/SFPoint.m
+sf-ios/SFPoint.m
+sf-ios/SFPoint.h
+-[SFGeometryEnvelope init]
+-[SFGeometryEnvelope initWithHasZ:andHasM:]
+-[SFGeometryEnvelope initWithMinX:andMinY:andMaxX:andMaxY:]
+-[SFGeometryEnvelope initWithMinXDouble:andMinYDouble:andMaxXDouble:andMaxYDouble:]
+-[SFGeometryEnvelope initWithMinX:andMinY:andMinZ:andMaxX:andMaxY:andMaxZ:]
+-[SFGeometryEnvelope initWithMinX:andMinY:andMinZ:andMinM:andMaxX:andMaxY:andMaxZ:andMaxM:]
+-[SFGeometryEnvelope is3D]
+-[SFGeometryEnvelope isMeasured]
+-[SFGeometryEnvelope intersectsWithEnvelope:]
+-[SFGeometryEnvelope intersectsWithEnvelope:withAllowEmpty:]
+-[SFGeometryEnvelope overlapWithEnvelope:]
+-[SFGeometryEnvelope overlapWithEnvelope:withAllowEmpty:]
+-[SFGeometryEnvelope unionWithEnvelope:]
+-[SFGeometryEnvelope containsEnvelope:]
+-[SFGeometryEnvelope mutableCopyWithZone:]
++[SFGeometryEnvelope supportsSecureCoding]
+-[SFGeometryEnvelope encodeWithCoder:]
+-[SFGeometryEnvelope initWithCoder:]
+-[SFGeometryEnvelope isEqualToGeometryEnvelope:]
+-[SFGeometryEnvelope isEqual:]
+-[SFGeometryEnvelope hash]
+-[SFGeometryEnvelope minX]
+-[SFGeometryEnvelope setMinX:]
+-[SFGeometryEnvelope maxX]
+-[SFGeometryEnvelope setMaxX:]
+-[SFGeometryEnvelope minY]
+-[SFGeometryEnvelope setMinY:]
+-[SFGeometryEnvelope maxY]
+-[SFGeometryEnvelope setMaxY:]
+-[SFGeometryEnvelope hasZ]
+-[SFGeometryEnvelope setHasZ:]
+-[SFGeometryEnvelope minZ]
+-[SFGeometryEnvelope setMinZ:]
+-[SFGeometryEnvelope maxZ]
+-[SFGeometryEnvelope setMaxZ:]
+-[SFGeometryEnvelope hasM]
+-[SFGeometryEnvelope setHasM:]
+-[SFGeometryEnvelope minM]
+-[SFGeometryEnvelope setMinM:]
+-[SFGeometryEnvelope maxM]
+-[SFGeometryEnvelope setMaxM:]
+-[SFGeometryEnvelope .cxx_destruct]
+_OBJC_CLASSLIST_REFERENCES_$_.43
+_OBJC_SELECTOR_REFERENCES_.73
+_OBJC_SELECTOR_REFERENCES_.81
+__OBJC_$_CLASS_METHODS_SFGeometryEnvelope
+__OBJC_$_PROTOCOL_INSTANCE_METHODS_NSMutableCopying
+__OBJC_$_PROTOCOL_METHOD_TYPES_NSMutableCopying
+__OBJC_PROTOCOL_$_NSMutableCopying
+__OBJC_LABEL_PROTOCOL_$_NSMutableCopying
+__OBJC_$_PROTOCOL_INSTANCE_METHODS_NSCoding
+__OBJC_$_PROTOCOL_METHOD_TYPES_NSCoding
+__OBJC_PROTOCOL_$_NSCoding
+__OBJC_LABEL_PROTOCOL_$_NSCoding
+__OBJC_CLASS_PROTOCOLS_$_SFGeometryEnvelope
+__OBJC_METACLASS_RO_$_SFGeometryEnvelope
+__OBJC_$_INSTANCE_METHODS_SFGeometryEnvelope
+_OBJC_IVAR_$_SFGeometryEnvelope._hasZ
+_OBJC_IVAR_$_SFGeometryEnvelope._hasM
+_OBJC_IVAR_$_SFGeometryEnvelope._minX
+_OBJC_IVAR_$_SFGeometryEnvelope._maxX
+_OBJC_IVAR_$_SFGeometryEnvelope._minY
+_OBJC_IVAR_$_SFGeometryEnvelope._maxY
+_OBJC_IVAR_$_SFGeometryEnvelope._minZ
+_OBJC_IVAR_$_SFGeometryEnvelope._maxZ
+_OBJC_IVAR_$_SFGeometryEnvelope._minM
+_OBJC_IVAR_$_SFGeometryEnvelope._maxM
+__OBJC_$_INSTANCE_VARIABLES_SFGeometryEnvelope
+__OBJC_$_PROP_LIST_SFGeometryEnvelope
+__OBJC_CLASS_RO_$_SFGeometryEnvelope
+/Users/albintornqvist/projects/GlobalForester-iOS/Carthage/Checkouts/simple-features-ios/sf-ios/SFGeometryEnvelope.m
+sf-ios/SFGeometryEnvelope.m
+sf-ios/SFGeometryEnvelope.h
+-[SFGeometry initWithType:andHasZ:andHasM:]
+-[SFGeometry is3D]
+-[SFGeometry isMeasured]
+-[SFGeometry envelope]
+-[SFGeometry dimension]
+-[SFGeometry centroid]
+-[SFGeometry isEmpty]
+-[SFGeometry isSimple]
+-[SFGeometry updateZM:]
+-[SFGeometry mutableCopyWithZone:]
++[SFGeometry supportsSecureCoding]
+-[SFGeometry encodeWithCoder:]
+-[SFGeometry initWithCoder:]
+-[SFGeometry isEqualToGeometry:]
+-[SFGeometry isEqual:]
+-[SFGeometry hash]
+-[SFGeometry geometryType]
+-[SFGeometry setGeometryType:]
+-[SFGeometry hasZ]
+-[SFGeometry setHasZ:]
+-[SFGeometry hasM]
+-[SFGeometry setHasM:]
+_OBJC_CLASSLIST_REFERENCES_$_.14
+__OBJC_$_CLASS_METHODS_SFGeometry
+__OBJC_$_PROTOCOL_REFS_NSSecureCoding
+__OBJC_$_PROTOCOL_CLASS_METHODS_NSSecureCoding
+__OBJC_$_PROTOCOL_METHOD_TYPES_NSSecureCoding
+__OBJC_$_CLASS_PROP_LIST_NSSecureCoding
+__OBJC_PROTOCOL_$_NSSecureCoding
+__OBJC_LABEL_PROTOCOL_$_NSSecureCoding
+__OBJC_CLASS_PROTOCOLS_$_SFGeometry
+__OBJC_$_CLASS_PROP_LIST_SFGeometry
+__OBJC_METACLASS_RO_$_SFGeometry
+__OBJC_$_INSTANCE_METHODS_SFGeometry
+_OBJC_IVAR_$_SFGeometry._hasZ
+_OBJC_IVAR_$_SFGeometry._hasM
+_OBJC_IVAR_$_SFGeometry._geometryType
+__OBJC_$_INSTANCE_VARIABLES_SFGeometry
+__OBJC_$_PROP_LIST_SFGeometry
+__OBJC_CLASS_RO_$_SFGeometry
+/Users/albintornqvist/projects/GlobalForester-iOS/Carthage/Checkouts/simple-features-ios/sf-ios/SFGeometry.m
+sf-ios/SFGeometry.h
+sf-ios/SFGeometry.m
+-[SFLine init]
+-[SFLine initWithHasZ:andHasM:]
+-[SFLine initWithPoints:]
+-[SFLine setPoints:]
+-[SFLine mutableCopyWithZone:]
+__OBJC_METACLASS_RO_$_SFLine
+__OBJC_$_INSTANCE_METHODS_SFLine
+__OBJC_CLASS_RO_$_SFLine
+/Users/albintornqvist/projects/GlobalForester-iOS/Carthage/Checkouts/simple-features-ios/sf-ios/SFLine.m
+sf-ios/SFLine.m
+__OBJC_METACLASS_RO_$_SFFiniteFilterTypes
+__OBJC_CLASS_RO_$_SFFiniteFilterTypes
+/Users/albintornqvist/projects/GlobalForester-iOS/Carthage/Checkouts/simple-features-ios/sf-ios/util/filter/SFFiniteFilterTypes.m
+-[SFCompoundCurve init]
+-[SFCompoundCurve initWithHasZ:andHasM:]
+-[SFCompoundCurve initWithLineStrings:]
+-[SFCompoundCurve initWithLineString:]
+-[SFCompoundCurve addLineString:]
+-[SFCompoundCurve addLineStrings:]
+-[SFCompoundCurve numLineStrings]
+-[SFCompoundCurve lineStringAtIndex:]
+-[SFCompoundCurve startPoint]
+-[SFCompoundCurve endPoint]
+-[SFCompoundCurve isEmpty]
+-[SFCompoundCurve isSimple]
+-[SFCompoundCurve mutableCopyWithZone:]
++[SFCompoundCurve supportsSecureCoding]
+-[SFCompoundCurve encodeWithCoder:]
+-[SFCompoundCurve initWithCoder:]
+-[SFCompoundCurve isEqualToCompoundCurve:]
+-[SFCompoundCurve isEqual:]
+-[SFCompoundCurve hash]
+-[SFCompoundCurve lineStrings]
+-[SFCompoundCurve setLineStrings:]
+-[SFCompoundCurve .cxx_destruct]
+_OBJC_CLASSLIST_REFERENCES_$_.7
+_OBJC_SELECTOR_REFERENCES_.9
+_OBJC_CLASSLIST_REFERENCES_$_.39
+_OBJC_CLASSLIST_REFERENCES_$_.48
+_OBJC_CLASSLIST_REFERENCES_$_.51
+_OBJC_IVAR_$_SFCompoundCurve._lineStrings
+__OBJC_$_CLASS_METHODS_SFCompoundCurve
+__OBJC_METACLASS_RO_$_SFCompoundCurve
+__OBJC_$_INSTANCE_METHODS_SFCompoundCurve
+__OBJC_$_INSTANCE_VARIABLES_SFCompoundCurve
+__OBJC_$_PROP_LIST_SFCompoundCurve
+__OBJC_CLASS_RO_$_SFCompoundCurve
+/Users/albintornqvist/projects/GlobalForester-iOS/Carthage/Checkouts/simple-features-ios/sf-ios/SFCompoundCurve.m
+sf-ios/SFCompoundCurve.m
+sf-ios/SFCompoundCurve.h
+-[SFPointFiniteFilter init]
+-[SFPointFiniteFilter initWithType:]
+-[SFPointFiniteFilter initWithType:andZ:]
+-[SFPointFiniteFilter initWithType:andM:]
+-[SFPointFiniteFilter initWithType:andZ:andM:]
+-[SFPointFiniteFilter initWithZ:]
+-[SFPointFiniteFilter initWithM:]
+-[SFPointFiniteFilter initWithZ:andM:]
+-[SFPointFiniteFilter filterGeometry:inType:]
+-[SFPointFiniteFilter filterPoint:]
+-[SFPointFiniteFilter filterDouble:]
+-[SFPointFiniteFilter filterZWithPoint:]
+-[SFPointFiniteFilter filterMWithPoint:]
+-[SFPointFiniteFilter filterNumber:]
+-[SFPointFiniteFilter type]
+-[SFPointFiniteFilter setType:]
+-[SFPointFiniteFilter filterZ]
+-[SFPointFiniteFilter setFilterZ:]
+-[SFPointFiniteFilter filterM]
+-[SFPointFiniteFilter setFilterM:]
+_OBJC_CLASSLIST_REFERENCES_$_.25
+__OBJC_$_PROTOCOL_INSTANCE_METHODS_NSObject
+__OBJC_$_PROTOCOL_INSTANCE_METHODS_OPT_NSObject
+__OBJC_$_PROP_LIST_NSObject
+__OBJC_$_PROTOCOL_METHOD_TYPES_NSObject
+__OBJC_PROTOCOL_$_NSObject
+__OBJC_LABEL_PROTOCOL_$_NSObject
+__OBJC_$_PROTOCOL_REFS_SFGeometryFilter
+__OBJC_$_PROTOCOL_INSTANCE_METHODS_SFGeometryFilter
+__OBJC_$_PROTOCOL_METHOD_TYPES_SFGeometryFilter
+__OBJC_PROTOCOL_$_SFGeometryFilter
+__OBJC_LABEL_PROTOCOL_$_SFGeometryFilter
+__OBJC_CLASS_PROTOCOLS_$_SFPointFiniteFilter
+__OBJC_METACLASS_RO_$_SFPointFiniteFilter
+__OBJC_$_INSTANCE_METHODS_SFPointFiniteFilter
+_OBJC_IVAR_$_SFPointFiniteFilter._filterZ
+_OBJC_IVAR_$_SFPointFiniteFilter._filterM
+_OBJC_IVAR_$_SFPointFiniteFilter._type
+__OBJC_$_INSTANCE_VARIABLES_SFPointFiniteFilter
+__OBJC_$_PROP_LIST_SFPointFiniteFilter
+__OBJC_CLASS_RO_$_SFPointFiniteFilter
+/Users/albintornqvist/projects/GlobalForester-iOS/Carthage/Checkouts/simple-features-ios/sf-ios/util/filter/SFPointFiniteFilter.m
+sf-ios/util/filter/SFPointFiniteFilter.h
+sf-ios/util/filter/SFPointFiniteFilter.m
+__inline_isinfd
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS15.0.sdk/usr/include/math.h
+__inline_isnand
+__inline_isfinited
+-[SFByteReader initWithData:]
+-[SFByteReader initWithData:andByteOrder:]
+-[SFByteReader readString:]
+-[SFByteReader readByte]
+-[SFByteReader readData:]
+-[SFByteReader readInt]
+-[SFByteReader readDouble]
+-[SFByteReader nextByte]
+-[SFByteReader setNextByte:]
+-[SFByteReader bytes]
+-[SFByteReader setBytes:]
+-[SFByteReader byteOrder]
+-[SFByteReader setByteOrder:]
+-[SFByteReader .cxx_destruct]
+_OBJC_CLASSLIST_REFERENCES_$_.24
+__OBJC_METACLASS_RO_$_SFByteReader
+__OBJC_$_INSTANCE_METHODS_SFByteReader
+_OBJC_IVAR_$_SFByteReader._nextByte
+_OBJC_IVAR_$_SFByteReader._bytes
+_OBJC_IVAR_$_SFByteReader._byteOrder
+__OBJC_$_INSTANCE_VARIABLES_SFByteReader
+__OBJC_$_PROP_LIST_SFByteReader
+__OBJC_CLASS_RO_$_SFByteReader
+/Users/albintornqvist/projects/GlobalForester-iOS/Carthage/Checkouts/simple-features-ios/sf-ios/util/SFByteReader.m
+sf-ios/util/SFByteReader.m
+sf-ios/util/SFByteReader.h
+-[SFMultiSurface initWithType:andHasZ:andHasM:]
+-[SFMultiSurface surfaces]
+-[SFMultiSurface setSurfaces:]
+-[SFMultiSurface addSurface:]
+-[SFMultiSurface addSurfaces:]
+-[SFMultiSurface numSurfaces]
+-[SFMultiSurface surfaceAtIndex:]
+__OBJC_METACLASS_RO_$_SFMultiSurface
+__OBJC_$_INSTANCE_METHODS_SFMultiSurface
+__OBJC_CLASS_RO_$_SFMultiSurface
+/Users/albintornqvist/projects/GlobalForester-iOS/Carthage/Checkouts/simple-features-ios/sf-ios/SFMultiSurface.m
+sf-ios/SFMultiSurface.m
+-[SFSurface initWithType:andHasZ:andHasM:]
+__OBJC_METACLASS_RO_$_SFSurface
+__OBJC_$_INSTANCE_METHODS_SFSurface
+__OBJC_CLASS_RO_$_SFSurface
+/Users/albintornqvist/projects/GlobalForester-iOS/Carthage/Checkouts/simple-features-ios/sf-ios/SFSurface.m
+sf-ios/SFSurface.m
+-[SFTIN init]
+-[SFTIN initWithHasZ:andHasM:]
+-[SFTIN initWithPolygons:]
+-[SFTIN initWithPolygon:]
+-[SFTIN mutableCopyWithZone:]
+__OBJC_METACLASS_RO_$_SFTIN
+__OBJC_$_INSTANCE_METHODS_SFTIN
+__OBJC_CLASS_RO_$_SFTIN
+/Users/albintornqvist/projects/GlobalForester-iOS/Carthage/Checkouts/simple-features-ios/sf-ios/SFTIN.m
+sf-ios/SFTIN.m
+-[SFCurve initWithType:andHasZ:andHasM:]
+-[SFCurve startPoint]
+-[SFCurve endPoint]
+-[SFCurve isClosed]
+-[SFCurve isRing]
+__OBJC_METACLASS_RO_$_SFCurve
+__OBJC_$_INSTANCE_METHODS_SFCurve
+__OBJC_CLASS_RO_$_SFCurve
+/Users/albintornqvist/projects/GlobalForester-iOS/Carthage/Checkouts/simple-features-ios/sf-ios/SFCurve.m
+sf-ios/SFCurve.m
+-[SFEventQueue initWithRing:]
+-[SFEventQueue initWithRings:]
+-[SFEventQueue addRing:withIndex:toEvents:]
+-[SFEventQueue events]
+-[SFEventQueue setEvents:]
+-[SFEventQueue .cxx_destruct]
+_OBJC_CLASSLIST_REFERENCES_$_.5
+_OBJC_SELECTOR_REFERENCES_.7
+_OBJC_CLASSLIST_REFERENCES_$_.12
+__OBJC_METACLASS_RO_$_SFEventQueue
+__OBJC_$_INSTANCE_METHODS_SFEventQueue
+_OBJC_IVAR_$_SFEventQueue._events
+__OBJC_$_INSTANCE_VARIABLES_SFEventQueue
+__OBJC_$_PROP_LIST_SFEventQueue
+__OBJC_CLASS_RO_$_SFEventQueue
+/Users/albintornqvist/projects/GlobalForester-iOS/Carthage/Checkouts/simple-features-ios/sf-ios/util/sweep/SFEventQueue.m
+sf-ios/util/sweep/SFEventQueue.m
+-[SFCentroidSurface init]
+-[SFCentroidSurface initWithGeometry:]
+-[SFCentroidSurface addGeometry:]
+-[SFCentroidSurface addPolygons:]
+-[SFCentroidSurface addPolygon:]
+-[SFCentroidSurface addCurvePolygon:]
+-[SFCentroidSurface addLineString:]
+-[SFCentroidSurface addHoleLineString:]
+-[SFCentroidSurface addWithPositive:andLineString:]
+-[SFCentroidSurface addTriangleWithPositive:andPoint1:andPoint2:andPoint3:]
+-[SFCentroidSurface centroid3WithPoint1:andPoint2:andPoint3:]
+-[SFCentroidSurface area2WithPoint1:andPoint2:andPoint3:]
+-[SFCentroidSurface centroid]
+-[SFCentroidSurface base]
+-[SFCentroidSurface setBase:]
+-[SFCentroidSurface area]
+-[SFCentroidSurface setArea:]
+-[SFCentroidSurface sum]
+-[SFCentroidSurface setSum:]
+-[SFCentroidSurface .cxx_destruct]
+__OBJC_METACLASS_RO_$_SFCentroidSurface
+__OBJC_$_INSTANCE_METHODS_SFCentroidSurface
+_OBJC_IVAR_$_SFCentroidSurface._base
+_OBJC_IVAR_$_SFCentroidSurface._area
+_OBJC_IVAR_$_SFCentroidSurface._sum
+__OBJC_$_INSTANCE_VARIABLES_SFCentroidSurface
+__OBJC_$_PROP_LIST_SFCentroidSurface
+__OBJC_CLASS_RO_$_SFCentroidSurface
+/Users/albintornqvist/projects/GlobalForester-iOS/Carthage/Checkouts/simple-features-ios/sf-ios/util/centroid/SFCentroidSurface.m
+sf-ios/util/centroid/SFCentroidSurface.m
+-[SFLinearRing init]
+-[SFLinearRing initWithHasZ:andHasM:]
+-[SFLinearRing initWithPoints:]
+-[SFLinearRing setPoints:]
+-[SFLinearRing mutableCopyWithZone:]
+__OBJC_METACLASS_RO_$_SFLinearRing
+__OBJC_$_INSTANCE_METHODS_SFLinearRing
+__OBJC_CLASS_RO_$_SFLinearRing
+/Users/albintornqvist/projects/GlobalForester-iOS/Carthage/Checkouts/simple-features-ios/sf-ios/SFLinearRing.m
+sf-ios/SFLinearRing.m
+-[SFSweepLine initWithRings:]
+-[SFSweepLine addEvent:]
+-[SFSweepLine locationOfSegment:atX:]
+___37-[SFSweepLine locationOfSegment:atX:]_block_invoke
+___copy_helper_block_e8_32s
+___destroy_helper_block_e8_32s
+-[SFSweepLine lowerSegment:]
+-[SFSweepLine higherSegment:]
+-[SFSweepLine createSegmentForEvent:]
+-[SFSweepLine findEvent:]
+-[SFSweepLine intersectWithSegment:andSegment:]
+-[SFSweepLine removeSegment:]
+-[SFSweepLine removeSegment:atX:]
+-[SFSweepLine yValueAtX:forSegment:]
++[SFSweepLine xyOrderWithPoint:andPoint:]
++[SFSweepLine isPoint:leftOfSegment:]
++[SFSweepLine isPoint:leftOfPoint1:toPoint2:]
+-[SFSweepLine rings]
+-[SFSweepLine setRings:]
+-[SFSweepLine tree]
+-[SFSweepLine setTree:]
+-[SFSweepLine segments]
+-[SFSweepLine setSegments:]
+-[SFSweepLine .cxx_destruct]
+___block_descriptor_48_e8_32s_e33_q24?0"SFSegment"8"SFSegment"16l
+__OBJC_$_CLASS_METHODS_SFSweepLine
+__OBJC_METACLASS_RO_$_SFSweepLine
+__OBJC_$_INSTANCE_METHODS_SFSweepLine
+_OBJC_IVAR_$_SFSweepLine._rings
+_OBJC_IVAR_$_SFSweepLine._tree
+_OBJC_IVAR_$_SFSweepLine._segments
+__OBJC_$_INSTANCE_VARIABLES_SFSweepLine
+__OBJC_$_PROP_LIST_SFSweepLine
+__OBJC_CLASS_RO_$_SFSweepLine
+/Users/albintornqvist/projects/GlobalForester-iOS/Carthage/Checkouts/simple-features-ios/sf-ios/util/sweep/SFSweepLine.m
+sf-ios/util/sweep/SFSweepLine.m
+__destroy_helper_block_e8_32s
+__copy_helper_block_e8_32s
+__37-[SFSweepLine locationOfSegment:atX:]_block_invoke
+-[SFSegment initWithEdge:andRing:andLeftPoint:andRightPoint:]
+-[SFSegment edge]
+-[SFSegment ring]
+-[SFSegment leftPoint]
+-[SFSegment rightPoint]
+-[SFSegment above]
+-[SFSegment setAbove:]
+-[SFSegment below]
+-[SFSegment setBelow:]
+-[SFSegment setEdge:]
+-[SFSegment setRing:]
+-[SFSegment setLeftPoint:]
+-[SFSegment setRightPoint:]
+-[SFSegment .cxx_destruct]
+__OBJC_METACLASS_RO_$_SFSegment
+__OBJC_$_INSTANCE_METHODS_SFSegment
+_OBJC_IVAR_$_SFSegment._edge
+_OBJC_IVAR_$_SFSegment._ring
+_OBJC_IVAR_$_SFSegment._above
+_OBJC_IVAR_$_SFSegment._below
+_OBJC_IVAR_$_SFSegment._leftPoint
+_OBJC_IVAR_$_SFSegment._rightPoint
+__OBJC_$_INSTANCE_VARIABLES_SFSegment
+__OBJC_$_PROP_LIST_SFSegment
+__OBJC_CLASS_RO_$_SFSegment
+/Users/albintornqvist/projects/GlobalForester-iOS/Carthage/Checkouts/simple-features-ios/sf-ios/util/sweep/SFSegment.m
+sf-ios/util/sweep/SFSegment.m
+sf-ios/util/sweep/SFSegment.h

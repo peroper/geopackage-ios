@@ -1,0 +1,431 @@
+BCSymbolMap Version: 2.0
+Apple clang version 13.0.0 (clang-1300.0.29.3)
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS15.0.sdk
+iPhoneOS15.0.sdk
+/Users/albintornqvist/Library/Caches/org.carthage.CarthageKit/DerivedData/13.0_13A233/projections-ios/efa275b93d2e2b18196d664103e91cadeeda472c/Build/Intermediates.noindex/ArchiveIntermediates/proj-ios/IntermediateBuildFilesPath/proj-ios.build/Release-iphoneos/proj-ios.build/DerivedSources/proj_ios_vers.c
+/Users/albintornqvist/projects/GlobalForester-iOS/Carthage/Checkouts/projections-ios
++[PROJProjectionFactory initialize]
++[PROJProjectionFactory resetOrder]
++[PROJProjectionFactory order]
++[PROJProjectionFactory cachelessOrder]
++[PROJProjectionFactory removeOrderType:]
++[PROJProjectionFactory setOrder:]
++[PROJProjectionFactory buildDefaultOrder]
++[PROJProjectionFactory buildOrder:]
++[PROJProjectionFactory projectionWithEpsg:]
++[PROJProjectionFactory cachelessProjectionWithEpsg:]
++[PROJProjectionFactory projectionWithEpsgInt:]
++[PROJProjectionFactory cachelessProjectionWithEpsgInt:]
++[PROJProjectionFactory projectionWithName:]
++[PROJProjectionFactory cachelessProjectionWithName:]
++[PROJProjectionFactory projectionWithAuthority:andNumberCode:]
++[PROJProjectionFactory cachelessProjectionWithAuthority:andNumberCode:]
++[PROJProjectionFactory projectionWithAuthority:andIntCode:]
++[PROJProjectionFactory cachelessProjectionWithAuthority:andIntCode:]
++[PROJProjectionFactory projectionWithAuthority:andCode:]
++[PROJProjectionFactory cachelessProjectionWithAuthority:andCode:]
++[PROJProjectionFactory projectionWithAuthority:andNumberCode:andParams:]
++[PROJProjectionFactory cachelessProjectionWithAuthority:andNumberCode:andParams:]
++[PROJProjectionFactory projectionWithAuthority:andIntCode:andParams:]
++[PROJProjectionFactory cachelessProjectionWithAuthority:andIntCode:andParams:]
++[PROJProjectionFactory projectionWithAuthority:andCode:andParams:]
++[PROJProjectionFactory cachelessProjectionWithAuthority:andCode:andParams:]
++[PROJProjectionFactory projectionWithAuthority:andNumberCode:andDefinition:]
++[PROJProjectionFactory cachelessProjectionWithAuthority:andNumberCode:andDefinition:]
++[PROJProjectionFactory projectionWithAuthority:andIntCode:andDefinition:]
++[PROJProjectionFactory cachelessProjectionWithAuthority:andIntCode:andDefinition:]
++[PROJProjectionFactory projectionWithAuthority:andCode:andDefinition:]
++[PROJProjectionFactory cachelessProjectionWithAuthority:andCode:andDefinition:]
++[PROJProjectionFactory projectionWithAuthority:andNumberCode:andParams:andDefinition:]
++[PROJProjectionFactory cachelessProjectionWithAuthority:andNumberCode:andParams:andDefinition:]
++[PROJProjectionFactory projectionWithAuthority:andIntCode:andParams:andDefinition:]
++[PROJProjectionFactory cachelessProjectionWithAuthority:andIntCode:andParams:andDefinition:]
++[PROJProjectionFactory projectionWithAuthority:andCode:andParams:andDefinition:]
++[PROJProjectionFactory cachelessProjectionWithAuthority:andCode:andParams:andDefinition:]
++[PROJProjectionFactory projectionWithTypes:andAuthority:andCode:andParams:andDefinition:]
++[PROJProjectionFactory projectionWithType:andAuthority:andCode:andParams:andDefinition:]
++[PROJProjectionFactory projectionByDefinition:]
++[PROJProjectionFactory cachelessProjectionByDefinition:]
++[PROJProjectionFactory projectionByDefinition:withCacheless:]
++[PROJProjectionFactory projections]
++[PROJProjectionFactory projectionsWithAuthority:]
++[PROJProjectionFactory parseAuthorityAndCode:]
++[PROJProjectionFactory clear]
++[PROJProjectionFactory clearAuthority:]
++[PROJProjectionFactory clearAuthority:andNumberCode:]
++[PROJProjectionFactory clearAuthority:andIntCode:]
++[PROJProjectionFactory clearAuthority:andCode:]
++[PROJProjectionFactory clearProjection:]
++[PROJProjectionFactory clearTransform:]
++[PROJProjectionFactory fromCacheWithAuthority:andCode:]
++[PROJProjectionFactory fromDefinition:withAuthority:andCode:]
++[PROJProjectionFactory fromParams:withAuthority:andCode:andDefinition:]
++[PROJProjectionFactory fromPropertiesWithAuthority:andCode:andDefinition:]
+_defaultOrder
+_OBJC_CLASSLIST_REFERENCES_$_
+_OBJC_CLASSLIST_REFERENCES_$_.1
+_OBJC_SELECTOR_REFERENCES_
+_OBJC_SELECTOR_REFERENCES_.3
+_projections
+_OBJC_CLASSLIST_REFERENCES_$_.4
+_OBJC_SELECTOR_REFERENCES_.6
+_order
+_OBJC_CLASSLIST_REFERENCES_$_.7
+_OBJC_SELECTOR_REFERENCES_.9
+_cachelessOrder
+_OBJC_SELECTOR_REFERENCES_.11
+_OBJC_SELECTOR_REFERENCES_.13
+_OBJC_SELECTOR_REFERENCES_.15
+_OBJC_SELECTOR_REFERENCES_.17
+_OBJC_SELECTOR_REFERENCES_.19
+_OBJC_SELECTOR_REFERENCES_.21
+_OBJC_SELECTOR_REFERENCES_.23
+_OBJC_SELECTOR_REFERENCES_.25
+_OBJC_SELECTOR_REFERENCES_.27
+_OBJC_SELECTOR_REFERENCES_.29
+_OBJC_SELECTOR_REFERENCES_.31
+_OBJC_SELECTOR_REFERENCES_.33
+_OBJC_SELECTOR_REFERENCES_.35
+_OBJC_SELECTOR_REFERENCES_.37
+_OBJC_SELECTOR_REFERENCES_.39
+_OBJC_SELECTOR_REFERENCES_.41
+_OBJC_SELECTOR_REFERENCES_.43
+_OBJC_SELECTOR_REFERENCES_.45
+_OBJC_SELECTOR_REFERENCES_.47
+_OBJC_SELECTOR_REFERENCES_.49
+_OBJC_SELECTOR_REFERENCES_.51
+_OBJC_SELECTOR_REFERENCES_.53
+_OBJC_SELECTOR_REFERENCES_.55
+_OBJC_SELECTOR_REFERENCES_.57
+_OBJC_SELECTOR_REFERENCES_.59
+_OBJC_SELECTOR_REFERENCES_.61
+_OBJC_SELECTOR_REFERENCES_.63
+_OBJC_SELECTOR_REFERENCES_.65
+_OBJC_SELECTOR_REFERENCES_.67
+_OBJC_SELECTOR_REFERENCES_.69
+_OBJC_SELECTOR_REFERENCES_.71
+_OBJC_SELECTOR_REFERENCES_.73
+_OBJC_SELECTOR_REFERENCES_.75
+_OBJC_SELECTOR_REFERENCES_.77
+_OBJC_SELECTOR_REFERENCES_.79
+_OBJC_SELECTOR_REFERENCES_.81
+_OBJC_CLASSLIST_REFERENCES_$_.82
+_OBJC_SELECTOR_REFERENCES_.86
+_OBJC_SELECTOR_REFERENCES_.88
+_OBJC_SELECTOR_REFERENCES_.90
+_OBJC_SELECTOR_REFERENCES_.92
+_OBJC_SELECTOR_REFERENCES_.94
+_OBJC_SELECTOR_REFERENCES_.96
+_OBJC_SELECTOR_REFERENCES_.102
+_OBJC_CLASSLIST_REFERENCES_$_.103
+_OBJC_SELECTOR_REFERENCES_.105
+_OBJC_SELECTOR_REFERENCES_.107
+_OBJC_SELECTOR_REFERENCES_.109
+_OBJC_SELECTOR_REFERENCES_.111
+_OBJC_SELECTOR_REFERENCES_.113
+_OBJC_CLASSLIST_REFERENCES_$_.116
+_OBJC_SELECTOR_REFERENCES_.118
+_OBJC_CLASSLIST_REFERENCES_$_.119
+_OBJC_SELECTOR_REFERENCES_.121
+_OBJC_SELECTOR_REFERENCES_.123
+_OBJC_SELECTOR_REFERENCES_.127
+_OBJC_SELECTOR_REFERENCES_.131
+_OBJC_SELECTOR_REFERENCES_.133
+_OBJC_CLASSLIST_REFERENCES_$_.138
+_OBJC_SELECTOR_REFERENCES_.140
+_OBJC_SELECTOR_REFERENCES_.142
+_OBJC_SELECTOR_REFERENCES_.144
+_OBJC_SELECTOR_REFERENCES_.146
+_OBJC_SELECTOR_REFERENCES_.148
+_OBJC_SELECTOR_REFERENCES_.150
+_OBJC_SELECTOR_REFERENCES_.152
+_OBJC_SELECTOR_REFERENCES_.154
+_OBJC_SELECTOR_REFERENCES_.156
+_OBJC_SELECTOR_REFERENCES_.158
+_OBJC_SELECTOR_REFERENCES_.160
+_OBJC_SELECTOR_REFERENCES_.164
+_OBJC_SELECTOR_REFERENCES_.166
+_OBJC_CLASSLIST_REFERENCES_$_.169
+__OBJC_$_CLASS_METHODS_PROJProjectionFactory
+__OBJC_METACLASS_RO_$_PROJProjectionFactory
+__OBJC_CLASS_RO_$_PROJProjectionFactory
+/Users/albintornqvist/projects/GlobalForester-iOS/Carthage/Checkouts/projections-ios/proj-ios/PROJProjectionFactory.m
+proj-ios/PROJProjectionFactory.m
+__OBJC_METACLASS_RO_$_PROJProjectionFactoryTypes
+__OBJC_CLASS_RO_$_PROJProjectionFactoryTypes
+/Users/albintornqvist/projects/GlobalForester-iOS/Carthage/Checkouts/projections-ios/proj-ios/PROJProjectionFactoryTypes.m
++[PROJProjectionTransform transformFromProjection:andToProjection:]
++[PROJProjectionTransform transformFromEpsg:andToEpsg:]
++[PROJProjectionTransform transformFromAuthority:andFromIntCode:andToAuthority:andToIntCode:]
++[PROJProjectionTransform transformFromAuthority:andFromCode:andToAuthority:andToCode:]
++[PROJProjectionTransform transformFromProjection:andToEpsg:]
++[PROJProjectionTransform transformFromProjection:andToAuthority:andToCode:]
++[PROJProjectionTransform transformFromEpsg:andToProjection:]
++[PROJProjectionTransform transformFromAuthority:andFromCode:andToProjection:]
++[PROJProjectionTransform transformWithProjectionTransform:]
+-[PROJProjectionTransform initWithFromProjection:andToProjection:]
+-[PROJProjectionTransform initWithFromEpsg:andToEpsg:]
+-[PROJProjectionTransform initWithFromAuthority:andFromIntCode:andToAuthority:andToIntCode:]
+-[PROJProjectionTransform initWithFromAuthority:andFromCode:andToAuthority:andToCode:]
+-[PROJProjectionTransform initWithFromProjection:andToEpsg:]
+-[PROJProjectionTransform initWithFromProjection:andToAuthority:andToCode:]
+-[PROJProjectionTransform initWithFromEpsg:andToProjection:]
+-[PROJProjectionTransform initWithFromAuthority:andFromCode:andToProjection:]
+-[PROJProjectionTransform initWithProjectionTransform:]
+-[PROJProjectionTransform free]
+-[PROJProjectionTransform transform:]
+-[PROJProjectionTransform transform3d:]
+-[PROJProjectionTransform transformX:andY:]
+-[PROJProjectionTransform transformMinX:andMinY:andMaxX:andMaxY:]
+-[PROJProjectionTransform isSameProjection]
+-[PROJProjectionTransform inverseTransformation]
+-[PROJProjectionTransform fromProjection]
+-[PROJProjectionTransform setFromProjection:]
+-[PROJProjectionTransform toProjection]
+-[PROJProjectionTransform setToProjection:]
+-[PROJProjectionTransform .cxx_destruct]
+_OBJC_SELECTOR_REFERENCES_.2
+_OBJC_SELECTOR_REFERENCES_.4
+_OBJC_SELECTOR_REFERENCES_.8
+_OBJC_SELECTOR_REFERENCES_.10
+_OBJC_SELECTOR_REFERENCES_.12
+_OBJC_SELECTOR_REFERENCES_.14
+_OBJC_SELECTOR_REFERENCES_.16
+_OBJC_SELECTOR_REFERENCES_.18
+_OBJC_SELECTOR_REFERENCES_.20
+_OBJC_SELECTOR_REFERENCES_.22
+_OBJC_CLASSLIST_REFERENCES_$_.23
+_OBJC_CLASSLIST_REFERENCES_$_.26
+_OBJC_SELECTOR_REFERENCES_.28
+_OBJC_SELECTOR_REFERENCES_.30
+_OBJC_SELECTOR_REFERENCES_.32
+_OBJC_SELECTOR_REFERENCES_.34
+_OBJC_CLASSLIST_REFERENCES_$_.35
+_OBJC_CLASSLIST_REFERENCES_$_.52
+_OBJC_SELECTOR_REFERENCES_.58
+_OBJC_SELECTOR_REFERENCES_.60
+_OBJC_SELECTOR_REFERENCES_.62
+_OBJC_CLASSLIST_REFERENCES_$_.63
+_OBJC_CLASSLIST_REFERENCES_$_.70
+_OBJC_SELECTOR_REFERENCES_.72
+_OBJC_SELECTOR_REFERENCES_.74
+_OBJC_SELECTOR_REFERENCES_.76
+_OBJC_SELECTOR_REFERENCES_.78
+__OBJC_$_CLASS_METHODS_PROJProjectionTransform
+__OBJC_METACLASS_RO_$_PROJProjectionTransform
+__OBJC_$_INSTANCE_METHODS_PROJProjectionTransform
+_OBJC_IVAR_$_PROJProjectionTransform._fromProjection
+_OBJC_IVAR_$_PROJProjectionTransform._toProjection
+__OBJC_$_INSTANCE_VARIABLES_PROJProjectionTransform
+__OBJC_$_PROP_LIST_PROJProjectionTransform
+__OBJC_CLASS_RO_$_PROJProjectionTransform
+/Users/albintornqvist/projects/GlobalForester-iOS/Carthage/Checkouts/projections-ios/proj-ios/PROJProjectionTransform.m
+proj-ios/PROJProjectionTransform.m
+proj-ios/PROJProjectionTransform.h
+-[PROJAuthorityProjections initWithAuthority:]
+-[PROJAuthorityProjections authority]
+-[PROJAuthorityProjections projectionForNumberCode:]
+-[PROJAuthorityProjections projectionForCode:]
+-[PROJAuthorityProjections hasProjection:]
+-[PROJAuthorityProjections hasProjectionNumberCode:]
+-[PROJAuthorityProjections hasProjectionCode:]
+-[PROJAuthorityProjections addProjection:]
+-[PROJAuthorityProjections clear]
+-[PROJAuthorityProjections removeNumberCode:]
+-[PROJAuthorityProjections removeCode:]
+-[PROJAuthorityProjections removeProjection:]
+-[PROJAuthorityProjections count]
+-[PROJAuthorityProjections isEmpty]
+-[PROJAuthorityProjections codes]
+-[PROJAuthorityProjections projections]
+-[PROJAuthorityProjections setAuthority:]
+-[PROJAuthorityProjections codeProjections]
+-[PROJAuthorityProjections setCodeProjections:]
+-[PROJAuthorityProjections .cxx_destruct]
+_OBJC_CLASSLIST_REFERENCES_$_.17
+__OBJC_METACLASS_RO_$_PROJAuthorityProjections
+__OBJC_$_INSTANCE_METHODS_PROJAuthorityProjections
+_OBJC_IVAR_$_PROJAuthorityProjections._authority
+_OBJC_IVAR_$_PROJAuthorityProjections._codeProjections
+__OBJC_$_INSTANCE_VARIABLES_PROJAuthorityProjections
+__OBJC_$_PROP_LIST_PROJAuthorityProjections
+__OBJC_CLASS_RO_$_PROJAuthorityProjections
+/Users/albintornqvist/projects/GlobalForester-iOS/Carthage/Checkouts/projections-ios/proj-ios/PROJAuthorityProjections.m
+proj-ios/PROJAuthorityProjections.m
+__OBJC_METACLASS_RO_$_PROJConstants
+__OBJC_CLASS_RO_$_PROJConstants
+/Users/albintornqvist/projects/GlobalForester-iOS/Carthage/Checkouts/projections-ios/proj-ios/PROJConstants.m
++[PROJIOUtils propertyListPathWithName:]
++[PROJIOUtils resourcePathWithName:andType:]
+_OBJC_CLASSLIST_REFERENCES_$_.3
+_OBJC_SELECTOR_REFERENCES_.5
+_OBJC_SELECTOR_REFERENCES_.7
+_OBJC_CLASSLIST_REFERENCES_$_.12
+__OBJC_$_CLASS_METHODS_PROJIOUtils
+__OBJC_METACLASS_RO_$_PROJIOUtils
+__OBJC_CLASS_RO_$_PROJIOUtils
+/Users/albintornqvist/projects/GlobalForester-iOS/Carthage/Checkouts/projections-ios/proj-ios/PROJIOUtils.m
+proj-ios/PROJIOUtils.m
++[PROJLocationCoordinate3D coordinateWithCoordinate:]
++[PROJLocationCoordinate3D coordinateWithCoordinate:andZ:]
+-[PROJLocationCoordinate3D initWithCoordinate:]
+-[PROJLocationCoordinate3D initWithCoordinate:andZ:]
+-[PROJLocationCoordinate3D hasZ]
+-[PROJLocationCoordinate3D coordinate]
+-[PROJLocationCoordinate3D setCoordinate:]
+-[PROJLocationCoordinate3D z]
+-[PROJLocationCoordinate3D setZ:]
+-[PROJLocationCoordinate3D .cxx_destruct]
+__OBJC_$_CLASS_METHODS_PROJLocationCoordinate3D
+__OBJC_METACLASS_RO_$_PROJLocationCoordinate3D
+__OBJC_$_INSTANCE_METHODS_PROJLocationCoordinate3D
+_OBJC_IVAR_$_PROJLocationCoordinate3D._z
+_OBJC_IVAR_$_PROJLocationCoordinate3D._coordinate
+__OBJC_$_INSTANCE_VARIABLES_PROJLocationCoordinate3D
+__OBJC_$_PROP_LIST_PROJLocationCoordinate3D
+__OBJC_CLASS_RO_$_PROJLocationCoordinate3D
+/Users/albintornqvist/projects/GlobalForester-iOS/Carthage/Checkouts/projections-ios/proj-ios/PROJLocationCoordinate3D.m
+proj-ios/PROJLocationCoordinate3D.m
+proj-ios/PROJLocationCoordinate3D.h
++[PROJProjection projectionWithAuthority:andNumberCode:andCrs:]
++[PROJProjection projectionWithAuthority:andIntCode:andCrs:]
++[PROJProjection projectionWithAuthority:andCode:andCrs:]
++[PROJProjection projectionWithAuthority:andNumberCode:andCrs:andDefinition:]
++[PROJProjection projectionWithAuthority:andIntCode:andCrs:andDefinition:]
++[PROJProjection projectionWithAuthority:andCode:andCrs:andDefinition:]
++[PROJProjection projectionWithAuthority:andNumberCode:andCrs:andDefinition:andDefinitionCrs:]
++[PROJProjection projectionWithAuthority:andIntCode:andCrs:andDefinition:andDefinitionCrs:]
++[PROJProjection projectionWithAuthority:andCode:andCrs:andDefinition:andDefinitionCrs:]
+-[PROJProjection initWithAuthority:andNumberCode:andCrs:]
+-[PROJProjection initWithAuthority:andIntCode:andCrs:]
+-[PROJProjection initWithAuthority:andCode:andCrs:]
+-[PROJProjection initWithAuthority:andNumberCode:andCrs:andDefinition:]
+-[PROJProjection initWithAuthority:andIntCode:andCrs:andDefinition:]
+-[PROJProjection initWithAuthority:andCode:andCrs:andDefinition:]
+-[PROJProjection initWithAuthority:andNumberCode:andCrs:andDefinition:andDefinitionCrs:]
+-[PROJProjection initWithAuthority:andIntCode:andCrs:andDefinition:andDefinitionCrs:]
+-[PROJProjection initWithAuthority:andCode:andCrs:andDefinition:andDefinitionCrs:]
+-[PROJProjection free]
+-[PROJProjection authority]
+-[PROJProjection code]
+-[PROJProjection crs]
+-[PROJProjection isLatLong]
+-[PROJProjection definition]
+-[PROJProjection definitionCRS]
+-[PROJProjection transformationWithEpsg:]
+-[PROJProjection transformationWithAuthority:andIntCode:]
+-[PROJProjection transformationWithAuthority:andCode:]
+-[PROJProjection transformationWithProjection:]
+-[PROJProjection toMeters:]
+-[PROJProjection unit]
+-[PROJProjection isUnit:]
+-[PROJProjection isEqualToAuthority:andNumberCode:]
+-[PROJProjection isEqualToAuthority:andCode:]
+-[PROJProjection isEqualToProjection:]
+-[PROJProjection isEqual:]
+-[PROJProjection hash]
+-[PROJProjection description]
+-[PROJProjection setAuthority:]
+-[PROJProjection setCode:]
+-[PROJProjection setCrs:]
+-[PROJProjection setIsLatLong:]
+-[PROJProjection setDefinition:]
+-[PROJProjection setDefinitionCRS:]
+-[PROJProjection .cxx_destruct]
+_OBJC_CLASSLIST_REFERENCES_$_.24
+_OBJC_CLASSLIST_REFERENCES_$_.31
+_OBJC_CLASSLIST_REFERENCES_$_.38
+_OBJC_SELECTOR_REFERENCES_.40
+_OBJC_SELECTOR_REFERENCES_.42
+_OBJC_SELECTOR_REFERENCES_.44
+_OBJC_SELECTOR_REFERENCES_.46
+_OBJC_SELECTOR_REFERENCES_.48
+_OBJC_SELECTOR_REFERENCES_.50
+_OBJC_SELECTOR_REFERENCES_.52
+_OBJC_SELECTOR_REFERENCES_.54
+_OBJC_SELECTOR_REFERENCES_.56
+_OBJC_CLASSLIST_REFERENCES_$_.59
+__OBJC_$_CLASS_METHODS_PROJProjection
+__OBJC_METACLASS_RO_$_PROJProjection
+__OBJC_$_INSTANCE_METHODS_PROJProjection
+_OBJC_IVAR_$_PROJProjection._isLatLong
+_OBJC_IVAR_$_PROJProjection._authority
+_OBJC_IVAR_$_PROJProjection._code
+_OBJC_IVAR_$_PROJProjection._crs
+_OBJC_IVAR_$_PROJProjection._definition
+_OBJC_IVAR_$_PROJProjection._definitionCRS
+__OBJC_$_INSTANCE_VARIABLES_PROJProjection
+__OBJC_$_PROP_LIST_PROJProjection
+__OBJC_CLASS_RO_$_PROJProjection
+/Users/albintornqvist/projects/GlobalForester-iOS/Carthage/Checkouts/projections-ios/proj-ios/PROJProjection.m
+proj-ios/PROJProjection.m
+__OBJC_METACLASS_RO_$_PROJProjectionConstants
+__OBJC_CLASS_RO_$_PROJProjectionConstants
+/Users/albintornqvist/projects/GlobalForester-iOS/Carthage/Checkouts/projections-ios/proj-ios/PROJProjectionConstants.m
+-[PROJProjections init]
+-[PROJProjections projectionsForAuthority:]
+-[PROJProjections projectionForAuthority:andCode:]
+-[PROJProjections hasProjection:]
+-[PROJProjections hasProjectionWithAuthority:andCode:]
+-[PROJProjections addProjection:]
+-[PROJProjections clear]
+-[PROJProjections clearAuthority:]
+-[PROJProjections removeAuthority:andNumberCode:]
+-[PROJProjections removeAuthority:andCode:]
+-[PROJProjections removeProjection:]
+-[PROJProjections authorityCount]
+-[PROJProjections authorities]
+-[PROJProjections projectionCount]
+-[PROJProjections isEmpty]
+-[PROJProjections authorityProjections]
+-[PROJProjections setAuthorityProjections:]
+-[PROJProjections .cxx_destruct]
+_OBJC_CLASSLIST_REFERENCES_$_.19
+_OBJC_SELECTOR_REFERENCES_.36
+_OBJC_SELECTOR_REFERENCES_.38
+__OBJC_METACLASS_RO_$_PROJProjections
+__OBJC_$_INSTANCE_METHODS_PROJProjections
+_OBJC_IVAR_$_PROJProjections._authorityProjections
+__OBJC_$_INSTANCE_VARIABLES_PROJProjections
+__OBJC_$_PROP_LIST_PROJProjections
+__OBJC_CLASS_RO_$_PROJProjections
+/Users/albintornqvist/projects/GlobalForester-iOS/Carthage/Checkouts/projections-ios/proj-ios/PROJProjections.m
+proj-ios/PROJProjections.m
+__OBJC_METACLASS_RO_$_PROJUnits
+__OBJC_CLASS_RO_$_PROJUnits
+/Users/albintornqvist/projects/GlobalForester-iOS/Carthage/Checkouts/projections-ios/proj-ios/PROJUnits.m
++[PROJCRSParser parseText:]
++[PROJCRSParser convertCRS:]
++[PROJCRSParser convertGeo:]
++[PROJCRSParser convertProjected:]
++[PROJCRSParser convertCompound:]
++[PROJCRSParser createProj:]
+__OBJC_$_CLASS_METHODS_PROJCRSParser
+__OBJC_METACLASS_RO_$_PROJCRSParser
+__OBJC_CLASS_RO_$_PROJCRSParser
+/Users/albintornqvist/projects/GlobalForester-iOS/Carthage/Checkouts/projections-ios/proj-ios/PROJCRSParser.m
+proj-ios/PROJCRSParser.m
++[PROJProjectionRetriever projectionWithEpsg:]
++[PROJProjectionRetriever projectionWithAuthority:andNumberCode:]
++[PROJProjectionRetriever projectionWithAuthority:andCode:]
++[PROJProjectionRetriever getOrCreateProjectionsForAuthority:]
++[PROJProjectionRetriever projectionsForAuthority:]
++[PROJProjectionRetriever clear]
++[PROJProjectionRetriever clearAuthority:]
++[PROJProjectionRetriever clearAuthority:andNumberCode:]
++[PROJProjectionRetriever clearAuthority:andCode:]
++[PROJProjectionRetriever loadPropertiesForAuthority:]
++[PROJProjectionRetriever propertiesPathForAuthority:]
++[PROJProjectionRetriever setProjections:forAuthority:]
++[PROJProjectionRetriever setProjection:forAuthority:andNumberCode:]
++[PROJProjectionRetriever setProjection:forAuthority:andCode:]
+_properties
+_OBJC_SELECTOR_REFERENCES_.24
+_OBJC_SELECTOR_REFERENCES_.26
+_OBJC_CLASSLIST_REFERENCES_$_.29
+_OBJC_CLASSLIST_REFERENCES_$_.32
+__OBJC_$_CLASS_METHODS_PROJProjectionRetriever
+__OBJC_METACLASS_RO_$_PROJProjectionRetriever
+__OBJC_CLASS_RO_$_PROJProjectionRetriever
+/Users/albintornqvist/projects/GlobalForester-iOS/Carthage/Checkouts/projections-ios/proj-ios/PROJProjectionRetriever.m
+proj-ios/PROJProjectionRetriever.m

@@ -1,0 +1,3167 @@
+BCSymbolMap Version: 2.0
+Apple clang version 13.0.0 (clang-1300.0.29.3)
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS15.0.sdk
+iPhoneOS15.0.sdk
+/Users/albintornqvist/Library/Caches/org.carthage.CarthageKit/DerivedData/13.0_13A233/coordinate-reference-systems-ios/900bf47a539be6f74313ccbde795798fc3ffcc05/Build/Intermediates.noindex/ArchiveIntermediates/crs-ios/IntermediateBuildFilesPath/crs-ios.build/Release-iphoneos/crs-ios.build/DerivedSources/crs_ios_vers.c
+/Users/albintornqvist/projects/GlobalForester-iOS/Carthage/Checkouts/coordinate-reference-systems-ios
++[CRSDynamic create]
+-[CRSDynamic init]
+-[CRSDynamic initWithReferenceEpoch:]
+-[CRSDynamic initWithReferenceEpochText:]
+-[CRSDynamic setReferenceEpoch:]
+-[CRSDynamic setReferenceEpochText:]
+-[CRSDynamic hasDeformationModelName]
+-[CRSDynamic hasIdentifiers]
+-[CRSDynamic numIdentifiers]
+-[CRSDynamic identifierAtIndex:]
+-[CRSDynamic addIdentifier:]
+-[CRSDynamic addIdentifiers:]
+-[CRSDynamic isEqualToDynamic:]
+-[CRSDynamic isEqual:]
+-[CRSDynamic hash]
+-[CRSDynamic description]
+-[CRSDynamic referenceEpoch]
+-[CRSDynamic referenceEpochText]
+-[CRSDynamic deformationModelName]
+-[CRSDynamic setDeformationModelName:]
+-[CRSDynamic identifiers]
+-[CRSDynamic setIdentifiers:]
+-[CRSDynamic .cxx_destruct]
+_OBJC_CLASSLIST_REFERENCES_$_
+_OBJC_SELECTOR_REFERENCES_
+_OBJC_SELECTOR_REFERENCES_.2
+_OBJC_SELECTOR_REFERENCES_.4
+_OBJC_CLASSLIST_REFERENCES_$_.5
+_OBJC_SELECTOR_REFERENCES_.7
+_OBJC_SELECTOR_REFERENCES_.9
+_OBJC_SELECTOR_REFERENCES_.11
+_OBJC_SELECTOR_REFERENCES_.13
+_OBJC_SELECTOR_REFERENCES_.15
+_OBJC_CLASSLIST_REFERENCES_$_.16
+_OBJC_SELECTOR_REFERENCES_.18
+_OBJC_SELECTOR_REFERENCES_.20
+_OBJC_SELECTOR_REFERENCES_.22
+_OBJC_CLASSLIST_REFERENCES_$_.23
+_OBJC_SELECTOR_REFERENCES_.25
+_OBJC_SELECTOR_REFERENCES_.27
+_OBJC_SELECTOR_REFERENCES_.29
+_OBJC_SELECTOR_REFERENCES_.31
+_OBJC_SELECTOR_REFERENCES_.33
+_OBJC_SELECTOR_REFERENCES_.35
+_OBJC_SELECTOR_REFERENCES_.37
+_OBJC_SELECTOR_REFERENCES_.39
+_OBJC_SELECTOR_REFERENCES_.41
+_OBJC_CLASSLIST_REFERENCES_$_.42
+_OBJC_SELECTOR_REFERENCES_.44
+_OBJC_SELECTOR_REFERENCES_.46
+_OBJC_SELECTOR_REFERENCES_.48
+__OBJC_$_CLASS_METHODS_CRSDynamic
+__OBJC_$_PROTOCOL_INSTANCE_METHODS_NSObject
+__OBJC_$_PROTOCOL_INSTANCE_METHODS_OPT_NSObject
+__OBJC_$_PROP_LIST_NSObject
+__OBJC_$_PROTOCOL_METHOD_TYPES_NSObject
+__OBJC_PROTOCOL_$_NSObject
+__OBJC_LABEL_PROTOCOL_$_NSObject
+__OBJC_$_PROTOCOL_REFS_CRSIdentifiable
+__OBJC_$_PROTOCOL_INSTANCE_METHODS_CRSIdentifiable
+__OBJC_$_PROTOCOL_METHOD_TYPES_CRSIdentifiable
+__OBJC_PROTOCOL_$_CRSIdentifiable
+__OBJC_LABEL_PROTOCOL_$_CRSIdentifiable
+__OBJC_CLASS_PROTOCOLS_$_CRSDynamic
+__OBJC_METACLASS_RO_$_CRSDynamic
+__OBJC_$_INSTANCE_METHODS_CRSDynamic
+_OBJC_IVAR_$_CRSDynamic._referenceEpoch
+_OBJC_IVAR_$_CRSDynamic._referenceEpochText
+_OBJC_IVAR_$_CRSDynamic._deformationModelName
+_OBJC_IVAR_$_CRSDynamic._identifiers
+__OBJC_$_INSTANCE_VARIABLES_CRSDynamic
+__OBJC_$_PROP_LIST_CRSDynamic
+__OBJC_CLASS_RO_$_CRSDynamic
+/Users/albintornqvist/projects/GlobalForester-iOS/Carthage/Checkouts/coordinate-reference-systems-ios/crs-ios/common/CRSDynamic.m
+crs-ios/common/CRSDynamic.m
+crs-ios/common/CRSDynamic.h
++[CRSPointMotionOperation create]
+-[CRSPointMotionOperation init]
+-[CRSPointMotionOperation initWithName:andSource:andMethod:]
+-[CRSPointMotionOperation operationType]
+-[CRSPointMotionOperation isEqualToPointMotionOperation:]
+-[CRSPointMotionOperation isEqual:]
+-[CRSPointMotionOperation hash]
+_OBJC_SELECTOR_REFERENCES_.6
+_OBJC_SELECTOR_REFERENCES_.8
+_OBJC_SELECTOR_REFERENCES_.10
+_OBJC_SELECTOR_REFERENCES_.12
+_OBJC_SELECTOR_REFERENCES_.14
+__OBJC_$_CLASS_METHODS_CRSPointMotionOperation
+__OBJC_METACLASS_RO_$_CRSPointMotionOperation
+__OBJC_$_INSTANCE_METHODS_CRSPointMotionOperation
+__OBJC_CLASS_RO_$_CRSPointMotionOperation
+/Users/albintornqvist/projects/GlobalForester-iOS/Carthage/Checkouts/coordinate-reference-systems-ios/crs-ios/operation/CRSPointMotionOperation.m
+crs-ios/operation/CRSPointMotionOperation.m
++[CRSMapProjection create]
+-[CRSMapProjection init]
+-[CRSMapProjection initWithName:andMethod:]
+-[CRSMapProjection operationType]
+-[CRSMapProjection version]
+-[CRSMapProjection hasVersion]
+-[CRSMapProjection setVersion:]
+-[CRSMapProjection hasIdentifiers]
+-[CRSMapProjection numIdentifiers]
+-[CRSMapProjection identifierAtIndex:]
+-[CRSMapProjection addIdentifier:]
+-[CRSMapProjection addIdentifiers:]
+-[CRSMapProjection isEqualToMapProjection:]
+-[CRSMapProjection isEqual:]
+-[CRSMapProjection hash]
+-[CRSMapProjection description]
+-[CRSMapProjection name]
+-[CRSMapProjection setName:]
+-[CRSMapProjection method]
+-[CRSMapProjection setMethod:]
+-[CRSMapProjection identifiers]
+-[CRSMapProjection setIdentifiers:]
+-[CRSMapProjection .cxx_destruct]
+_OBJC_CLASSLIST_REFERENCES_$_.14
+_OBJC_SELECTOR_REFERENCES_.16
+_OBJC_SELECTOR_REFERENCES_.24
+_OBJC_SELECTOR_REFERENCES_.26
+_OBJC_SELECTOR_REFERENCES_.28
+_OBJC_SELECTOR_REFERENCES_.30
+_OBJC_SELECTOR_REFERENCES_.32
+_OBJC_SELECTOR_REFERENCES_.34
+_OBJC_SELECTOR_REFERENCES_.36
+_OBJC_SELECTOR_REFERENCES_.38
+_OBJC_CLASSLIST_REFERENCES_$_.39
+_OBJC_SELECTOR_REFERENCES_.43
+_OBJC_SELECTOR_REFERENCES_.45
+__OBJC_$_CLASS_METHODS_CRSMapProjection
+__OBJC_$_PROTOCOL_REFS_CRSCommonOperation
+__OBJC_$_PROTOCOL_INSTANCE_METHODS_CRSCommonOperation
+__OBJC_$_PROTOCOL_METHOD_TYPES_CRSCommonOperation
+__OBJC_PROTOCOL_$_CRSCommonOperation
+__OBJC_LABEL_PROTOCOL_$_CRSCommonOperation
+__OBJC_CLASS_PROTOCOLS_$_CRSMapProjection
+__OBJC_METACLASS_RO_$_CRSMapProjection
+__OBJC_$_INSTANCE_METHODS_CRSMapProjection
+_OBJC_IVAR_$_CRSMapProjection._name
+_OBJC_IVAR_$_CRSMapProjection._method
+_OBJC_IVAR_$_CRSMapProjection._identifiers
+__OBJC_$_INSTANCE_VARIABLES_CRSMapProjection
+__OBJC_$_PROP_LIST_CRSMapProjection
+__OBJC_CLASS_RO_$_CRSMapProjection
+/Users/albintornqvist/projects/GlobalForester-iOS/Carthage/Checkouts/coordinate-reference-systems-ios/crs-ios/projected/CRSMapProjection.m
+crs-ios/projected/CRSMapProjection.m
+crs-ios/projected/CRSMapProjection.h
+-[CRSObject init]
+-[CRSObject initWithType:]
+-[CRSObject categoryType]
+-[CRSObject hasExtras]
+-[CRSObject numExtras]
+-[CRSObject extraWithName:]
+-[CRSObject addExtra:withName:]
+-[CRSObject addExtras:]
+-[CRSObject name]
+-[CRSObject setName:]
+-[CRSObject usages]
+-[CRSObject hasUsages]
+-[CRSObject numUsages]
+-[CRSObject usageAtIndex:]
+-[CRSObject setUsages:]
+-[CRSObject addUsage:]
+-[CRSObject addUsages:]
+-[CRSObject identifiers]
+-[CRSObject hasIdentifiers]
+-[CRSObject numIdentifiers]
+-[CRSObject identifierAtIndex:]
+-[CRSObject setIdentifiers:]
+-[CRSObject addIdentifier:]
+-[CRSObject addIdentifiers:]
+-[CRSObject remark]
+-[CRSObject hasRemark]
+-[CRSObject setRemark:]
+-[CRSObject isEqualToObject:]
+-[CRSObject isEqual:]
+-[CRSObject hash]
+-[CRSObject description]
+-[CRSObject type]
+-[CRSObject setType:]
+-[CRSObject extras]
+-[CRSObject setExtras:]
+-[CRSObject .cxx_destruct]
+_OBJC_CLASSLIST_REFERENCES_$_.11
+_OBJC_SELECTOR_REFERENCES_.17
+_OBJC_SELECTOR_REFERENCES_.19
+_OBJC_SELECTOR_REFERENCES_.21
+_OBJC_CLASSLIST_REFERENCES_$_.22
+_OBJC_CLASSLIST_REFERENCES_$_.29
+_OBJC_CLASSLIST_REFERENCES_$_.34
+__OBJC_$_PROTOCOL_REFS_CRSScopeExtentIdentifierRemark
+__OBJC_$_PROTOCOL_INSTANCE_METHODS_CRSScopeExtentIdentifierRemark
+__OBJC_$_PROTOCOL_METHOD_TYPES_CRSScopeExtentIdentifierRemark
+__OBJC_PROTOCOL_$_CRSScopeExtentIdentifierRemark
+__OBJC_LABEL_PROTOCOL_$_CRSScopeExtentIdentifierRemark
+__OBJC_CLASS_PROTOCOLS_$_CRSObject
+__OBJC_METACLASS_RO_$_CRSObject
+__OBJC_$_INSTANCE_METHODS_CRSObject
+_OBJC_IVAR_$_CRSObject._type
+_OBJC_IVAR_$_CRSObject._extras
+__OBJC_$_INSTANCE_VARIABLES_CRSObject
+__OBJC_$_PROP_LIST_CRSObject
+__OBJC_CLASS_RO_$_CRSObject
+/Users/albintornqvist/projects/GlobalForester-iOS/Carthage/Checkouts/coordinate-reference-systems-ios/crs-ios/CRSObject.m
+crs-ios/CRSObject.m
+crs-ios/CRSObject.h
++[CRSGeographicBoundingBox create]
+-[CRSGeographicBoundingBox init]
+-[CRSGeographicBoundingBox initWithLowerLeftLatitude:andLowerLeftLongitude:andUpperRightLatitude:andUpperRightLongitude:]
+-[CRSGeographicBoundingBox initWithLowerLeftLatitudeText:andLowerLeftLongitudeText:andUpperRightLatitudeText:andUpperRightLongitudeText:]
+-[CRSGeographicBoundingBox setLowerLeftLatitude:]
+-[CRSGeographicBoundingBox setLowerLeftLatitudeText:]
+-[CRSGeographicBoundingBox setLowerLeftLongitude:]
+-[CRSGeographicBoundingBox setLowerLeftLongitudeText:]
+-[CRSGeographicBoundingBox setUpperRightLatitude:]
+-[CRSGeographicBoundingBox setUpperRightLatitudeText:]
+-[CRSGeographicBoundingBox setUpperRightLongitude:]
+-[CRSGeographicBoundingBox setUpperRightLongitudeText:]
+-[CRSGeographicBoundingBox isEqualToGeographicBoundingBox:]
+-[CRSGeographicBoundingBox isEqual:]
+-[CRSGeographicBoundingBox hash]
+-[CRSGeographicBoundingBox description]
+-[CRSGeographicBoundingBox lowerLeftLatitude]
+-[CRSGeographicBoundingBox lowerLeftLatitudeText]
+-[CRSGeographicBoundingBox lowerLeftLongitude]
+-[CRSGeographicBoundingBox lowerLeftLongitudeText]
+-[CRSGeographicBoundingBox upperRightLatitude]
+-[CRSGeographicBoundingBox upperRightLatitudeText]
+-[CRSGeographicBoundingBox upperRightLongitude]
+-[CRSGeographicBoundingBox upperRightLongitudeText]
+-[CRSGeographicBoundingBox .cxx_destruct]
+_OBJC_CLASSLIST_REFERENCES_$_.17
+_OBJC_SELECTOR_REFERENCES_.40
+_OBJC_SELECTOR_REFERENCES_.42
+_OBJC_CLASSLIST_REFERENCES_$_.43
+_OBJC_SELECTOR_REFERENCES_.47
+_OBJC_SELECTOR_REFERENCES_.49
+__OBJC_$_CLASS_METHODS_CRSGeographicBoundingBox
+__OBJC_METACLASS_RO_$_CRSGeographicBoundingBox
+__OBJC_$_INSTANCE_METHODS_CRSGeographicBoundingBox
+_OBJC_IVAR_$_CRSGeographicBoundingBox._lowerLeftLatitude
+_OBJC_IVAR_$_CRSGeographicBoundingBox._lowerLeftLatitudeText
+_OBJC_IVAR_$_CRSGeographicBoundingBox._lowerLeftLongitude
+_OBJC_IVAR_$_CRSGeographicBoundingBox._lowerLeftLongitudeText
+_OBJC_IVAR_$_CRSGeographicBoundingBox._upperRightLatitude
+_OBJC_IVAR_$_CRSGeographicBoundingBox._upperRightLatitudeText
+_OBJC_IVAR_$_CRSGeographicBoundingBox._upperRightLongitude
+_OBJC_IVAR_$_CRSGeographicBoundingBox._upperRightLongitudeText
+__OBJC_$_INSTANCE_VARIABLES_CRSGeographicBoundingBox
+__OBJC_$_PROP_LIST_CRSGeographicBoundingBox
+__OBJC_CLASS_RO_$_CRSGeographicBoundingBox
+/Users/albintornqvist/projects/GlobalForester-iOS/Carthage/Checkouts/coordinate-reference-systems-ios/crs-ios/common/CRSGeographicBoundingBox.m
+crs-ios/common/CRSGeographicBoundingBox.m
+crs-ios/common/CRSGeographicBoundingBox.h
++[CRSCoordinateSystem create]
+-[CRSCoordinateSystem init]
+-[CRSCoordinateSystem initWithType:andDimension:andAxis:]
+-[CRSCoordinateSystem initWithType:andDimension:andAxes:]
+-[CRSCoordinateSystem hasIdentifiers]
+-[CRSCoordinateSystem numIdentifiers]
+-[CRSCoordinateSystem identifierAtIndex:]
+-[CRSCoordinateSystem addIdentifier:]
+-[CRSCoordinateSystem addIdentifiers:]
+-[CRSCoordinateSystem numAxes]
+-[CRSCoordinateSystem axisAtIndex:]
+-[CRSCoordinateSystem addAxis:]
+-[CRSCoordinateSystem addAxes:]
+-[CRSCoordinateSystem hasUnit]
+-[CRSCoordinateSystem axisUnit]
+-[CRSCoordinateSystem isEqualToCoordinateSystem:]
+-[CRSCoordinateSystem isEqual:]
+-[CRSCoordinateSystem hash]
+-[CRSCoordinateSystem description]
+-[CRSCoordinateSystem type]
+-[CRSCoordinateSystem setType:]
+-[CRSCoordinateSystem dimension]
+-[CRSCoordinateSystem setDimension:]
+-[CRSCoordinateSystem identifiers]
+-[CRSCoordinateSystem setIdentifiers:]
+-[CRSCoordinateSystem axes]
+-[CRSCoordinateSystem setAxes:]
+-[CRSCoordinateSystem unit]
+-[CRSCoordinateSystem setUnit:]
+-[CRSCoordinateSystem .cxx_destruct]
+_OBJC_CLASSLIST_REFERENCES_$_.1
+_OBJC_SELECTOR_REFERENCES_.3
+_OBJC_SELECTOR_REFERENCES_.5
+_OBJC_SELECTOR_REFERENCES_.23
+_OBJC_CLASSLIST_REFERENCES_$_.40
+_OBJC_CLASSLIST_REFERENCES_$_.45
+_OBJC_SELECTOR_REFERENCES_.51
+__OBJC_$_CLASS_METHODS_CRSCoordinateSystem
+__OBJC_CLASS_PROTOCOLS_$_CRSCoordinateSystem
+__OBJC_METACLASS_RO_$_CRSCoordinateSystem
+__OBJC_$_INSTANCE_METHODS_CRSCoordinateSystem
+_OBJC_IVAR_$_CRSCoordinateSystem._type
+_OBJC_IVAR_$_CRSCoordinateSystem._dimension
+_OBJC_IVAR_$_CRSCoordinateSystem._identifiers
+_OBJC_IVAR_$_CRSCoordinateSystem._axes
+_OBJC_IVAR_$_CRSCoordinateSystem._unit
+__OBJC_$_INSTANCE_VARIABLES_CRSCoordinateSystem
+__OBJC_$_PROP_LIST_CRSCoordinateSystem
+__OBJC_CLASS_RO_$_CRSCoordinateSystem
+/Users/albintornqvist/projects/GlobalForester-iOS/Carthage/Checkouts/coordinate-reference-systems-ios/crs-ios/common/CRSCoordinateSystem.m
+crs-ios/common/CRSCoordinateSystem.m
+crs-ios/common/CRSCoordinateSystem.h
++[CRSUnit create]
++[CRSUnit createWithType:andName:]
++[CRSUnit createWithType:andName:andConversionFactor:]
++[CRSUnit createWithType:andName:andConversionFactorText:]
+-[CRSUnit init]
+-[CRSUnit initWithType:andName:]
+-[CRSUnit initWithType:andName:andConversionFactor:]
+-[CRSUnit initWithType:andName:andConversionFactorText:]
+-[CRSUnit hasConversionFactor]
+-[CRSUnit setConversionFactor:]
+-[CRSUnit setConversionFactorText:]
+-[CRSUnit hasIdentifiers]
+-[CRSUnit numIdentifiers]
+-[CRSUnit identifierAtIndex:]
+-[CRSUnit addIdentifier:]
+-[CRSUnit addIdentifiers:]
+-[CRSUnit isEqualToUnit:]
+-[CRSUnit isEqual:]
+-[CRSUnit hash]
+-[CRSUnit description]
+-[CRSUnit type]
+-[CRSUnit setType:]
+-[CRSUnit name]
+-[CRSUnit setName:]
+-[CRSUnit conversionFactor]
+-[CRSUnit conversionFactorText]
+-[CRSUnit identifiers]
+-[CRSUnit setIdentifiers:]
+-[CRSUnit .cxx_destruct]
+_OBJC_CLASSLIST_REFERENCES_$_.20
+_OBJC_CLASSLIST_REFERENCES_$_.52
+_OBJC_SELECTOR_REFERENCES_.54
+_OBJC_SELECTOR_REFERENCES_.56
+_OBJC_CLASSLIST_REFERENCES_$_.57
+_OBJC_SELECTOR_REFERENCES_.59
+_OBJC_SELECTOR_REFERENCES_.61
+_OBJC_SELECTOR_REFERENCES_.63
+__OBJC_$_CLASS_METHODS_CRSUnit
+__OBJC_CLASS_PROTOCOLS_$_CRSUnit
+__OBJC_METACLASS_RO_$_CRSUnit
+__OBJC_$_INSTANCE_METHODS_CRSUnit
+_OBJC_IVAR_$_CRSUnit._type
+_OBJC_IVAR_$_CRSUnit._name
+_OBJC_IVAR_$_CRSUnit._conversionFactor
+_OBJC_IVAR_$_CRSUnit._conversionFactorText
+_OBJC_IVAR_$_CRSUnit._identifiers
+__OBJC_$_INSTANCE_VARIABLES_CRSUnit
+__OBJC_$_PROP_LIST_CRSUnit
+__OBJC_CLASS_RO_$_CRSUnit
+/Users/albintornqvist/projects/GlobalForester-iOS/Carthage/Checkouts/coordinate-reference-systems-ios/crs-ios/common/CRSUnit.m
+crs-ios/common/CRSUnit.m
+crs-ios/common/CRSUnit.h
+__OBJC_METACLASS_RO_$_CRSProjConstants
+__OBJC_CLASS_RO_$_CRSProjConstants
+/Users/albintornqvist/projects/GlobalForester-iOS/Carthage/Checkouts/coordinate-reference-systems-ios/crs-ios/util/proj/CRSProjConstants.m
+-[CRSReferenceFrame initWithType:]
+-[CRSReferenceFrame initWithName:andType:]
+-[CRSReferenceFrame hasAnchor]
+-[CRSReferenceFrame hasIdentifiers]
+-[CRSReferenceFrame numIdentifiers]
+-[CRSReferenceFrame identifierAtIndex:]
+-[CRSReferenceFrame addIdentifier:]
+-[CRSReferenceFrame addIdentifiers:]
+-[CRSReferenceFrame isEqualToReferenceFrame:]
+-[CRSReferenceFrame isEqual:]
+-[CRSReferenceFrame hash]
+-[CRSReferenceFrame description]
+-[CRSReferenceFrame name]
+-[CRSReferenceFrame setName:]
+-[CRSReferenceFrame type]
+-[CRSReferenceFrame setType:]
+-[CRSReferenceFrame anchor]
+-[CRSReferenceFrame setAnchor:]
+-[CRSReferenceFrame identifiers]
+-[CRSReferenceFrame setIdentifiers:]
+-[CRSReferenceFrame .cxx_destruct]
+_OBJC_CLASSLIST_REFERENCES_$_.27
+_OBJC_CLASSLIST_REFERENCES_$_.36
+__OBJC_CLASS_PROTOCOLS_$_CRSReferenceFrame
+__OBJC_METACLASS_RO_$_CRSReferenceFrame
+__OBJC_$_INSTANCE_METHODS_CRSReferenceFrame
+_OBJC_IVAR_$_CRSReferenceFrame._type
+_OBJC_IVAR_$_CRSReferenceFrame._name
+_OBJC_IVAR_$_CRSReferenceFrame._anchor
+_OBJC_IVAR_$_CRSReferenceFrame._identifiers
+__OBJC_$_INSTANCE_VARIABLES_CRSReferenceFrame
+__OBJC_$_PROP_LIST_CRSReferenceFrame
+__OBJC_CLASS_RO_$_CRSReferenceFrame
+/Users/albintornqvist/projects/GlobalForester-iOS/Carthage/Checkouts/coordinate-reference-systems-ios/crs-ios/common/CRSReferenceFrame.m
+crs-ios/common/CRSReferenceFrame.m
+crs-ios/common/CRSReferenceFrame.h
++[CRSProjParams initialize]
++[CRSProjParams params]
+-[CRSProjParams init]
+-[CRSProjParams description]
+-[CRSProjParams proj]
+-[CRSProjParams setProj:]
+-[CRSProjParams zone]
+-[CRSProjParams setZone:]
+-[CRSProjParams south]
+-[CRSProjParams setSouth:]
+-[CRSProjParams lat_1]
+-[CRSProjParams setLat_1:]
+-[CRSProjParams lat_2]
+-[CRSProjParams setLat_2:]
+-[CRSProjParams lat_0]
+-[CRSProjParams setLat_0:]
+-[CRSProjParams lat_ts]
+-[CRSProjParams setLat_ts:]
+-[CRSProjParams lon_0]
+-[CRSProjParams setLon_0:]
+-[CRSProjParams lonc]
+-[CRSProjParams setLonc:]
+-[CRSProjParams alpha]
+-[CRSProjParams setAlpha:]
+-[CRSProjParams k_0]
+-[CRSProjParams setK_0:]
+-[CRSProjParams x_0]
+-[CRSProjParams setX_0:]
+-[CRSProjParams y_0]
+-[CRSProjParams setY_0:]
+-[CRSProjParams axis]
+-[CRSProjParams setAxis:]
+-[CRSProjParams datum]
+-[CRSProjParams setDatum:]
+-[CRSProjParams no_uoff]
+-[CRSProjParams setNo_uoff:]
+-[CRSProjParams gamma]
+-[CRSProjParams setGamma:]
+-[CRSProjParams a]
+-[CRSProjParams setA:]
+-[CRSProjParams b]
+-[CRSProjParams setB:]
+-[CRSProjParams ellps]
+-[CRSProjParams setEllps:]
+-[CRSProjParams towgs84]
+-[CRSProjParams setTowgs84:]
+-[CRSProjParams xTranslation]
+-[CRSProjParams setXTranslation:]
+-[CRSProjParams yTranslation]
+-[CRSProjParams setYTranslation:]
+-[CRSProjParams zTranslation]
+-[CRSProjParams setZTranslation:]
+-[CRSProjParams xRotation]
+-[CRSProjParams setXRotation:]
+-[CRSProjParams yRotation]
+-[CRSProjParams setYRotation:]
+-[CRSProjParams zRotation]
+-[CRSProjParams setZRotation:]
+-[CRSProjParams scaleDifference]
+-[CRSProjParams setScaleDifference:]
+-[CRSProjParams pm]
+-[CRSProjParams setPm:]
+-[CRSProjParams units]
+-[CRSProjParams setUnits:]
+-[CRSProjParams to_meter]
+-[CRSProjParams setTo_meter:]
+-[CRSProjParams nadgrids]
+-[CRSProjParams setNadgrids:]
+-[CRSProjParams wktext]
+-[CRSProjParams setWktext:]
+-[CRSProjParams no_defs]
+-[CRSProjParams setNo_defs:]
+-[CRSProjParams .cxx_destruct]
+_axisWestSouthUp
+_OBJC_CLASSLIST_REFERENCES_$_.4
+__OBJC_$_CLASS_METHODS_CRSProjParams
+__OBJC_METACLASS_RO_$_CRSProjParams
+__OBJC_$_INSTANCE_METHODS_CRSProjParams
+_OBJC_IVAR_$_CRSProjParams._south
+_OBJC_IVAR_$_CRSProjParams._no_uoff
+_OBJC_IVAR_$_CRSProjParams._wktext
+_OBJC_IVAR_$_CRSProjParams._no_defs
+_OBJC_IVAR_$_CRSProjParams._proj
+_OBJC_IVAR_$_CRSProjParams._zone
+_OBJC_IVAR_$_CRSProjParams._lat_1
+_OBJC_IVAR_$_CRSProjParams._lat_2
+_OBJC_IVAR_$_CRSProjParams._lat_0
+_OBJC_IVAR_$_CRSProjParams._lat_ts
+_OBJC_IVAR_$_CRSProjParams._lon_0
+_OBJC_IVAR_$_CRSProjParams._lonc
+_OBJC_IVAR_$_CRSProjParams._alpha
+_OBJC_IVAR_$_CRSProjParams._k_0
+_OBJC_IVAR_$_CRSProjParams._x_0
+_OBJC_IVAR_$_CRSProjParams._y_0
+_OBJC_IVAR_$_CRSProjParams._axis
+_OBJC_IVAR_$_CRSProjParams._datum
+_OBJC_IVAR_$_CRSProjParams._gamma
+_OBJC_IVAR_$_CRSProjParams._a
+_OBJC_IVAR_$_CRSProjParams._b
+_OBJC_IVAR_$_CRSProjParams._ellps
+_OBJC_IVAR_$_CRSProjParams._towgs84
+_OBJC_IVAR_$_CRSProjParams._xTranslation
+_OBJC_IVAR_$_CRSProjParams._yTranslation
+_OBJC_IVAR_$_CRSProjParams._zTranslation
+_OBJC_IVAR_$_CRSProjParams._xRotation
+_OBJC_IVAR_$_CRSProjParams._yRotation
+_OBJC_IVAR_$_CRSProjParams._zRotation
+_OBJC_IVAR_$_CRSProjParams._scaleDifference
+_OBJC_IVAR_$_CRSProjParams._pm
+_OBJC_IVAR_$_CRSProjParams._units
+_OBJC_IVAR_$_CRSProjParams._to_meter
+_OBJC_IVAR_$_CRSProjParams._nadgrids
+__OBJC_$_INSTANCE_VARIABLES_CRSProjParams
+__OBJC_$_PROP_LIST_CRSProjParams
+__OBJC_CLASS_RO_$_CRSProjParams
+/Users/albintornqvist/projects/GlobalForester-iOS/Carthage/Checkouts/coordinate-reference-systems-ios/crs-ios/util/proj/CRSProjParams.m
+crs-ios/util/proj/CRSProjParams.m
+crs-ios/util/proj/CRSProjParams.h
++[CRSEllipsoids initialize]
++[CRSEllipsoids initializeEllipsoid:]
++[CRSEllipsoids createWithType:andShortName:andEquatorRadius:andPoleRadius:andReciprocalFlattening:andName:]
++[CRSEllipsoids createWithType:andShortName:andEquatorRadius:andEccentricity2:andName:]
++[CRSEllipsoids createWithType:andShortName:andEquatorRadius:andPoleRadius:andReciprocalFlattening:andNames:]
++[CRSEllipsoids createWithType:andShortName:andEquatorRadius:andEccentricity2:andNames:]
++[CRSEllipsoids fromType:]
++[CRSEllipsoids fromName:]
+-[CRSEllipsoids initWithType:andShortName:andEquatorRadius:andPoleRadius:andReciprocalFlattening:andName:]
+-[CRSEllipsoids initWithType:andShortName:andEquatorRadius:andEccentricity2:andName:]
+-[CRSEllipsoids initWithType:andShortName:andEquatorRadius:andPoleRadius:andReciprocalFlattening:andNames:]
+-[CRSEllipsoids initWithType:andShortName:andEquatorRadius:andEccentricity2:andNames:]
+-[CRSEllipsoids type]
+-[CRSEllipsoids name]
+-[CRSEllipsoids names]
+-[CRSEllipsoids shortName]
+-[CRSEllipsoids equatorRadius]
+-[CRSEllipsoids a]
+-[CRSEllipsoids b]
+-[CRSEllipsoids setEccentricitySquared:]
+-[CRSEllipsoids eccentricitySquared]
+-[CRSEllipsoids description]
+-[CRSEllipsoids isEqual:]
+-[CRSEllipsoids hash]
+-[CRSEllipsoids setType:]
+-[CRSEllipsoids setNames:]
+-[CRSEllipsoids setShortName:]
+-[CRSEllipsoids setEquatorRadius:]
+-[CRSEllipsoids poleRadius]
+-[CRSEllipsoids setPoleRadius:]
+-[CRSEllipsoids eccentricity]
+-[CRSEllipsoids setEccentricity:]
+-[CRSEllipsoids eccentricity2]
+-[CRSEllipsoids setEccentricity2:]
+-[CRSEllipsoids .cxx_destruct]
+_typeEllipsoids
+_nameEllipsoids
+_OBJC_CLASSLIST_REFERENCES_$_.208
+_OBJC_SELECTOR_REFERENCES_.210
+_OBJC_SELECTOR_REFERENCES_.212
+_OBJC_SELECTOR_REFERENCES_.214
+_OBJC_SELECTOR_REFERENCES_.216
+_OBJC_SELECTOR_REFERENCES_.218
+_OBJC_SELECTOR_REFERENCES_.220
+_OBJC_SELECTOR_REFERENCES_.222
+_OBJC_SELECTOR_REFERENCES_.226
+_OBJC_SELECTOR_REFERENCES_.228
+_OBJC_CLASSLIST_REFERENCES_$_.229
+_OBJC_SELECTOR_REFERENCES_.231
+_OBJC_SELECTOR_REFERENCES_.233
+_OBJC_SELECTOR_REFERENCES_.235
+_OBJC_CLASSLIST_REFERENCES_$_.236
+_OBJC_SELECTOR_REFERENCES_.238
+_OBJC_SELECTOR_REFERENCES_.240
+_OBJC_SELECTOR_REFERENCES_.242
+_OBJC_SELECTOR_REFERENCES_.244
+_OBJC_SELECTOR_REFERENCES_.246
+_OBJC_SELECTOR_REFERENCES_.248
+_OBJC_CLASSLIST_REFERENCES_$_.249
+_OBJC_SELECTOR_REFERENCES_.255
+_OBJC_SELECTOR_REFERENCES_.257
+_OBJC_SELECTOR_REFERENCES_.259
+_OBJC_SELECTOR_REFERENCES_.261
+_OBJC_SELECTOR_REFERENCES_.263
+_OBJC_SELECTOR_REFERENCES_.265
+_OBJC_SELECTOR_REFERENCES_.267
+_OBJC_SELECTOR_REFERENCES_.269
+_OBJC_SELECTOR_REFERENCES_.271
+_OBJC_SELECTOR_REFERENCES_.273
+_OBJC_SELECTOR_REFERENCES_.275
+_OBJC_SELECTOR_REFERENCES_.277
+_OBJC_SELECTOR_REFERENCES_.279
+__OBJC_$_CLASS_METHODS_CRSEllipsoids
+__OBJC_METACLASS_RO_$_CRSEllipsoids
+__OBJC_$_INSTANCE_METHODS_CRSEllipsoids
+_OBJC_IVAR_$_CRSEllipsoids._type
+_OBJC_IVAR_$_CRSEllipsoids._names
+_OBJC_IVAR_$_CRSEllipsoids._shortName
+_OBJC_IVAR_$_CRSEllipsoids._equatorRadius
+_OBJC_IVAR_$_CRSEllipsoids._poleRadius
+_OBJC_IVAR_$_CRSEllipsoids._eccentricity
+_OBJC_IVAR_$_CRSEllipsoids._eccentricity2
+__OBJC_$_INSTANCE_VARIABLES_CRSEllipsoids
+__OBJC_$_PROP_LIST_CRSEllipsoids
+__OBJC_CLASS_RO_$_CRSEllipsoids
+/Users/albintornqvist/projects/GlobalForester-iOS/Carthage/Checkouts/coordinate-reference-systems-ios/crs-ios/geo/CRSEllipsoids.m
+crs-ios/geo/CRSEllipsoids.m
++[CRSProjParser paramsFromText:]
++[CRSProjParser paramsTextFromText:]
++[CRSProjParser paramsFromCRS:]
++[CRSProjParser paramsTextFromCRS:]
++[CRSProjParser paramsFromGeo:]
++[CRSProjParser paramsTextFromGeo:]
++[CRSProjParser paramsFromProjected:]
++[CRSProjParser paramsTextFromProjected:]
++[CRSProjParser paramsFromCompound:]
++[CRSProjParser paramsTextFromCompound:]
++[CRSProjParser updateDatumWithParams:andGeoDatum:]
++[CRSProjParser updateDatumWithParams:andGeoDatum:andMapProjection:]
++[CRSProjParser updateDatumWithParams:andGeoDatum:andCommonGeoDatum:andMapProjection:]
++[CRSProjParser updateEllipsoidWithParams:andEllipsoid:]
++[CRSProjParser updateSphericalEllipsoidWithParams:andRadius:]
++[CRSProjParser updateDatumTransformWithParams:andCRS:]
++[CRSProjParser updateDatumTransformWithParams:andToWGS84:]
++[CRSProjParser updateDatumTransformWithParams:andOperationMethod:]
++[CRSProjParser updatePrimeMeridianWithParams:andGeoDatum:]
++[CRSProjParser updateProjWithParams:andCoordinateSystem:]
++[CRSProjParser updateProjWithParams:andCoordinateSystem:andMapProjection:]
++[CRSProjParser updateUnitsWithParams:andCoordinateSystem:]
++[CRSProjParser updateAxisWithParams:andCoordinateSystem:]
++[CRSProjParser updateParams:withMapProjection:andUnit:]
++[CRSProjParser updateParams:withOperationMethod:andUnit:]
++[CRSProjParser updateParams:withOperationMethod:andUnit:andOperationParameter:]
++[CRSProjParser convertAxes:]
++[CRSProjParser valueOfParameter:withUnit:inUnit:]
++[CRSProjParser valueOfParameter:inUnit:]
++[CRSProjParser convertValue:andTextValue:fromUnit:toUnit:]
++[CRSProjParser paramsText:]
+_OBJC_SELECTOR_REFERENCES_.53
+_OBJC_SELECTOR_REFERENCES_.55
+_OBJC_SELECTOR_REFERENCES_.57
+_OBJC_CLASSLIST_REFERENCES_$_.62
+_OBJC_SELECTOR_REFERENCES_.64
+_OBJC_SELECTOR_REFERENCES_.66
+_OBJC_SELECTOR_REFERENCES_.68
+_OBJC_SELECTOR_REFERENCES_.70
+_OBJC_SELECTOR_REFERENCES_.72
+_OBJC_SELECTOR_REFERENCES_.74
+_OBJC_SELECTOR_REFERENCES_.76
+_OBJC_SELECTOR_REFERENCES_.78
+_OBJC_SELECTOR_REFERENCES_.80
+_OBJC_SELECTOR_REFERENCES_.82
+_OBJC_SELECTOR_REFERENCES_.84
+_OBJC_SELECTOR_REFERENCES_.86
+_OBJC_CLASSLIST_REFERENCES_$_.87
+_OBJC_SELECTOR_REFERENCES_.89
+_OBJC_SELECTOR_REFERENCES_.91
+_OBJC_SELECTOR_REFERENCES_.93
+_OBJC_CLASSLIST_REFERENCES_$_.94
+_OBJC_SELECTOR_REFERENCES_.96
+_OBJC_SELECTOR_REFERENCES_.98
+_OBJC_SELECTOR_REFERENCES_.100
+_OBJC_SELECTOR_REFERENCES_.102
+_OBJC_SELECTOR_REFERENCES_.104
+_OBJC_SELECTOR_REFERENCES_.106
+_OBJC_SELECTOR_REFERENCES_.108
+_OBJC_SELECTOR_REFERENCES_.110
+_OBJC_CLASSLIST_REFERENCES_$_.111
+_OBJC_CLASSLIST_REFERENCES_$_.116
+_OBJC_SELECTOR_REFERENCES_.118
+_OBJC_SELECTOR_REFERENCES_.120
+_OBJC_CLASSLIST_REFERENCES_$_.121
+_OBJC_SELECTOR_REFERENCES_.123
+_OBJC_SELECTOR_REFERENCES_.125
+_OBJC_SELECTOR_REFERENCES_.127
+_OBJC_SELECTOR_REFERENCES_.129
+_OBJC_SELECTOR_REFERENCES_.131
+_OBJC_SELECTOR_REFERENCES_.133
+_OBJC_SELECTOR_REFERENCES_.135
+_OBJC_SELECTOR_REFERENCES_.137
+_OBJC_SELECTOR_REFERENCES_.139
+_OBJC_SELECTOR_REFERENCES_.141
+_OBJC_SELECTOR_REFERENCES_.143
+_OBJC_SELECTOR_REFERENCES_.145
+_OBJC_SELECTOR_REFERENCES_.147
+_OBJC_SELECTOR_REFERENCES_.149
+_OBJC_SELECTOR_REFERENCES_.151
+_OBJC_SELECTOR_REFERENCES_.153
+_OBJC_SELECTOR_REFERENCES_.155
+_OBJC_SELECTOR_REFERENCES_.157
+_OBJC_SELECTOR_REFERENCES_.159
+_OBJC_SELECTOR_REFERENCES_.161
+_OBJC_CLASSLIST_REFERENCES_$_.162
+_OBJC_SELECTOR_REFERENCES_.164
+_OBJC_SELECTOR_REFERENCES_.166
+_OBJC_SELECTOR_REFERENCES_.168
+_OBJC_SELECTOR_REFERENCES_.170
+_OBJC_SELECTOR_REFERENCES_.172
+_OBJC_SELECTOR_REFERENCES_.174
+_OBJC_SELECTOR_REFERENCES_.176
+_OBJC_SELECTOR_REFERENCES_.178
+_OBJC_SELECTOR_REFERENCES_.180
+_OBJC_SELECTOR_REFERENCES_.182
+_OBJC_SELECTOR_REFERENCES_.184
+_OBJC_SELECTOR_REFERENCES_.186
+_OBJC_SELECTOR_REFERENCES_.188
+_OBJC_SELECTOR_REFERENCES_.190
+_OBJC_SELECTOR_REFERENCES_.192
+_OBJC_SELECTOR_REFERENCES_.194
+_OBJC_SELECTOR_REFERENCES_.196
+_OBJC_SELECTOR_REFERENCES_.198
+_OBJC_SELECTOR_REFERENCES_.200
+_OBJC_SELECTOR_REFERENCES_.202
+_OBJC_SELECTOR_REFERENCES_.204
+_OBJC_SELECTOR_REFERENCES_.206
+_OBJC_SELECTOR_REFERENCES_.208
+_OBJC_CLASSLIST_REFERENCES_$_.213
+_OBJC_SELECTOR_REFERENCES_.215
+_OBJC_SELECTOR_REFERENCES_.217
+_OBJC_SELECTOR_REFERENCES_.219
+_OBJC_SELECTOR_REFERENCES_.221
+_OBJC_SELECTOR_REFERENCES_.223
+_OBJC_SELECTOR_REFERENCES_.225
+_OBJC_CLASSLIST_REFERENCES_$_.226
+_OBJC_SELECTOR_REFERENCES_.230
+_OBJC_SELECTOR_REFERENCES_.232
+_OBJC_SELECTOR_REFERENCES_.234
+_OBJC_SELECTOR_REFERENCES_.236
+_OBJC_SELECTOR_REFERENCES_.250
+_OBJC_SELECTOR_REFERENCES_.252
+_OBJC_SELECTOR_REFERENCES_.254
+_OBJC_SELECTOR_REFERENCES_.256
+_OBJC_SELECTOR_REFERENCES_.258
+_OBJC_SELECTOR_REFERENCES_.262
+_OBJC_SELECTOR_REFERENCES_.268
+_OBJC_SELECTOR_REFERENCES_.270
+_OBJC_SELECTOR_REFERENCES_.272
+_OBJC_SELECTOR_REFERENCES_.274
+_OBJC_SELECTOR_REFERENCES_.276
+_OBJC_SELECTOR_REFERENCES_.278
+_OBJC_SELECTOR_REFERENCES_.280
+_OBJC_CLASSLIST_REFERENCES_$_.281
+_OBJC_SELECTOR_REFERENCES_.283
+_OBJC_SELECTOR_REFERENCES_.285
+_OBJC_SELECTOR_REFERENCES_.287
+_OBJC_SELECTOR_REFERENCES_.289
+_OBJC_SELECTOR_REFERENCES_.291
+_OBJC_SELECTOR_REFERENCES_.293
+_OBJC_SELECTOR_REFERENCES_.295
+_OBJC_SELECTOR_REFERENCES_.297
+_OBJC_CLASSLIST_REFERENCES_$_.298
+_OBJC_SELECTOR_REFERENCES_.300
+_OBJC_SELECTOR_REFERENCES_.302
+__OBJC_$_CLASS_METHODS_CRSProjParser
+__OBJC_METACLASS_RO_$_CRSProjParser
+__OBJC_CLASS_RO_$_CRSProjParser
+/Users/albintornqvist/projects/GlobalForester-iOS/Carthage/Checkouts/coordinate-reference-systems-ios/crs-ios/util/proj/CRSProjParser.m
+crs-ios/util/proj/CRSProjParser.m
++[CRSTemporalDatum create]
+-[CRSTemporalDatum init]
+-[CRSTemporalDatum initWithName:]
+-[CRSTemporalDatum hasCalendar]
+-[CRSTemporalDatum hasOrigin]
+-[CRSTemporalDatum setOrigin:]
+-[CRSTemporalDatum hasOriginDateTime]
+-[CRSTemporalDatum setOriginDateTime:]
+-[CRSTemporalDatum setOriginDateTimeWithOrigin:]
+-[CRSTemporalDatum hasIdentifiers]
+-[CRSTemporalDatum numIdentifiers]
+-[CRSTemporalDatum identifierAtIndex:]
+-[CRSTemporalDatum addIdentifier:]
+-[CRSTemporalDatum addIdentifiers:]
+-[CRSTemporalDatum isEqualToTemporalDatum:]
+-[CRSTemporalDatum isEqual:]
+-[CRSTemporalDatum hash]
+-[CRSTemporalDatum description]
+-[CRSTemporalDatum name]
+-[CRSTemporalDatum setName:]
+-[CRSTemporalDatum calendar]
+-[CRSTemporalDatum setCalendar:]
+-[CRSTemporalDatum origin]
+-[CRSTemporalDatum originDateTime]
+-[CRSTemporalDatum identifiers]
+-[CRSTemporalDatum setIdentifiers:]
+-[CRSTemporalDatum .cxx_destruct]
+_OBJC_CLASSLIST_REFERENCES_$_.7
+__OBJC_$_CLASS_METHODS_CRSTemporalDatum
+__OBJC_CLASS_PROTOCOLS_$_CRSTemporalDatum
+__OBJC_METACLASS_RO_$_CRSTemporalDatum
+__OBJC_$_INSTANCE_METHODS_CRSTemporalDatum
+_OBJC_IVAR_$_CRSTemporalDatum._name
+_OBJC_IVAR_$_CRSTemporalDatum._calendar
+_OBJC_IVAR_$_CRSTemporalDatum._origin
+_OBJC_IVAR_$_CRSTemporalDatum._originDateTime
+_OBJC_IVAR_$_CRSTemporalDatum._identifiers
+__OBJC_$_INSTANCE_VARIABLES_CRSTemporalDatum
+__OBJC_$_PROP_LIST_CRSTemporalDatum
+__OBJC_CLASS_RO_$_CRSTemporalDatum
+/Users/albintornqvist/projects/GlobalForester-iOS/Carthage/Checkouts/coordinate-reference-systems-ios/crs-ios/temporal/CRSTemporalDatum.m
+crs-ios/temporal/CRSTemporalDatum.m
+crs-ios/temporal/CRSTemporalDatum.h
++[CRSConcatenatedOperation create]
+-[CRSConcatenatedOperation init]
+-[CRSConcatenatedOperation initWithName:andSource:andTarget:]
+-[CRSConcatenatedOperation numOperations]
+-[CRSConcatenatedOperation operationAtIndex:]
+-[CRSConcatenatedOperation addOperation:]
+-[CRSConcatenatedOperation addOperations:]
+-[CRSConcatenatedOperation isEqualToConcatenatedOperation:]
+-[CRSConcatenatedOperation isEqual:]
+-[CRSConcatenatedOperation hash]
+-[CRSConcatenatedOperation target]
+-[CRSConcatenatedOperation setTarget:]
+-[CRSConcatenatedOperation operations]
+-[CRSConcatenatedOperation setOperations:]
+-[CRSConcatenatedOperation .cxx_destruct]
+_OBJC_CLASSLIST_REFERENCES_$_.3
+_OBJC_IVAR_$_CRSConcatenatedOperation._operations
+_OBJC_IVAR_$_CRSConcatenatedOperation._target
+__OBJC_$_CLASS_METHODS_CRSConcatenatedOperation
+__OBJC_METACLASS_RO_$_CRSConcatenatedOperation
+__OBJC_$_INSTANCE_METHODS_CRSConcatenatedOperation
+__OBJC_$_INSTANCE_VARIABLES_CRSConcatenatedOperation
+__OBJC_$_PROP_LIST_CRSConcatenatedOperation
+__OBJC_CLASS_RO_$_CRSConcatenatedOperation
+/Users/albintornqvist/projects/GlobalForester-iOS/Carthage/Checkouts/coordinate-reference-systems-ios/crs-ios/operation/CRSConcatenatedOperation.m
+crs-ios/operation/CRSConcatenatedOperation.m
+crs-ios/operation/CRSConcatenatedOperation.h
++[CRSTextReader createWithText:]
++[CRSTextReader createWithText:andIncludeQuotes:]
+-[CRSTextReader initWithText:]
+-[CRSTextReader initWithText:andIncludeQuotes:]
+-[CRSTextReader text]
+-[CRSTextReader reset]
+-[CRSTextReader readToken]
+-[CRSTextReader readTokenWithCache:]
+-[CRSTextReader peekToken]
+-[CRSTextReader peekTokenAtNum:]
+-[CRSTextReader pushToken:]
+-[CRSTextReader readExpectedToken]
+-[CRSTextReader peekExpectedToken]
+-[CRSTextReader peekExpectedTokenAtNum:]
+-[CRSTextReader readNumber]
+-[CRSTextReader readUnsignedNumber]
+-[CRSTextReader readInteger]
+-[CRSTextReader readUnsignedInteger]
+-[CRSTextReader isTokenCharacter:]
+-[CRSTextReader isQuoteCharacter:]
+-[CRSTextReader includeQuotes]
+-[CRSTextReader setIncludeQuotes:]
+-[CRSTextReader setText:]
+-[CRSTextReader nextTokens]
+-[CRSTextReader setNextTokens:]
+-[CRSTextReader nextCharacterNum]
+-[CRSTextReader setNextCharacterNum:]
+-[CRSTextReader .cxx_destruct]
+_OBJC_CLASSLIST_REFERENCES_$_.28
+_OBJC_CLASSLIST_REFERENCES_$_.33
+_OBJC_CLASSLIST_REFERENCES_$_.49
+_OBJC_CLASSLIST_REFERENCES_$_.60
+_OBJC_SELECTOR_REFERENCES_.62
+__OBJC_$_CLASS_METHODS_CRSTextReader
+__OBJC_METACLASS_RO_$_CRSTextReader
+__OBJC_$_INSTANCE_METHODS_CRSTextReader
+_OBJC_IVAR_$_CRSTextReader._includeQuotes
+_OBJC_IVAR_$_CRSTextReader._nextCharacterNum
+_OBJC_IVAR_$_CRSTextReader._text
+_OBJC_IVAR_$_CRSTextReader._nextTokens
+__OBJC_$_INSTANCE_VARIABLES_CRSTextReader
+__OBJC_$_PROP_LIST_CRSTextReader
+__OBJC_CLASS_RO_$_CRSTextReader
+/Users/albintornqvist/projects/GlobalForester-iOS/Carthage/Checkouts/coordinate-reference-systems-ios/crs-ios/wkt/CRSTextReader.m
+crs-ios/wkt/CRSTextReader.m
+crs-ios/wkt/CRSTextReader.h
++[CRSEngineeringDatum create]
+-[CRSEngineeringDatum init]
+-[CRSEngineeringDatum initWithName:]
+-[CRSEngineeringDatum isEqualToEngineeringDatum:]
+-[CRSEngineeringDatum isEqual:]
+-[CRSEngineeringDatum hash]
+__OBJC_$_CLASS_METHODS_CRSEngineeringDatum
+__OBJC_METACLASS_RO_$_CRSEngineeringDatum
+__OBJC_$_INSTANCE_METHODS_CRSEngineeringDatum
+__OBJC_CLASS_RO_$_CRSEngineeringDatum
+/Users/albintornqvist/projects/GlobalForester-iOS/Carthage/Checkouts/coordinate-reference-systems-ios/crs-ios/engineering/CRSEngineeringDatum.m
+crs-ios/engineering/CRSEngineeringDatum.m
+-[CRSDatumEnsemble init]
+-[CRSDatumEnsemble initWithName:andMember:andAccuracy:]
+-[CRSDatumEnsemble initWithName:andMember:andAccuracyText:]
+-[CRSDatumEnsemble initWithName:andMembers:andAccuracy:]
+-[CRSDatumEnsemble initWithName:andMembers:andAccuracyText:]
+-[CRSDatumEnsemble numMembers]
+-[CRSDatumEnsemble memberAtIndex:]
+-[CRSDatumEnsemble addMember:]
+-[CRSDatumEnsemble addMembers:]
+-[CRSDatumEnsemble setAccuracy:]
+-[CRSDatumEnsemble setAccuracyText:]
+-[CRSDatumEnsemble hasIdentifiers]
+-[CRSDatumEnsemble numIdentifiers]
+-[CRSDatumEnsemble identifierAtIndex:]
+-[CRSDatumEnsemble addIdentifier:]
+-[CRSDatumEnsemble addIdentifiers:]
+-[CRSDatumEnsemble isEqualToDatumEnsemble:]
+-[CRSDatumEnsemble isEqual:]
+-[CRSDatumEnsemble hash]
+-[CRSDatumEnsemble description]
+-[CRSDatumEnsemble name]
+-[CRSDatumEnsemble setName:]
+-[CRSDatumEnsemble members]
+-[CRSDatumEnsemble setMembers:]
+-[CRSDatumEnsemble accuracy]
+-[CRSDatumEnsemble accuracyText]
+-[CRSDatumEnsemble identifiers]
+-[CRSDatumEnsemble setIdentifiers:]
+-[CRSDatumEnsemble .cxx_destruct]
+_OBJC_CLASSLIST_REFERENCES_$_.21
+_OBJC_CLASSLIST_REFERENCES_$_.41
+_OBJC_CLASSLIST_REFERENCES_$_.50
+_OBJC_SELECTOR_REFERENCES_.52
+__OBJC_CLASS_PROTOCOLS_$_CRSDatumEnsemble
+__OBJC_METACLASS_RO_$_CRSDatumEnsemble
+__OBJC_$_INSTANCE_METHODS_CRSDatumEnsemble
+_OBJC_IVAR_$_CRSDatumEnsemble._name
+_OBJC_IVAR_$_CRSDatumEnsemble._members
+_OBJC_IVAR_$_CRSDatumEnsemble._accuracy
+_OBJC_IVAR_$_CRSDatumEnsemble._accuracyText
+_OBJC_IVAR_$_CRSDatumEnsemble._identifiers
+__OBJC_$_INSTANCE_VARIABLES_CRSDatumEnsemble
+__OBJC_$_PROP_LIST_CRSDatumEnsemble
+__OBJC_CLASS_RO_$_CRSDatumEnsemble
+/Users/albintornqvist/projects/GlobalForester-iOS/Carthage/Checkouts/coordinate-reference-systems-ios/crs-ios/common/CRSDatumEnsemble.m
+crs-ios/common/CRSDatumEnsemble.m
+crs-ios/common/CRSDatumEnsemble.h
++[CRSIdentifier create]
+-[CRSIdentifier init]
+-[CRSIdentifier initWithName:andUniqueIdentifier:]
+-[CRSIdentifier nameAndUniqueIdentifier]
+-[CRSIdentifier nameAndUniqueIdentifierWithDelimiter:]
+-[CRSIdentifier hasVersion]
+-[CRSIdentifier hasCitation]
+-[CRSIdentifier hasUri]
+-[CRSIdentifier isEqualToIdentifier:]
+-[CRSIdentifier isEqual:]
+-[CRSIdentifier hash]
+-[CRSIdentifier description]
+-[CRSIdentifier name]
+-[CRSIdentifier setName:]
+-[CRSIdentifier uniqueIdentifier]
+-[CRSIdentifier setUniqueIdentifier:]
+-[CRSIdentifier version]
+-[CRSIdentifier setVersion:]
+-[CRSIdentifier citation]
+-[CRSIdentifier setCitation:]
+-[CRSIdentifier uri]
+-[CRSIdentifier setUri:]
+-[CRSIdentifier .cxx_destruct]
+_OBJC_CLASSLIST_REFERENCES_$_.32
+__OBJC_$_CLASS_METHODS_CRSIdentifier
+__OBJC_METACLASS_RO_$_CRSIdentifier
+__OBJC_$_INSTANCE_METHODS_CRSIdentifier
+_OBJC_IVAR_$_CRSIdentifier._name
+_OBJC_IVAR_$_CRSIdentifier._uniqueIdentifier
+_OBJC_IVAR_$_CRSIdentifier._version
+_OBJC_IVAR_$_CRSIdentifier._citation
+_OBJC_IVAR_$_CRSIdentifier._uri
+__OBJC_$_INSTANCE_VARIABLES_CRSIdentifier
+__OBJC_$_PROP_LIST_CRSIdentifier
+__OBJC_CLASS_RO_$_CRSIdentifier
+/Users/albintornqvist/projects/GlobalForester-iOS/Carthage/Checkouts/coordinate-reference-systems-ios/crs-ios/common/CRSIdentifier.m
+crs-ios/common/CRSIdentifier.m
+crs-ios/common/CRSIdentifier.h
++[CRSReader initialize]
++[CRSReader read:]
++[CRSReader read:withStrict:]
++[CRSReader read:withType:]
++[CRSReader read:withTypes:]
++[CRSReader read:withStrict:andType:]
++[CRSReader read:withStrict:andTypes:]
++[CRSReader readCoordinateReferenceSystem:]
++[CRSReader readCoordinateReferenceSystem:withStrict:]
++[CRSReader readSimpleCoordinateReferenceSystem:]
++[CRSReader readSimpleCoordinateReferenceSystem:withStrict:]
++[CRSReader readGeo:]
++[CRSReader readGeodetic:]
++[CRSReader readGeographic:]
++[CRSReader readProjected:]
++[CRSReader readProjectedGeodetic:]
++[CRSReader readProjectedGeographic:]
++[CRSReader readVertical:]
++[CRSReader readEngineering:]
++[CRSReader readParametric:]
++[CRSReader readTemporal:]
++[CRSReader readDerived:]
++[CRSReader readCompound:]
++[CRSReader readCoordinateMetadata:]
++[CRSReader readCoordinateOperation:]
++[CRSReader readPointMotionOperation:]
++[CRSReader readConcatenatedOperation:]
++[CRSReader readBound:]
++[CRSReader readGeoCompat:]
++[CRSReader readGeodeticCompat:]
++[CRSReader readGeographicCompat:]
++[CRSReader readProjectedCompat:]
++[CRSReader readProjectedGeodeticCompat:]
++[CRSReader readProjectedGeographicCompat:]
++[CRSReader createWithText:]
++[CRSReader createWithReader:]
++[CRSReader createWithText:andStrict:]
++[CRSReader createWithReader:andStrict:]
+-[CRSReader initWithText:]
+-[CRSReader initWithReader:]
+-[CRSReader initWithText:andStrict:]
+-[CRSReader initWithReader:andStrict:]
+-[CRSReader textReader]
+-[CRSReader reset]
+-[CRSReader read]
+-[CRSReader readCoordinateReferenceSystem]
+-[CRSReader readSimpleCoordinateReferenceSystem]
+-[CRSReader readKeyword]
+-[CRSReader readKeywordType]
+-[CRSReader readKeywords]
+-[CRSReader readKeywordTypes]
+-[CRSReader readKeywordWithType:]
+-[CRSReader readKeywordWithTypes:]
+-[CRSReader readToKeyword:]
+-[CRSReader readToKeywords:]
+-[CRSReader readKeywordWithType:andRequired:]
+-[CRSReader readKeywordWithTypes:andRequired:]
+-[CRSReader peekKeyword]
+-[CRSReader peekKeywordType]
+-[CRSReader peekKeywords]
+-[CRSReader peekKeywordTypes]
+-[CRSReader peekOptionalKeyword]
+-[CRSReader peekOptionalKeywordType]
+-[CRSReader peekOptionalKeywords]
+-[CRSReader peekOptionalKeywordTypes]
+-[CRSReader peekOptionalKeywordAtNum:]
+-[CRSReader peekOptionalKeywordTypeAtNum:]
+-[CRSReader peekOptionalKeywordsAtNum:]
+-[CRSReader peekOptionalKeywordTypesAtNum:]
+-[CRSReader readLeftDelimiter]
+-[CRSReader peekLeftDelimiter]
+-[CRSReader readRightDelimiter]
+-[CRSReader peekRightDelimiter]
+-[CRSReader readSeparator]
+-[CRSReader peekSeparator]
+-[CRSReader readEnd]
+-[CRSReader readKeywordDelimitedToken:]
+-[CRSReader validateKeyword:withExpectedType:]
+-[CRSReader validateKeyword:withExpectedTypes:]
+-[CRSReader validateKeywords:withExpectedType:]
+-[CRSReader validateKeywords:withExpectedTypes:]
+-[CRSReader keywordNames:]
+-[CRSReader isKeywordNext:]
+-[CRSReader isKeywordsNext:]
+-[CRSReader isNonKeywordNext]
+-[CRSReader isUnitNext]
+-[CRSReader isSpatialUnitNext]
+-[CRSReader isTimeUnitNext]
+-[CRSReader readGeo]
+-[CRSReader readProjected]
+-[CRSReader readProjectedGeodetic]
+-[CRSReader readProjectedGeographic]
+-[CRSReader readProjectedWithType:]
+-[CRSReader readVertical]
+-[CRSReader readEngineering]
+-[CRSReader readParametric]
+-[CRSReader readTemporal]
+-[CRSReader readDerivedProjected]
+-[CRSReader readCompound]
+-[CRSReader readCoordinateMetadata]
+-[CRSReader readCoordinateOperation]
+-[CRSReader readPointMotionOperation]
+-[CRSReader readConcatenatedOperation]
+-[CRSReader readBound]
+-[CRSReader readScopeExtentIdentifierRemark:]
+-[CRSReader readGeoReferenceFrame]
+-[CRSReader readGeoReferenceFrameWithCRS:]
+-[CRSReader readVerticalReferenceFrame]
+-[CRSReader readVerticalReferenceFrameWithCRS:]
+-[CRSReader readEngineeringDatum]
+-[CRSReader readEngineeringDatumWithCRS:]
+-[CRSReader readParametricDatum]
+-[CRSReader readParametricDatumWithCRS:]
+-[CRSReader readReferenceFrame]
+-[CRSReader readReferenceFrameWithCRS:]
+-[CRSReader readGeoDatumEnsemble]
+-[CRSReader readVerticalDatumEnsemble]
+-[CRSReader readDatumEnsemble]
+-[CRSReader readDatumEnsembleMember]
+-[CRSReader readDynamic]
+-[CRSReader readPrimeMeridian]
+-[CRSReader readEllipsoid]
+-[CRSReader readUnit]
+-[CRSReader readAngleUnit]
+-[CRSReader readLengthUnit]
+-[CRSReader readParametricUnit]
+-[CRSReader readScaleUnit]
+-[CRSReader readTimeUnit]
+-[CRSReader readUnitWithType:]
+-[CRSReader readIdentifiers]
+-[CRSReader readIdentifier]
+-[CRSReader readCoordinateSystem]
+-[CRSReader readAxes]
+-[CRSReader readAxesWithType:]
+-[CRSReader readAxis]
+-[CRSReader readAxisWithType:]
+-[CRSReader readRemark]
+-[CRSReader readUsages]
+-[CRSReader readUsage]
+-[CRSReader readScope]
+-[CRSReader readExtent]
+-[CRSReader readAreaDescription]
+-[CRSReader readGeographicBoundingBox]
+-[CRSReader readVerticalExtent]
+-[CRSReader readTemporalExtent]
+-[CRSReader readMapProjection]
+-[CRSReader readMethod]
+-[CRSReader readProjectedParameters]
+-[CRSReader readParametersWithType:]
+-[CRSReader readParameterWithType:]
+-[CRSReader readTemporalDatum]
+-[CRSReader readDerivingConversion]
+-[CRSReader readDerivedParameters]
+-[CRSReader readParametersAndFilesWithType:]
+-[CRSReader readParameterFile]
+-[CRSReader readCoordinateOperationParameters]
+-[CRSReader readVersion]
+-[CRSReader readSource]
+-[CRSReader readTarget]
+-[CRSReader readInterpolation]
+-[CRSReader readCoordinateReferenceSystemWithKeyword:]
+-[CRSReader readAccuracy]
+-[CRSReader readAccuracyText]
+-[CRSReader readPointMotionOperationParameters]
+-[CRSReader readAbridgedCoordinateTransformation]
+-[CRSReader readBoundParameters]
+-[CRSReader readGeoCompat]
+-[CRSReader readGeodeticCompat]
+-[CRSReader readGeographicCompat]
+-[CRSReader readGeoCompatWithType:]
+-[CRSReader readProjectedCompat]
+-[CRSReader readProjectedGeodeticCompat]
+-[CRSReader readProjectedGeographicCompat]
+-[CRSReader readProjectedCompatWithType:]
++[CRSReader addTransformParameters:toMapProjection:]
+-[CRSReader readVerticalCompat]
+-[CRSReader readEngineeringCompat]
+-[CRSReader readMapProjectionCompat]
+-[CRSReader readCoordinateSystemCompatWithType:andReferenceFrame:]
+-[CRSReader readVerticalDatumCompat]
+-[CRSReader readVerticalDatumCompatWithCRS:]
+-[CRSReader readEngineeringDatumCompat]
+-[CRSReader readEngineeringDatumCompatWithCRS:]
+-[CRSReader readDatumCompat]
+-[CRSReader readDatumCompatWithCRS:]
+-[CRSReader readToWGS84Compat]
+-[CRSReader readExtensionsCompat]
+-[CRSReader validateUnsignedDecimalNumber:]
+-[CRSReader validateUnsignedDouble:]
+-[CRSReader strict]
+-[CRSReader setStrict:]
+-[CRSReader reader]
+-[CRSReader setReader:]
+-[CRSReader .cxx_destruct]
+_axisNameAbbrevExpression
+_OBJC_CLASSLIST_REFERENCES_$_.10
+_OBJC_CLASSLIST_REFERENCES_$_.35
+_OBJC_SELECTOR_REFERENCES_.65
+_OBJC_SELECTOR_REFERENCES_.67
+_OBJC_SELECTOR_REFERENCES_.69
+_OBJC_SELECTOR_REFERENCES_.71
+_OBJC_SELECTOR_REFERENCES_.73
+_OBJC_SELECTOR_REFERENCES_.75
+_OBJC_SELECTOR_REFERENCES_.77
+_OBJC_SELECTOR_REFERENCES_.79
+_OBJC_SELECTOR_REFERENCES_.81
+_OBJC_SELECTOR_REFERENCES_.83
+_OBJC_SELECTOR_REFERENCES_.85
+_OBJC_SELECTOR_REFERENCES_.87
+_OBJC_CLASSLIST_REFERENCES_$_.90
+_OBJC_SELECTOR_REFERENCES_.92
+_OBJC_SELECTOR_REFERENCES_.94
+_OBJC_SELECTOR_REFERENCES_.112
+_OBJC_CLASSLIST_REFERENCES_$_.119
+_OBJC_SELECTOR_REFERENCES_.121
+_OBJC_CLASSLIST_REFERENCES_$_.126
+_OBJC_CLASSLIST_REFERENCES_$_.129
+_OBJC_CLASSLIST_REFERENCES_$_.148
+_OBJC_SELECTOR_REFERENCES_.150
+_OBJC_CLASSLIST_REFERENCES_$_.151
+_OBJC_CLASSLIST_REFERENCES_$_.160
+_OBJC_SELECTOR_REFERENCES_.162
+_OBJC_SELECTOR_REFERENCES_.224
+_OBJC_CLASSLIST_REFERENCES_$_.233
+_OBJC_SELECTOR_REFERENCES_.237
+_OBJC_SELECTOR_REFERENCES_.239
+_OBJC_SELECTOR_REFERENCES_.241
+_OBJC_SELECTOR_REFERENCES_.243
+_OBJC_SELECTOR_REFERENCES_.245
+_OBJC_SELECTOR_REFERENCES_.247
+_OBJC_CLASSLIST_REFERENCES_$_.248
+_OBJC_CLASSLIST_REFERENCES_$_.261
+_OBJC_SELECTOR_REFERENCES_.281
+_OBJC_SELECTOR_REFERENCES_.304
+_OBJC_SELECTOR_REFERENCES_.306
+_OBJC_SELECTOR_REFERENCES_.308
+_OBJC_SELECTOR_REFERENCES_.310
+_OBJC_SELECTOR_REFERENCES_.312
+_OBJC_SELECTOR_REFERENCES_.314
+_OBJC_SELECTOR_REFERENCES_.316
+_OBJC_CLASSLIST_REFERENCES_$_.317
+_OBJC_SELECTOR_REFERENCES_.319
+_OBJC_SELECTOR_REFERENCES_.321
+_OBJC_SELECTOR_REFERENCES_.323
+_OBJC_SELECTOR_REFERENCES_.325
+_OBJC_SELECTOR_REFERENCES_.327
+_OBJC_CLASSLIST_REFERENCES_$_.328
+_OBJC_SELECTOR_REFERENCES_.330
+_OBJC_SELECTOR_REFERENCES_.332
+_OBJC_CLASSLIST_REFERENCES_$_.333
+_OBJC_SELECTOR_REFERENCES_.335
+_OBJC_CLASSLIST_REFERENCES_$_.336
+_OBJC_SELECTOR_REFERENCES_.338
+_OBJC_SELECTOR_REFERENCES_.340
+_OBJC_CLASSLIST_REFERENCES_$_.341
+_OBJC_SELECTOR_REFERENCES_.343
+_OBJC_SELECTOR_REFERENCES_.345
+_OBJC_SELECTOR_REFERENCES_.347
+_OBJC_CLASSLIST_REFERENCES_$_.352
+_OBJC_SELECTOR_REFERENCES_.354
+_OBJC_SELECTOR_REFERENCES_.356
+_OBJC_SELECTOR_REFERENCES_.358
+_OBJC_SELECTOR_REFERENCES_.360
+_OBJC_SELECTOR_REFERENCES_.362
+_OBJC_CLASSLIST_REFERENCES_$_.363
+_OBJC_SELECTOR_REFERENCES_.365
+_OBJC_SELECTOR_REFERENCES_.367
+_OBJC_SELECTOR_REFERENCES_.369
+_OBJC_SELECTOR_REFERENCES_.371
+_OBJC_SELECTOR_REFERENCES_.373
+_OBJC_SELECTOR_REFERENCES_.375
+_OBJC_SELECTOR_REFERENCES_.377
+_OBJC_SELECTOR_REFERENCES_.379
+_OBJC_SELECTOR_REFERENCES_.381
+_OBJC_SELECTOR_REFERENCES_.383
+_OBJC_SELECTOR_REFERENCES_.385
+_OBJC_SELECTOR_REFERENCES_.387
+_OBJC_SELECTOR_REFERENCES_.389
+_OBJC_SELECTOR_REFERENCES_.391
+_OBJC_CLASSLIST_REFERENCES_$_.392
+_OBJC_SELECTOR_REFERENCES_.394
+_OBJC_CLASSLIST_REFERENCES_$_.395
+_OBJC_SELECTOR_REFERENCES_.403
+_OBJC_CLASSLIST_REFERENCES_$_.404
+_OBJC_SELECTOR_REFERENCES_.406
+_OBJC_SELECTOR_REFERENCES_.408
+_OBJC_SELECTOR_REFERENCES_.410
+_OBJC_SELECTOR_REFERENCES_.412
+_OBJC_SELECTOR_REFERENCES_.414
+_OBJC_SELECTOR_REFERENCES_.416
+_OBJC_SELECTOR_REFERENCES_.418
+_OBJC_CLASSLIST_REFERENCES_$_.419
+_OBJC_CLASSLIST_REFERENCES_$_.424
+_OBJC_CLASSLIST_REFERENCES_$_.427
+_OBJC_CLASSLIST_REFERENCES_$_.430
+_OBJC_SELECTOR_REFERENCES_.436
+_OBJC_SELECTOR_REFERENCES_.438
+_OBJC_SELECTOR_REFERENCES_.440
+_OBJC_SELECTOR_REFERENCES_.442
+_OBJC_SELECTOR_REFERENCES_.444
+_OBJC_SELECTOR_REFERENCES_.446
+_OBJC_SELECTOR_REFERENCES_.448
+_OBJC_SELECTOR_REFERENCES_.450
+_OBJC_SELECTOR_REFERENCES_.452
+_OBJC_SELECTOR_REFERENCES_.454
+_OBJC_CLASSLIST_REFERENCES_$_.455
+_OBJC_CLASSLIST_REFERENCES_$_.460
+_OBJC_SELECTOR_REFERENCES_.464
+_OBJC_SELECTOR_REFERENCES_.466
+_OBJC_SELECTOR_REFERENCES_.468
+_OBJC_CLASSLIST_REFERENCES_$_.469
+_OBJC_CLASSLIST_REFERENCES_$_.470
+_OBJC_SELECTOR_REFERENCES_.472
+_OBJC_SELECTOR_REFERENCES_.474
+_OBJC_SELECTOR_REFERENCES_.476
+_OBJC_SELECTOR_REFERENCES_.478
+_OBJC_CLASSLIST_REFERENCES_$_.479
+_OBJC_SELECTOR_REFERENCES_.481
+_OBJC_SELECTOR_REFERENCES_.483
+_OBJC_CLASSLIST_REFERENCES_$_.484
+_OBJC_CLASSLIST_REFERENCES_$_.485
+_OBJC_SELECTOR_REFERENCES_.487
+_OBJC_SELECTOR_REFERENCES_.489
+_OBJC_SELECTOR_REFERENCES_.491
+_OBJC_SELECTOR_REFERENCES_.493
+_OBJC_SELECTOR_REFERENCES_.495
+_OBJC_SELECTOR_REFERENCES_.497
+_OBJC_SELECTOR_REFERENCES_.499
+_OBJC_SELECTOR_REFERENCES_.501
+_OBJC_SELECTOR_REFERENCES_.503
+_OBJC_SELECTOR_REFERENCES_.505
+_OBJC_CLASSLIST_REFERENCES_$_.506
+_OBJC_SELECTOR_REFERENCES_.508
+_OBJC_CLASSLIST_REFERENCES_$_.509
+_OBJC_SELECTOR_REFERENCES_.511
+_OBJC_SELECTOR_REFERENCES_.513
+_OBJC_SELECTOR_REFERENCES_.517
+_OBJC_SELECTOR_REFERENCES_.519
+_OBJC_SELECTOR_REFERENCES_.521
+_OBJC_CLASSLIST_REFERENCES_$_.522
+_OBJC_SELECTOR_REFERENCES_.524
+_OBJC_SELECTOR_REFERENCES_.526
+_OBJC_SELECTOR_REFERENCES_.528
+_OBJC_CLASSLIST_REFERENCES_$_.529
+_OBJC_CLASSLIST_REFERENCES_$_.530
+_OBJC_SELECTOR_REFERENCES_.534
+_OBJC_SELECTOR_REFERENCES_.536
+_OBJC_SELECTOR_REFERENCES_.538
+_OBJC_SELECTOR_REFERENCES_.540
+_OBJC_SELECTOR_REFERENCES_.542
+_OBJC_SELECTOR_REFERENCES_.544
+_OBJC_SELECTOR_REFERENCES_.546
+_OBJC_SELECTOR_REFERENCES_.548
+_OBJC_SELECTOR_REFERENCES_.550
+_OBJC_CLASSLIST_REFERENCES_$_.551
+_OBJC_SELECTOR_REFERENCES_.553
+_OBJC_SELECTOR_REFERENCES_.555
+_OBJC_SELECTOR_REFERENCES_.557
+_OBJC_SELECTOR_REFERENCES_.559
+_OBJC_SELECTOR_REFERENCES_.561
+_OBJC_SELECTOR_REFERENCES_.563
+_OBJC_CLASSLIST_REFERENCES_$_.564
+_OBJC_SELECTOR_REFERENCES_.566
+_OBJC_SELECTOR_REFERENCES_.570
+_OBJC_SELECTOR_REFERENCES_.572
+_OBJC_SELECTOR_REFERENCES_.574
+_OBJC_SELECTOR_REFERENCES_.576
+_OBJC_SELECTOR_REFERENCES_.578
+_OBJC_SELECTOR_REFERENCES_.580
+_OBJC_SELECTOR_REFERENCES_.582
+_OBJC_SELECTOR_REFERENCES_.584
+_OBJC_SELECTOR_REFERENCES_.586
+_OBJC_CLASSLIST_REFERENCES_$_.587
+_OBJC_SELECTOR_REFERENCES_.589
+_OBJC_SELECTOR_REFERENCES_.591
+_OBJC_SELECTOR_REFERENCES_.593
+_OBJC_SELECTOR_REFERENCES_.595
+_OBJC_CLASSLIST_REFERENCES_$_.596
+_OBJC_SELECTOR_REFERENCES_.602
+_OBJC_SELECTOR_REFERENCES_.604
+_OBJC_SELECTOR_REFERENCES_.606
+_OBJC_SELECTOR_REFERENCES_.608
+_OBJC_SELECTOR_REFERENCES_.610
+_OBJC_SELECTOR_REFERENCES_.612
+_OBJC_SELECTOR_REFERENCES_.614
+_OBJC_SELECTOR_REFERENCES_.616
+_OBJC_CLASSLIST_REFERENCES_$_.617
+_OBJC_SELECTOR_REFERENCES_.619
+_OBJC_SELECTOR_REFERENCES_.621
+_OBJC_SELECTOR_REFERENCES_.623
+_OBJC_SELECTOR_REFERENCES_.625
+_OBJC_CLASSLIST_REFERENCES_$_.626
+_OBJC_SELECTOR_REFERENCES_.628
+_OBJC_SELECTOR_REFERENCES_.630
+_OBJC_CLASSLIST_REFERENCES_$_.631
+_OBJC_SELECTOR_REFERENCES_.633
+_OBJC_SELECTOR_REFERENCES_.635
+_OBJC_CLASSLIST_REFERENCES_$_.636
+_OBJC_SELECTOR_REFERENCES_.638
+_OBJC_CLASSLIST_REFERENCES_$_.639
+_OBJC_SELECTOR_REFERENCES_.641
+_OBJC_SELECTOR_REFERENCES_.643
+_OBJC_CLASSLIST_REFERENCES_$_.644
+_OBJC_SELECTOR_REFERENCES_.646
+_OBJC_CLASSLIST_REFERENCES_$_.649
+_OBJC_SELECTOR_REFERENCES_.651
+_OBJC_SELECTOR_REFERENCES_.653
+_OBJC_CLASSLIST_REFERENCES_$_.654
+_OBJC_SELECTOR_REFERENCES_.656
+_OBJC_SELECTOR_REFERENCES_.658
+_OBJC_SELECTOR_REFERENCES_.660
+_OBJC_SELECTOR_REFERENCES_.662
+_OBJC_SELECTOR_REFERENCES_.664
+_OBJC_SELECTOR_REFERENCES_.666
+_OBJC_CLASSLIST_REFERENCES_$_.667
+_OBJC_SELECTOR_REFERENCES_.669
+_OBJC_SELECTOR_REFERENCES_.671
+_OBJC_SELECTOR_REFERENCES_.675
+_OBJC_SELECTOR_REFERENCES_.677
+_OBJC_SELECTOR_REFERENCES_.679
+_OBJC_SELECTOR_REFERENCES_.681
+_OBJC_SELECTOR_REFERENCES_.683
+_OBJC_SELECTOR_REFERENCES_.685
+_OBJC_SELECTOR_REFERENCES_.687
+_OBJC_SELECTOR_REFERENCES_.689
+_OBJC_SELECTOR_REFERENCES_.691
+_OBJC_SELECTOR_REFERENCES_.693
+_OBJC_SELECTOR_REFERENCES_.695
+_OBJC_CLASSLIST_REFERENCES_$_.696
+_OBJC_SELECTOR_REFERENCES_.698
+_OBJC_SELECTOR_REFERENCES_.702
+_OBJC_SELECTOR_REFERENCES_.704
+_OBJC_SELECTOR_REFERENCES_.706
+_OBJC_SELECTOR_REFERENCES_.708
+_OBJC_SELECTOR_REFERENCES_.710
+_OBJC_SELECTOR_REFERENCES_.712
+_OBJC_SELECTOR_REFERENCES_.714
+_OBJC_SELECTOR_REFERENCES_.716
+_OBJC_CLASSLIST_REFERENCES_$_.717
+_OBJC_SELECTOR_REFERENCES_.719
+_OBJC_CLASSLIST_REFERENCES_$_.720
+_OBJC_SELECTOR_REFERENCES_.722
+_OBJC_SELECTOR_REFERENCES_.724
+_OBJC_SELECTOR_REFERENCES_.726
+_OBJC_SELECTOR_REFERENCES_.728
+_OBJC_SELECTOR_REFERENCES_.730
+_OBJC_SELECTOR_REFERENCES_.732
+_OBJC_SELECTOR_REFERENCES_.734
+_OBJC_SELECTOR_REFERENCES_.736
+_OBJC_SELECTOR_REFERENCES_.740
+_OBJC_SELECTOR_REFERENCES_.742
+_OBJC_SELECTOR_REFERENCES_.744
+_OBJC_SELECTOR_REFERENCES_.746
+_OBJC_SELECTOR_REFERENCES_.748
+_OBJC_SELECTOR_REFERENCES_.756
+_OBJC_SELECTOR_REFERENCES_.758
+_OBJC_CLASSLIST_REFERENCES_$_.759
+_OBJC_SELECTOR_REFERENCES_.761
+_OBJC_SELECTOR_REFERENCES_.763
+__OBJC_$_CLASS_METHODS_CRSReader
+__OBJC_METACLASS_RO_$_CRSReader
+__OBJC_$_INSTANCE_METHODS_CRSReader
+_OBJC_IVAR_$_CRSReader._strict
+_OBJC_IVAR_$_CRSReader._reader
+__OBJC_$_INSTANCE_VARIABLES_CRSReader
+__OBJC_$_PROP_LIST_CRSReader
+__OBJC_CLASS_RO_$_CRSReader
+/Users/albintornqvist/projects/GlobalForester-iOS/Carthage/Checkouts/coordinate-reference-systems-ios/crs-ios/wkt/CRSReader.m
+crs-ios/wkt/CRSReader.m
+crs-ios/wkt/CRSReader.h
+NSMakeRange
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS15.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSRange.h
++[CRSUnits initialize]
++[CRSUnits unitFromName:]
++[CRSUnits unitFromType:]
++[CRSUnits typeFromName:]
++[CRSUnits typeFromUnit:]
++[CRSUnits micrometre]
++[CRSUnits millimetre]
++[CRSUnits metre]
++[CRSUnits kilometre]
++[CRSUnits GermanLegalMetre]
++[CRSUnits USSurveyFoot]
++[CRSUnits foot]
++[CRSUnits microradian]
++[CRSUnits milliradian]
++[CRSUnits radian]
++[CRSUnits arcSecond]
++[CRSUnits arcMinute]
++[CRSUnits degree]
++[CRSUnits grad]
++[CRSUnits unity]
++[CRSUnits bin]
++[CRSUnits partsPerMillion]
++[CRSUnits pascalUnit]
++[CRSUnits hectopascal]
++[CRSUnits microsecond]
++[CRSUnits millisecond]
++[CRSUnits second]
++[CRSUnits minute]
++[CRSUnits hour]
++[CRSUnits day]
++[CRSUnits year]
++[CRSUnits calendarSecond]
++[CRSUnits calendarMonth]
++[CRSUnits defaultUnit:]
++[CRSUnits canConvertBetweenUnit:andUnit:]
++[CRSUnits convertValue:fromUnit:toUnit:]
++[CRSUnits metreToMeter:]
+_nameTypes
+_OBJC_CLASSLIST_REFERENCES_$_.55
+_OBJC_SELECTOR_REFERENCES_.95
+_OBJC_SELECTOR_REFERENCES_.97
+_OBJC_SELECTOR_REFERENCES_.99
+_OBJC_SELECTOR_REFERENCES_.101
+_OBJC_SELECTOR_REFERENCES_.103
+_OBJC_SELECTOR_REFERENCES_.105
+_OBJC_SELECTOR_REFERENCES_.107
+_OBJC_SELECTOR_REFERENCES_.109
+_OBJC_SELECTOR_REFERENCES_.111
+_OBJC_SELECTOR_REFERENCES_.113
+_OBJC_SELECTOR_REFERENCES_.115
+_OBJC_SELECTOR_REFERENCES_.117
+_OBJC_SELECTOR_REFERENCES_.119
+_OBJC_CLASSLIST_REFERENCES_$_.124
+_OBJC_SELECTOR_REFERENCES_.130
+_OBJC_SELECTOR_REFERENCES_.132
+_OBJC_SELECTOR_REFERENCES_.134
+_OBJC_SELECTOR_REFERENCES_.136
+_OBJC_CLASSLIST_REFERENCES_$_.137
+_OBJC_CLASSLIST_REFERENCES_$_.150
+_OBJC_SELECTOR_REFERENCES_.152
+_OBJC_SELECTOR_REFERENCES_.158
+_OBJC_SELECTOR_REFERENCES_.160
+__OBJC_$_CLASS_METHODS_CRSUnits
+__OBJC_METACLASS_RO_$_CRSUnits
+__OBJC_CLASS_RO_$_CRSUnits
+/Users/albintornqvist/projects/GlobalForester-iOS/Carthage/Checkouts/coordinate-reference-systems-ios/crs-ios/common/CRSUnits.m
+crs-ios/common/CRSUnits.m
++[CRSGeoDatumEnsemble create]
+-[CRSGeoDatumEnsemble init]
+-[CRSGeoDatumEnsemble initWithName:andMember:andEllipsoid:andAccuracy:andPrimeMeridian:]
+-[CRSGeoDatumEnsemble initWithName:andMembers:andEllipsoid:andAccuracy:andPrimeMeridian:]
+-[CRSGeoDatumEnsemble hasPrimeMeridian]
+-[CRSGeoDatumEnsemble isEqualToGeoDatumEnsemble:]
+-[CRSGeoDatumEnsemble isEqual:]
+-[CRSGeoDatumEnsemble hash]
+-[CRSGeoDatumEnsemble ellipsoid]
+-[CRSGeoDatumEnsemble setEllipsoid:]
+-[CRSGeoDatumEnsemble primeMeridian]
+-[CRSGeoDatumEnsemble setPrimeMeridian:]
+-[CRSGeoDatumEnsemble .cxx_destruct]
+_OBJC_IVAR_$_CRSGeoDatumEnsemble._ellipsoid
+_OBJC_IVAR_$_CRSGeoDatumEnsemble._primeMeridian
+__OBJC_$_CLASS_METHODS_CRSGeoDatumEnsemble
+__OBJC_$_PROTOCOL_REFS_CRSGeoDatum
+__OBJC_$_PROTOCOL_INSTANCE_METHODS_CRSGeoDatum
+__OBJC_$_PROTOCOL_METHOD_TYPES_CRSGeoDatum
+__OBJC_PROTOCOL_$_CRSGeoDatum
+__OBJC_LABEL_PROTOCOL_$_CRSGeoDatum
+__OBJC_CLASS_PROTOCOLS_$_CRSGeoDatumEnsemble
+__OBJC_METACLASS_RO_$_CRSGeoDatumEnsemble
+__OBJC_$_INSTANCE_METHODS_CRSGeoDatumEnsemble
+__OBJC_$_INSTANCE_VARIABLES_CRSGeoDatumEnsemble
+__OBJC_$_PROP_LIST_CRSGeoDatumEnsemble
+__OBJC_CLASS_RO_$_CRSGeoDatumEnsemble
+/Users/albintornqvist/projects/GlobalForester-iOS/Carthage/Checkouts/coordinate-reference-systems-ios/crs-ios/geo/CRSGeoDatumEnsemble.m
+crs-ios/geo/CRSGeoDatumEnsemble.m
+crs-ios/geo/CRSGeoDatumEnsemble.h
++[CRSProjectedCoordinateReferenceSystem create]
+-[CRSProjectedCoordinateReferenceSystem init]
+-[CRSProjectedCoordinateReferenceSystem initWithName:andBaseName:andBaseType:andReferenceFrame:andMapProjection:andCoordinateSystem:]
+-[CRSProjectedCoordinateReferenceSystem initWithName:andBaseName:andBaseType:andDatumEnsemble:andMapProjection:andCoordinateSystem:]
+-[CRSProjectedCoordinateReferenceSystem initWithName:andBaseName:andBaseType:andDynamic:andReferenceFrame:andMapProjection:andCoordinateSystem:]
+-[CRSProjectedCoordinateReferenceSystem baseName]
+-[CRSProjectedCoordinateReferenceSystem setBaseName:]
+-[CRSProjectedCoordinateReferenceSystem baseType]
+-[CRSProjectedCoordinateReferenceSystem setBaseType:]
+-[CRSProjectedCoordinateReferenceSystem referenceFrame]
+-[CRSProjectedCoordinateReferenceSystem hasReferenceFrame]
+-[CRSProjectedCoordinateReferenceSystem setReferenceFrame:]
+-[CRSProjectedCoordinateReferenceSystem datumEnsemble]
+-[CRSProjectedCoordinateReferenceSystem hasDatumEnsemble]
+-[CRSProjectedCoordinateReferenceSystem setDatumEnsemble:]
+-[CRSProjectedCoordinateReferenceSystem dynamic]
+-[CRSProjectedCoordinateReferenceSystem hasDynamic]
+-[CRSProjectedCoordinateReferenceSystem setDynamic:]
+-[CRSProjectedCoordinateReferenceSystem geoDatum]
+-[CRSProjectedCoordinateReferenceSystem baseIdentifiers]
+-[CRSProjectedCoordinateReferenceSystem hasBaseIdentifiers]
+-[CRSProjectedCoordinateReferenceSystem numBaseIdentifiers]
+-[CRSProjectedCoordinateReferenceSystem baseIdentifierAtIndex:]
+-[CRSProjectedCoordinateReferenceSystem setBaseIdentifiers:]
+-[CRSProjectedCoordinateReferenceSystem addBaseIdentifier:]
+-[CRSProjectedCoordinateReferenceSystem addBaseIdentifiers:]
+-[CRSProjectedCoordinateReferenceSystem unit]
+-[CRSProjectedCoordinateReferenceSystem hasUnit]
+-[CRSProjectedCoordinateReferenceSystem setUnit:]
+-[CRSProjectedCoordinateReferenceSystem isEqualToProjectedCoordinateReferenceSystem:]
+-[CRSProjectedCoordinateReferenceSystem isEqual:]
+-[CRSProjectedCoordinateReferenceSystem hash]
+-[CRSProjectedCoordinateReferenceSystem base]
+-[CRSProjectedCoordinateReferenceSystem setBase:]
+-[CRSProjectedCoordinateReferenceSystem mapProjection]
+-[CRSProjectedCoordinateReferenceSystem setMapProjection:]
+-[CRSProjectedCoordinateReferenceSystem .cxx_destruct]
+_OBJC_IVAR_$_CRSProjectedCoordinateReferenceSystem._base
+_OBJC_SELECTOR_REFERENCES_.58
+_OBJC_SELECTOR_REFERENCES_.60
+_OBJC_CLASSLIST_REFERENCES_$_.67
+_OBJC_IVAR_$_CRSProjectedCoordinateReferenceSystem._mapProjection
+__OBJC_$_CLASS_METHODS_CRSProjectedCoordinateReferenceSystem
+__OBJC_METACLASS_RO_$_CRSProjectedCoordinateReferenceSystem
+__OBJC_$_INSTANCE_METHODS_CRSProjectedCoordinateReferenceSystem
+__OBJC_$_INSTANCE_VARIABLES_CRSProjectedCoordinateReferenceSystem
+__OBJC_$_PROP_LIST_CRSProjectedCoordinateReferenceSystem
+__OBJC_CLASS_RO_$_CRSProjectedCoordinateReferenceSystem
+/Users/albintornqvist/projects/GlobalForester-iOS/Carthage/Checkouts/coordinate-reference-systems-ios/crs-ios/projected/CRSProjectedCoordinateReferenceSystem.m
+crs-ios/projected/CRSProjectedCoordinateReferenceSystem.m
+crs-ios/projected/CRSProjectedCoordinateReferenceSystem.h
++[CRSParametricDatum create]
+-[CRSParametricDatum init]
+-[CRSParametricDatum initWithName:]
+-[CRSParametricDatum isEqualToParametricDatum:]
+-[CRSParametricDatum isEqual:]
+-[CRSParametricDatum hash]
+__OBJC_$_CLASS_METHODS_CRSParametricDatum
+__OBJC_METACLASS_RO_$_CRSParametricDatum
+__OBJC_$_INSTANCE_METHODS_CRSParametricDatum
+__OBJC_CLASS_RO_$_CRSParametricDatum
+/Users/albintornqvist/projects/GlobalForester-iOS/Carthage/Checkouts/coordinate-reference-systems-ios/crs-ios/parametric/CRSParametricDatum.m
+crs-ios/parametric/CRSParametricDatum.m
++[CRSEngineeringCoordinateReferenceSystem create]
+-[CRSEngineeringCoordinateReferenceSystem init]
+-[CRSEngineeringCoordinateReferenceSystem initWithName:andDatum:andCoordinateSystem:]
+-[CRSEngineeringCoordinateReferenceSystem isEqualToEngineeringCoordinateReferenceSystem:]
+-[CRSEngineeringCoordinateReferenceSystem isEqual:]
+-[CRSEngineeringCoordinateReferenceSystem hash]
+-[CRSEngineeringCoordinateReferenceSystem datum]
+-[CRSEngineeringCoordinateReferenceSystem setDatum:]
+-[CRSEngineeringCoordinateReferenceSystem .cxx_destruct]
+_OBJC_IVAR_$_CRSEngineeringCoordinateReferenceSystem._datum
+__OBJC_$_CLASS_METHODS_CRSEngineeringCoordinateReferenceSystem
+__OBJC_METACLASS_RO_$_CRSEngineeringCoordinateReferenceSystem
+__OBJC_$_INSTANCE_METHODS_CRSEngineeringCoordinateReferenceSystem
+__OBJC_$_INSTANCE_VARIABLES_CRSEngineeringCoordinateReferenceSystem
+__OBJC_$_PROP_LIST_CRSEngineeringCoordinateReferenceSystem
+__OBJC_CLASS_RO_$_CRSEngineeringCoordinateReferenceSystem
+/Users/albintornqvist/projects/GlobalForester-iOS/Carthage/Checkouts/coordinate-reference-systems-ios/crs-ios/engineering/CRSEngineeringCoordinateReferenceSystem.m
+crs-ios/engineering/CRSEngineeringCoordinateReferenceSystem.m
+crs-ios/engineering/CRSEngineeringCoordinateReferenceSystem.h
++[CRSTypes name:]
++[CRSTypes names:]
++[CRSTypes type:]
++[CRSTypes categoryType:]
+_OBJC_CLASSLIST_REFERENCES_$_.37
+_OBJC_CLASSLIST_REFERENCES_$_.38
+__OBJC_$_CLASS_METHODS_CRSTypes
+__OBJC_METACLASS_RO_$_CRSTypes
+__OBJC_CLASS_RO_$_CRSTypes
+/Users/albintornqvist/projects/GlobalForester-iOS/Carthage/Checkouts/coordinate-reference-systems-ios/crs-ios/CRSTypes.m
+crs-ios/CRSTypes.m
++[CRSAxisDirectionTypes name:]
++[CRSAxisDirectionTypes type:]
+_OBJC_CLASSLIST_REFERENCES_$_.79
+__OBJC_$_CLASS_METHODS_CRSAxisDirectionTypes
+__OBJC_METACLASS_RO_$_CRSAxisDirectionTypes
+__OBJC_CLASS_RO_$_CRSAxisDirectionTypes
+/Users/albintornqvist/projects/GlobalForester-iOS/Carthage/Checkouts/coordinate-reference-systems-ios/crs-ios/common/CRSAxisDirectionTypes.m
+crs-ios/common/CRSAxisDirectionTypes.m
++[CRSOperationParameters initialize]
++[CRSOperationParameters initializeParameter:]
++[CRSOperationParameters createWithType:andCode:andName:andOperationType:]
++[CRSOperationParameters createWithType:andCode:andName:andOperationType:andAlias:]
++[CRSOperationParameters createWithType:andCode:andName:andOperationType:andAliases:]
++[CRSOperationParameters createWithType:andCode:andName:andOperationType:andUnitType:]
++[CRSOperationParameters createWithType:andCode:andName:andOperationType:andUnitType:andAlias:]
++[CRSOperationParameters createWithType:andCode:andName:andOperationType:andUnitType:andAliases:]
+-[CRSOperationParameters initWithType:andCode:andName:andOperationType:]
+-[CRSOperationParameters initWithType:andCode:andName:andOperationType:andAlias:]
+-[CRSOperationParameters initWithType:andCode:andName:andOperationType:andAliases:]
+-[CRSOperationParameters initWithType:andCode:andName:andOperationType:andUnitType:]
+-[CRSOperationParameters initWithType:andCode:andName:andOperationType:andUnitType:andAlias:]
+-[CRSOperationParameters initWithType:andCode:andName:andOperationType:andUnitType:andAliases:]
+-[CRSOperationParameters addAlias:]
+-[CRSOperationParameters type]
+-[CRSOperationParameters code]
+-[CRSOperationParameters name]
+-[CRSOperationParameters operationType]
+-[CRSOperationParameters aliases]
+-[CRSOperationParameters unitType]
+-[CRSOperationParameters isEqualToOperationParameters:]
+-[CRSOperationParameters isEqual:]
+-[CRSOperationParameters hash]
++[CRSOperationParameters parameter:]
++[CRSOperationParameters parameterFromName:]
++[CRSOperationParameters parametersFromName:]
++[CRSOperationParameters parameterFromCode:]
+-[CRSOperationParameters setType:]
+-[CRSOperationParameters setCode:]
+-[CRSOperationParameters setName:]
+-[CRSOperationParameters setOperationType:]
+-[CRSOperationParameters setAliases:]
+-[CRSOperationParameters setUnitType:]
+-[CRSOperationParameters .cxx_destruct]
+_typeParameters
+_aliasParameters
+_codeParameters
+_OBJC_CLASSLIST_REFERENCES_$_.46
+_OBJC_SELECTOR_REFERENCES_.50
+_OBJC_SELECTOR_REFERENCES_.88
+_OBJC_CLASSLIST_REFERENCES_$_.139
+_OBJC_CLASSLIST_REFERENCES_$_.154
+_OBJC_SELECTOR_REFERENCES_.156
+_OBJC_CLASSLIST_REFERENCES_$_.163
+_OBJC_SELECTOR_REFERENCES_.169
+_OBJC_SELECTOR_REFERENCES_.171
+_OBJC_SELECTOR_REFERENCES_.173
+_OBJC_SELECTOR_REFERENCES_.175
+_OBJC_SELECTOR_REFERENCES_.177
+_OBJC_SELECTOR_REFERENCES_.179
+_OBJC_SELECTOR_REFERENCES_.181
+_OBJC_SELECTOR_REFERENCES_.183
+_OBJC_SELECTOR_REFERENCES_.185
+_OBJC_SELECTOR_REFERENCES_.187
+_OBJC_SELECTOR_REFERENCES_.189
+_OBJC_SELECTOR_REFERENCES_.195
+_OBJC_SELECTOR_REFERENCES_.197
+_OBJC_SELECTOR_REFERENCES_.199
+_OBJC_SELECTOR_REFERENCES_.201
+_OBJC_SELECTOR_REFERENCES_.203
+_OBJC_SELECTOR_REFERENCES_.205
+_OBJC_SELECTOR_REFERENCES_.207
+_OBJC_SELECTOR_REFERENCES_.209
+__OBJC_$_CLASS_METHODS_CRSOperationParameters
+__OBJC_METACLASS_RO_$_CRSOperationParameters
+__OBJC_$_INSTANCE_METHODS_CRSOperationParameters
+_OBJC_IVAR_$_CRSOperationParameters._type
+_OBJC_IVAR_$_CRSOperationParameters._code
+_OBJC_IVAR_$_CRSOperationParameters._operationType
+_OBJC_IVAR_$_CRSOperationParameters._unitType
+_OBJC_IVAR_$_CRSOperationParameters._name
+_OBJC_IVAR_$_CRSOperationParameters._aliases
+__OBJC_$_INSTANCE_VARIABLES_CRSOperationParameters
+__OBJC_$_PROP_LIST_CRSOperationParameters
+__OBJC_CLASS_RO_$_CRSOperationParameters
+/Users/albintornqvist/projects/GlobalForester-iOS/Carthage/Checkouts/coordinate-reference-systems-ios/crs-ios/operation/CRSOperationParameters.m
+crs-ios/operation/CRSOperationParameters.m
++[CRSVerticalDatumEnsemble create]
+-[CRSVerticalDatumEnsemble init]
+-[CRSVerticalDatumEnsemble initWithName:andMember:andAccuracy:]
+-[CRSVerticalDatumEnsemble initWithName:andMembers:andAccuracy:]
+-[CRSVerticalDatumEnsemble isEqualToVerticalDatumEnsemble:]
+-[CRSVerticalDatumEnsemble isEqual:]
+-[CRSVerticalDatumEnsemble hash]
+__OBJC_$_CLASS_METHODS_CRSVerticalDatumEnsemble
+__OBJC_METACLASS_RO_$_CRSVerticalDatumEnsemble
+__OBJC_$_INSTANCE_METHODS_CRSVerticalDatumEnsemble
+__OBJC_CLASS_RO_$_CRSVerticalDatumEnsemble
+/Users/albintornqvist/projects/GlobalForester-iOS/Carthage/Checkouts/coordinate-reference-systems-ios/crs-ios/vertical/CRSVerticalDatumEnsemble.m
+crs-ios/vertical/CRSVerticalDatumEnsemble.m
++[CRSCompoundCoordinateReferenceSystem create]
+-[CRSCompoundCoordinateReferenceSystem init]
+-[CRSCompoundCoordinateReferenceSystem initWithName:andType:]
+-[CRSCompoundCoordinateReferenceSystem numCoordinateReferenceSystems]
+-[CRSCompoundCoordinateReferenceSystem coordinateReferenceSystemAtIndex:]
+-[CRSCompoundCoordinateReferenceSystem setCoordinateReferenceSystems:]
+-[CRSCompoundCoordinateReferenceSystem addCoordinateReferenceSystem:]
+-[CRSCompoundCoordinateReferenceSystem addCoordinateReferenceSystems:]
+-[CRSCompoundCoordinateReferenceSystem isEqualToCompoundCoordinateReferenceSystem:]
+-[CRSCompoundCoordinateReferenceSystem isEqual:]
+-[CRSCompoundCoordinateReferenceSystem hash]
+-[CRSCompoundCoordinateReferenceSystem coordinateReferenceSystems]
+-[CRSCompoundCoordinateReferenceSystem .cxx_destruct]
+_OBJC_IVAR_$_CRSCompoundCoordinateReferenceSystem._coordinateReferenceSystems
+__OBJC_$_CLASS_METHODS_CRSCompoundCoordinateReferenceSystem
+__OBJC_METACLASS_RO_$_CRSCompoundCoordinateReferenceSystem
+__OBJC_$_INSTANCE_METHODS_CRSCompoundCoordinateReferenceSystem
+__OBJC_$_INSTANCE_VARIABLES_CRSCompoundCoordinateReferenceSystem
+__OBJC_$_PROP_LIST_CRSCompoundCoordinateReferenceSystem
+__OBJC_CLASS_RO_$_CRSCompoundCoordinateReferenceSystem
+/Users/albintornqvist/projects/GlobalForester-iOS/Carthage/Checkouts/coordinate-reference-systems-ios/crs-ios/CRSCompoundCoordinateReferenceSystem.m
+crs-ios/CRSCompoundCoordinateReferenceSystem.m
+crs-ios/CRSCompoundCoordinateReferenceSystem.h
++[CRSTextUtils isLeftDelimiter:]
++[CRSTextUtils isRightDelimiter:]
++[CRSTextUtils isSpatial:]
++[CRSTextUtils isTemporalCountMeasure:]
++[CRSTextUtils isOrdinalDateTime:]
++[CRSTextUtils unitTypeOfKeyword:]
++[CRSTextUtils unitType:]
++[CRSTextUtils coordinateReferenceSystemType:]
++[CRSTextUtils intFromString:]
++[CRSTextUtils doubleFromString:]
++[CRSTextUtils decimalNumberFromString:]
++[CRSTextUtils textFromDouble:]
++[CRSTextUtils textFromDecimalNumber:]
++[CRSTextUtils pretty:]
++[CRSTextUtils prettyTabIndent:]
++[CRSTextUtils prettyNoIndent:]
++[CRSTextUtils pretty:withIndent:]
++[CRSTextUtils pretty:withNewline:andIndent:]
+_OBJC_CLASSLIST_REFERENCES_$_.51
+_OBJC_CLASSLIST_REFERENCES_$_.58
+_OBJC_CLASSLIST_REFERENCES_$_.81
+_OBJC_CLASSLIST_REFERENCES_$_.84
+__OBJC_$_CLASS_METHODS_CRSTextUtils
+__OBJC_METACLASS_RO_$_CRSTextUtils
+__OBJC_CLASS_RO_$_CRSTextUtils
+/Users/albintornqvist/projects/GlobalForester-iOS/Carthage/Checkouts/coordinate-reference-systems-ios/crs-ios/wkt/CRSTextUtils.m
+crs-ios/wkt/CRSTextUtils.m
++[CRSVerticalExtent create]
+-[CRSVerticalExtent init]
+-[CRSVerticalExtent initWithMinimumHeight:andMaximumHeight:]
+-[CRSVerticalExtent initWithMinimumHeightText:andMaximumHeightText:]
+-[CRSVerticalExtent initWithMinimumHeight:andMaximumHeight:andUnit:]
+-[CRSVerticalExtent initWithMinimumHeightText:andMaximumHeightText:andUnit:]
+-[CRSVerticalExtent setMinimumHeight:]
+-[CRSVerticalExtent setMinimumHeightText:]
+-[CRSVerticalExtent setMaximumHeight:]
+-[CRSVerticalExtent setMaximumHeightText:]
+-[CRSVerticalExtent hasUnit]
+-[CRSVerticalExtent isEqualToVerticalExtent:]
+-[CRSVerticalExtent isEqual:]
+-[CRSVerticalExtent hash]
+-[CRSVerticalExtent description]
+-[CRSVerticalExtent minimumHeight]
+-[CRSVerticalExtent minimumHeightText]
+-[CRSVerticalExtent maximumHeight]
+-[CRSVerticalExtent maximumHeightText]
+-[CRSVerticalExtent unit]
+-[CRSVerticalExtent setUnit:]
+-[CRSVerticalExtent .cxx_destruct]
+_OBJC_CLASSLIST_REFERENCES_$_.15
+__OBJC_$_CLASS_METHODS_CRSVerticalExtent
+__OBJC_METACLASS_RO_$_CRSVerticalExtent
+__OBJC_$_INSTANCE_METHODS_CRSVerticalExtent
+_OBJC_IVAR_$_CRSVerticalExtent._minimumHeight
+_OBJC_IVAR_$_CRSVerticalExtent._minimumHeightText
+_OBJC_IVAR_$_CRSVerticalExtent._maximumHeight
+_OBJC_IVAR_$_CRSVerticalExtent._maximumHeightText
+_OBJC_IVAR_$_CRSVerticalExtent._unit
+__OBJC_$_INSTANCE_VARIABLES_CRSVerticalExtent
+__OBJC_$_PROP_LIST_CRSVerticalExtent
+__OBJC_CLASS_RO_$_CRSVerticalExtent
+/Users/albintornqvist/projects/GlobalForester-iOS/Carthage/Checkouts/coordinate-reference-systems-ios/crs-ios/common/CRSVerticalExtent.m
+crs-ios/common/CRSVerticalExtent.m
+crs-ios/common/CRSVerticalExtent.h
++[CRSCoordinateSystemTypes name:]
++[CRSCoordinateSystemTypes type:]
+_OBJC_CLASSLIST_REFERENCES_$_.25
+__OBJC_$_CLASS_METHODS_CRSCoordinateSystemTypes
+__OBJC_METACLASS_RO_$_CRSCoordinateSystemTypes
+__OBJC_CLASS_RO_$_CRSCoordinateSystemTypes
+/Users/albintornqvist/projects/GlobalForester-iOS/Carthage/Checkouts/coordinate-reference-systems-ios/crs-ios/common/CRSCoordinateSystemTypes.m
+crs-ios/common/CRSCoordinateSystemTypes.m
++[CRSDerivingConversion create]
+-[CRSDerivingConversion init]
+-[CRSDerivingConversion initWithName:andMethod:]
+-[CRSDerivingConversion operationType]
+-[CRSDerivingConversion version]
+-[CRSDerivingConversion hasVersion]
+-[CRSDerivingConversion setVersion:]
+-[CRSDerivingConversion hasIdentifiers]
+-[CRSDerivingConversion numIdentifiers]
+-[CRSDerivingConversion identifierAtIndex:]
+-[CRSDerivingConversion addIdentifier:]
+-[CRSDerivingConversion addIdentifiers:]
+-[CRSDerivingConversion isEqualToDerivingConversion:]
+-[CRSDerivingConversion isEqual:]
+-[CRSDerivingConversion hash]
+-[CRSDerivingConversion description]
+-[CRSDerivingConversion name]
+-[CRSDerivingConversion setName:]
+-[CRSDerivingConversion method]
+-[CRSDerivingConversion setMethod:]
+-[CRSDerivingConversion identifiers]
+-[CRSDerivingConversion setIdentifiers:]
+-[CRSDerivingConversion .cxx_destruct]
+__OBJC_$_CLASS_METHODS_CRSDerivingConversion
+__OBJC_CLASS_PROTOCOLS_$_CRSDerivingConversion
+__OBJC_METACLASS_RO_$_CRSDerivingConversion
+__OBJC_$_INSTANCE_METHODS_CRSDerivingConversion
+_OBJC_IVAR_$_CRSDerivingConversion._name
+_OBJC_IVAR_$_CRSDerivingConversion._method
+_OBJC_IVAR_$_CRSDerivingConversion._identifiers
+__OBJC_$_INSTANCE_VARIABLES_CRSDerivingConversion
+__OBJC_$_PROP_LIST_CRSDerivingConversion
+__OBJC_CLASS_RO_$_CRSDerivingConversion
+/Users/albintornqvist/projects/GlobalForester-iOS/Carthage/Checkouts/coordinate-reference-systems-ios/crs-ios/derived/CRSDerivingConversion.m
+crs-ios/derived/CRSDerivingConversion.m
+crs-ios/derived/CRSDerivingConversion.h
++[CRSBoundCoordinateReferenceSystem create]
+-[CRSBoundCoordinateReferenceSystem init]
+-[CRSBoundCoordinateReferenceSystem initWithSource:andTarget:andTransformation:]
+-[CRSBoundCoordinateReferenceSystem name]
+-[CRSBoundCoordinateReferenceSystem setName:]
+-[CRSBoundCoordinateReferenceSystem isEqualToBoundCoordinateReferenceSystem:]
+-[CRSBoundCoordinateReferenceSystem isEqual:]
+-[CRSBoundCoordinateReferenceSystem hash]
+-[CRSBoundCoordinateReferenceSystem source]
+-[CRSBoundCoordinateReferenceSystem setSource:]
+-[CRSBoundCoordinateReferenceSystem target]
+-[CRSBoundCoordinateReferenceSystem setTarget:]
+-[CRSBoundCoordinateReferenceSystem transformation]
+-[CRSBoundCoordinateReferenceSystem setTransformation:]
+-[CRSBoundCoordinateReferenceSystem .cxx_destruct]
+_OBJC_CLASSLIST_REFERENCES_$_.9
+_OBJC_IVAR_$_CRSBoundCoordinateReferenceSystem._source
+_OBJC_IVAR_$_CRSBoundCoordinateReferenceSystem._target
+_OBJC_IVAR_$_CRSBoundCoordinateReferenceSystem._transformation
+__OBJC_$_CLASS_METHODS_CRSBoundCoordinateReferenceSystem
+__OBJC_METACLASS_RO_$_CRSBoundCoordinateReferenceSystem
+__OBJC_$_INSTANCE_METHODS_CRSBoundCoordinateReferenceSystem
+__OBJC_$_INSTANCE_VARIABLES_CRSBoundCoordinateReferenceSystem
+__OBJC_$_PROP_LIST_CRSBoundCoordinateReferenceSystem
+__OBJC_CLASS_RO_$_CRSBoundCoordinateReferenceSystem
+/Users/albintornqvist/projects/GlobalForester-iOS/Carthage/Checkouts/coordinate-reference-systems-ios/crs-ios/bound/CRSBoundCoordinateReferenceSystem.m
+crs-ios/bound/CRSBoundCoordinateReferenceSystem.m
+crs-ios/bound/CRSBoundCoordinateReferenceSystem.h
++[CRSDatumEnsembleMember create]
+-[CRSDatumEnsembleMember init]
+-[CRSDatumEnsembleMember initWithName:]
+-[CRSDatumEnsembleMember hasIdentifiers]
+-[CRSDatumEnsembleMember numIdentifiers]
+-[CRSDatumEnsembleMember identifierAtIndex:]
+-[CRSDatumEnsembleMember addIdentifier:]
+-[CRSDatumEnsembleMember addIdentifiers:]
+-[CRSDatumEnsembleMember isEqualToDatumEnsembleMember:]
+-[CRSDatumEnsembleMember isEqual:]
+-[CRSDatumEnsembleMember hash]
+-[CRSDatumEnsembleMember description]
+-[CRSDatumEnsembleMember name]
+-[CRSDatumEnsembleMember setName:]
+-[CRSDatumEnsembleMember identifiers]
+-[CRSDatumEnsembleMember setIdentifiers:]
+-[CRSDatumEnsembleMember .cxx_destruct]
+_OBJC_CLASSLIST_REFERENCES_$_.30
+__OBJC_$_CLASS_METHODS_CRSDatumEnsembleMember
+__OBJC_CLASS_PROTOCOLS_$_CRSDatumEnsembleMember
+__OBJC_METACLASS_RO_$_CRSDatumEnsembleMember
+__OBJC_$_INSTANCE_METHODS_CRSDatumEnsembleMember
+_OBJC_IVAR_$_CRSDatumEnsembleMember._name
+_OBJC_IVAR_$_CRSDatumEnsembleMember._identifiers
+__OBJC_$_INSTANCE_VARIABLES_CRSDatumEnsembleMember
+__OBJC_$_PROP_LIST_CRSDatumEnsembleMember
+__OBJC_CLASS_RO_$_CRSDatumEnsembleMember
+/Users/albintornqvist/projects/GlobalForester-iOS/Carthage/Checkouts/coordinate-reference-systems-ios/crs-ios/common/CRSDatumEnsembleMember.m
+crs-ios/common/CRSDatumEnsembleMember.m
+crs-ios/common/CRSDatumEnsembleMember.h
++[CRSGeoReferenceFrame create]
+-[CRSGeoReferenceFrame init]
+-[CRSGeoReferenceFrame initWithType:]
+-[CRSGeoReferenceFrame initWithName:andEllipsoid:]
+-[CRSGeoReferenceFrame initWithName:andType:andEllipsoid:]
+-[CRSGeoReferenceFrame hasPrimeMeridian]
+-[CRSGeoReferenceFrame isEqualToGeoReferenceFrame:]
+-[CRSGeoReferenceFrame isEqual:]
+-[CRSGeoReferenceFrame hash]
+-[CRSGeoReferenceFrame ellipsoid]
+-[CRSGeoReferenceFrame setEllipsoid:]
+-[CRSGeoReferenceFrame primeMeridian]
+-[CRSGeoReferenceFrame setPrimeMeridian:]
+-[CRSGeoReferenceFrame .cxx_destruct]
+_OBJC_IVAR_$_CRSGeoReferenceFrame._ellipsoid
+_OBJC_IVAR_$_CRSGeoReferenceFrame._primeMeridian
+__OBJC_$_CLASS_METHODS_CRSGeoReferenceFrame
+__OBJC_CLASS_PROTOCOLS_$_CRSGeoReferenceFrame
+__OBJC_METACLASS_RO_$_CRSGeoReferenceFrame
+__OBJC_$_INSTANCE_METHODS_CRSGeoReferenceFrame
+__OBJC_$_INSTANCE_VARIABLES_CRSGeoReferenceFrame
+__OBJC_$_PROP_LIST_CRSGeoReferenceFrame
+__OBJC_CLASS_RO_$_CRSGeoReferenceFrame
+/Users/albintornqvist/projects/GlobalForester-iOS/Carthage/Checkouts/coordinate-reference-systems-ios/crs-ios/geo/CRSGeoReferenceFrame.m
+crs-ios/geo/CRSGeoReferenceFrame.m
+crs-ios/geo/CRSGeoReferenceFrame.h
++[CRSOperationTypes name:]
++[CRSOperationTypes type:]
+__OBJC_$_CLASS_METHODS_CRSOperationTypes
+__OBJC_METACLASS_RO_$_CRSOperationTypes
+__OBJC_CLASS_RO_$_CRSOperationTypes
+/Users/albintornqvist/projects/GlobalForester-iOS/Carthage/Checkouts/coordinate-reference-systems-ios/crs-ios/operation/CRSOperationTypes.m
+crs-ios/operation/CRSOperationTypes.m
++[CRSCategoryTypes name:]
++[CRSCategoryTypes type:]
+__OBJC_$_CLASS_METHODS_CRSCategoryTypes
+__OBJC_METACLASS_RO_$_CRSCategoryTypes
+__OBJC_CLASS_RO_$_CRSCategoryTypes
+/Users/albintornqvist/projects/GlobalForester-iOS/Carthage/Checkouts/coordinate-reference-systems-ios/crs-ios/CRSCategoryTypes.m
+crs-ios/CRSCategoryTypes.m
+-[CRSSimpleOperation initWithType:]
+-[CRSSimpleOperation initWithName:andType:andSource:andMethod:]
+-[CRSSimpleOperation operationType]
+-[CRSSimpleOperation isEqualToSimpleOperation:]
+-[CRSSimpleOperation isEqual:]
+-[CRSSimpleOperation hash]
+-[CRSSimpleOperation method]
+-[CRSSimpleOperation setMethod:]
+-[CRSSimpleOperation .cxx_destruct]
+_OBJC_IVAR_$_CRSSimpleOperation._method
+__OBJC_CLASS_PROTOCOLS_$_CRSSimpleOperation
+__OBJC_METACLASS_RO_$_CRSSimpleOperation
+__OBJC_$_INSTANCE_METHODS_CRSSimpleOperation
+__OBJC_$_INSTANCE_VARIABLES_CRSSimpleOperation
+__OBJC_$_PROP_LIST_CRSSimpleOperation
+__OBJC_CLASS_RO_$_CRSSimpleOperation
+/Users/albintornqvist/projects/GlobalForester-iOS/Carthage/Checkouts/coordinate-reference-systems-ios/crs-ios/operation/CRSSimpleOperation.m
+crs-ios/operation/CRSSimpleOperation.m
+crs-ios/operation/CRSSimpleOperation.h
+-[CRSCommon init]
+-[CRSCommon initWithType:]
+-[CRSCommon initWithName:andType:]
+-[CRSCommon hasUsages]
+-[CRSCommon numUsages]
+-[CRSCommon usageAtIndex:]
+-[CRSCommon addUsage:]
+-[CRSCommon addUsages:]
+-[CRSCommon hasIdentifiers]
+-[CRSCommon numIdentifiers]
+-[CRSCommon identifierAtIndex:]
+-[CRSCommon addIdentifier:]
+-[CRSCommon addIdentifiers:]
+-[CRSCommon hasRemark]
+-[CRSCommon isEqualToCommon:]
+-[CRSCommon isEqual:]
+-[CRSCommon hash]
+-[CRSCommon name]
+-[CRSCommon setName:]
+-[CRSCommon usages]
+-[CRSCommon setUsages:]
+-[CRSCommon identifiers]
+-[CRSCommon setIdentifiers:]
+-[CRSCommon remark]
+-[CRSCommon setRemark:]
+-[CRSCommon .cxx_destruct]
+_OBJC_IVAR_$_CRSCommon._usages
+_OBJC_IVAR_$_CRSCommon._identifiers
+_OBJC_IVAR_$_CRSCommon._name
+_OBJC_IVAR_$_CRSCommon._remark
+__OBJC_CLASS_PROTOCOLS_$_CRSCommon
+__OBJC_METACLASS_RO_$_CRSCommon
+__OBJC_$_INSTANCE_METHODS_CRSCommon
+__OBJC_$_INSTANCE_VARIABLES_CRSCommon
+__OBJC_$_PROP_LIST_CRSCommon
+__OBJC_CLASS_RO_$_CRSCommon
+/Users/albintornqvist/projects/GlobalForester-iOS/Carthage/Checkouts/coordinate-reference-systems-ios/crs-ios/CRSCommon.m
+crs-ios/CRSCommon.m
+crs-ios/CRSCommon.h
++[CRSDerivedCoordinateReferenceSystem create]
+-[CRSDerivedCoordinateReferenceSystem init]
+-[CRSDerivedCoordinateReferenceSystem initWithName:andBase:andConversion:andCoordinateSystem:]
+-[CRSDerivedCoordinateReferenceSystem baseName]
+-[CRSDerivedCoordinateReferenceSystem baseType]
+-[CRSDerivedCoordinateReferenceSystem baseIdentifiers]
+-[CRSDerivedCoordinateReferenceSystem hasBaseIdentifiers]
+-[CRSDerivedCoordinateReferenceSystem isEqualToDerivedCoordinateReferenceSystem:]
+-[CRSDerivedCoordinateReferenceSystem isEqual:]
+-[CRSDerivedCoordinateReferenceSystem hash]
+-[CRSDerivedCoordinateReferenceSystem base]
+-[CRSDerivedCoordinateReferenceSystem setBase:]
+-[CRSDerivedCoordinateReferenceSystem conversion]
+-[CRSDerivedCoordinateReferenceSystem setConversion:]
+-[CRSDerivedCoordinateReferenceSystem .cxx_destruct]
+_OBJC_IVAR_$_CRSDerivedCoordinateReferenceSystem._base
+_OBJC_IVAR_$_CRSDerivedCoordinateReferenceSystem._conversion
+__OBJC_$_CLASS_METHODS_CRSDerivedCoordinateReferenceSystem
+__OBJC_METACLASS_RO_$_CRSDerivedCoordinateReferenceSystem
+__OBJC_$_INSTANCE_METHODS_CRSDerivedCoordinateReferenceSystem
+__OBJC_$_INSTANCE_VARIABLES_CRSDerivedCoordinateReferenceSystem
+__OBJC_$_PROP_LIST_CRSDerivedCoordinateReferenceSystem
+__OBJC_CLASS_RO_$_CRSDerivedCoordinateReferenceSystem
+/Users/albintornqvist/projects/GlobalForester-iOS/Carthage/Checkouts/coordinate-reference-systems-ios/crs-ios/derived/CRSDerivedCoordinateReferenceSystem.m
+crs-ios/derived/CRSDerivedCoordinateReferenceSystem.m
+crs-ios/derived/CRSDerivedCoordinateReferenceSystem.h
++[CRSTemporalExtent create]
+-[CRSTemporalExtent init]
+-[CRSTemporalExtent initWithStart:andEnd:]
+-[CRSTemporalExtent initWithStartDateTime:andEndDateTime:]
+-[CRSTemporalExtent setStart:]
+-[CRSTemporalExtent hasStartDateTime]
+-[CRSTemporalExtent setStartDateTime:]
+-[CRSTemporalExtent setStartDateTimeWithStart:]
+-[CRSTemporalExtent setEnd:]
+-[CRSTemporalExtent hasEndDateTime]
+-[CRSTemporalExtent setEndDateTime:]
+-[CRSTemporalExtent setEndDateTimeWithEnd:]
+-[CRSTemporalExtent isEqualToTemporalExtent:]
+-[CRSTemporalExtent isEqual:]
+-[CRSTemporalExtent hash]
+-[CRSTemporalExtent description]
+-[CRSTemporalExtent start]
+-[CRSTemporalExtent startDateTime]
+-[CRSTemporalExtent end]
+-[CRSTemporalExtent endDateTime]
+-[CRSTemporalExtent .cxx_destruct]
+__OBJC_$_CLASS_METHODS_CRSTemporalExtent
+__OBJC_METACLASS_RO_$_CRSTemporalExtent
+__OBJC_$_INSTANCE_METHODS_CRSTemporalExtent
+_OBJC_IVAR_$_CRSTemporalExtent._start
+_OBJC_IVAR_$_CRSTemporalExtent._startDateTime
+_OBJC_IVAR_$_CRSTemporalExtent._end
+_OBJC_IVAR_$_CRSTemporalExtent._endDateTime
+__OBJC_$_INSTANCE_VARIABLES_CRSTemporalExtent
+__OBJC_$_PROP_LIST_CRSTemporalExtent
+__OBJC_CLASS_RO_$_CRSTemporalExtent
+/Users/albintornqvist/projects/GlobalForester-iOS/Carthage/Checkouts/coordinate-reference-systems-ios/crs-ios/common/CRSTemporalExtent.m
+crs-ios/common/CRSTemporalExtent.m
+crs-ios/common/CRSTemporalExtent.h
++[CRSDateTime parse:]
++[CRSDateTime tryParse:]
++[CRSDateTime create]
+-[CRSDateTime init]
+-[CRSDateTime initWithYear:]
+-[CRSDateTime isOrdinal]
+-[CRSDateTime hasTime]
+-[CRSDateTime hasMonth]
+-[CRSDateTime hasDay]
+-[CRSDateTime hasHour]
+-[CRSDateTime hasMinute]
+-[CRSDateTime hasSecond]
+-[CRSDateTime hasFraction]
+-[CRSDateTime setFraction:]
+-[CRSDateTime setFractionText:]
+-[CRSDateTime validateFraction:]
+-[CRSDateTime hasTimeZoneHour]
+-[CRSDateTime hasTimeZoneMinute]
+-[CRSDateTime isTimeZoneUTC]
+-[CRSDateTime setTimeZoneUTC]
+-[CRSDateTime isEqualToDateTime:]
+-[CRSDateTime isEqual:]
+-[CRSDateTime hash]
+-[CRSDateTime description]
+-[CRSDateTime year]
+-[CRSDateTime setYear:]
+-[CRSDateTime month]
+-[CRSDateTime setMonth:]
+-[CRSDateTime day]
+-[CRSDateTime setDay:]
+-[CRSDateTime hour]
+-[CRSDateTime setHour:]
+-[CRSDateTime minute]
+-[CRSDateTime setMinute:]
+-[CRSDateTime second]
+-[CRSDateTime setSecond:]
+-[CRSDateTime fraction]
+-[CRSDateTime fractionText]
+-[CRSDateTime timeZoneHour]
+-[CRSDateTime setTimeZoneHour:]
+-[CRSDateTime timeZoneMinute]
+-[CRSDateTime setTimeZoneMinute:]
+-[CRSDateTime .cxx_destruct]
+_OBJC_CLASSLIST_REFERENCES_$_.19
+_OBJC_CLASSLIST_REFERENCES_$_.24
+_OBJC_CLASSLIST_REFERENCES_$_.54
+_OBJC_CLASSLIST_REFERENCES_$_.65
+_OBJC_CLASSLIST_REFERENCES_$_.118
+_OBJC_SELECTOR_REFERENCES_.124
+_OBJC_SELECTOR_REFERENCES_.126
+_OBJC_SELECTOR_REFERENCES_.128
+_OBJC_SELECTOR_REFERENCES_.140
+_OBJC_SELECTOR_REFERENCES_.142
+_OBJC_SELECTOR_REFERENCES_.144
+_OBJC_SELECTOR_REFERENCES_.146
+_OBJC_SELECTOR_REFERENCES_.148
+__OBJC_$_CLASS_METHODS_CRSDateTime
+__OBJC_METACLASS_RO_$_CRSDateTime
+__OBJC_$_INSTANCE_METHODS_CRSDateTime
+_OBJC_IVAR_$_CRSDateTime._year
+_OBJC_IVAR_$_CRSDateTime._month
+_OBJC_IVAR_$_CRSDateTime._day
+_OBJC_IVAR_$_CRSDateTime._hour
+_OBJC_IVAR_$_CRSDateTime._minute
+_OBJC_IVAR_$_CRSDateTime._second
+_OBJC_IVAR_$_CRSDateTime._fraction
+_OBJC_IVAR_$_CRSDateTime._fractionText
+_OBJC_IVAR_$_CRSDateTime._timeZoneHour
+_OBJC_IVAR_$_CRSDateTime._timeZoneMinute
+__OBJC_$_INSTANCE_VARIABLES_CRSDateTime
+__OBJC_$_PROP_LIST_CRSDateTime
+__OBJC_CLASS_RO_$_CRSDateTime
+/Users/albintornqvist/projects/GlobalForester-iOS/Carthage/Checkouts/coordinate-reference-systems-ios/crs-ios/common/CRSDateTime.m
+crs-ios/common/CRSDateTime.m
+crs-ios/common/CRSDateTime.h
++[CRSUnitTypes name:]
++[CRSUnitTypes type:]
+__OBJC_$_CLASS_METHODS_CRSUnitTypes
+__OBJC_METACLASS_RO_$_CRSUnitTypes
+__OBJC_CLASS_RO_$_CRSUnitTypes
+/Users/albintornqvist/projects/GlobalForester-iOS/Carthage/Checkouts/coordinate-reference-systems-ios/crs-ios/common/CRSUnitTypes.m
+crs-ios/common/CRSUnitTypes.m
++[CRSGeoCoordinateReferenceSystem create]
+-[CRSGeoCoordinateReferenceSystem init]
+-[CRSGeoCoordinateReferenceSystem initWithType:]
+-[CRSGeoCoordinateReferenceSystem initWithName:andType:andReferenceFrame:andCoordinateSystem:]
+-[CRSGeoCoordinateReferenceSystem initWithName:andType:andDatumEnsemble:andCoordinateSystem:]
+-[CRSGeoCoordinateReferenceSystem initWithName:andType:andDynamic:andReferenceFrame:andCoordinateSystem:]
+-[CRSGeoCoordinateReferenceSystem hasReferenceFrame]
+-[CRSGeoCoordinateReferenceSystem hasDatumEnsemble]
+-[CRSGeoCoordinateReferenceSystem hasDynamic]
+-[CRSGeoCoordinateReferenceSystem geoDatum]
+-[CRSGeoCoordinateReferenceSystem isEqualToGeoCoordinateReferenceSystem:]
+-[CRSGeoCoordinateReferenceSystem isEqual:]
+-[CRSGeoCoordinateReferenceSystem hash]
+-[CRSGeoCoordinateReferenceSystem referenceFrame]
+-[CRSGeoCoordinateReferenceSystem setReferenceFrame:]
+-[CRSGeoCoordinateReferenceSystem datumEnsemble]
+-[CRSGeoCoordinateReferenceSystem setDatumEnsemble:]
+-[CRSGeoCoordinateReferenceSystem dynamic]
+-[CRSGeoCoordinateReferenceSystem setDynamic:]
+-[CRSGeoCoordinateReferenceSystem .cxx_destruct]
+_OBJC_IVAR_$_CRSGeoCoordinateReferenceSystem._referenceFrame
+_OBJC_IVAR_$_CRSGeoCoordinateReferenceSystem._datumEnsemble
+_OBJC_IVAR_$_CRSGeoCoordinateReferenceSystem._dynamic
+__OBJC_$_CLASS_METHODS_CRSGeoCoordinateReferenceSystem
+__OBJC_METACLASS_RO_$_CRSGeoCoordinateReferenceSystem
+__OBJC_$_INSTANCE_METHODS_CRSGeoCoordinateReferenceSystem
+__OBJC_$_INSTANCE_VARIABLES_CRSGeoCoordinateReferenceSystem
+__OBJC_$_PROP_LIST_CRSGeoCoordinateReferenceSystem
+__OBJC_CLASS_RO_$_CRSGeoCoordinateReferenceSystem
+/Users/albintornqvist/projects/GlobalForester-iOS/Carthage/Checkouts/coordinate-reference-systems-ios/crs-ios/geo/CRSGeoCoordinateReferenceSystem.m
+crs-ios/geo/CRSGeoCoordinateReferenceSystem.m
+crs-ios/geo/CRSGeoCoordinateReferenceSystem.h
++[CRSEllipsoid create]
+-[CRSEllipsoid init]
+-[CRSEllipsoid initWithName:andSemiMajorAxis:andInverseFlattening:]
+-[CRSEllipsoid initWithName:andSemiMajorAxisText:andInverseFlatteningText:]
+-[CRSEllipsoid type]
+-[CRSEllipsoid setSemiMajorAxis:]
+-[CRSEllipsoid setSemiMajorAxisText:]
+-[CRSEllipsoid setInverseFlattening:]
+-[CRSEllipsoid setInverseFlatteningText:]
+-[CRSEllipsoid hasUnit]
+-[CRSEllipsoid poleRadius]
+-[CRSEllipsoid poleRadiusText]
+-[CRSEllipsoid hasIdentifiers]
+-[CRSEllipsoid numIdentifiers]
+-[CRSEllipsoid identifierAtIndex:]
+-[CRSEllipsoid addIdentifier:]
+-[CRSEllipsoid addIdentifiers:]
+-[CRSEllipsoid isEqualToEllipsoid:]
+-[CRSEllipsoid isEqual:]
+-[CRSEllipsoid hash]
+-[CRSEllipsoid description]
+-[CRSEllipsoid name]
+-[CRSEllipsoid setName:]
+-[CRSEllipsoid semiMajorAxis]
+-[CRSEllipsoid semiMajorAxisText]
+-[CRSEllipsoid inverseFlattening]
+-[CRSEllipsoid inverseFlatteningText]
+-[CRSEllipsoid unit]
+-[CRSEllipsoid setUnit:]
+-[CRSEllipsoid identifiers]
+-[CRSEllipsoid setIdentifiers:]
+-[CRSEllipsoid .cxx_destruct]
+__OBJC_$_CLASS_METHODS_CRSEllipsoid
+__OBJC_CLASS_PROTOCOLS_$_CRSEllipsoid
+__OBJC_METACLASS_RO_$_CRSEllipsoid
+__OBJC_$_INSTANCE_METHODS_CRSEllipsoid
+_OBJC_IVAR_$_CRSEllipsoid._name
+_OBJC_IVAR_$_CRSEllipsoid._semiMajorAxis
+_OBJC_IVAR_$_CRSEllipsoid._semiMajorAxisText
+_OBJC_IVAR_$_CRSEllipsoid._inverseFlattening
+_OBJC_IVAR_$_CRSEllipsoid._inverseFlatteningText
+_OBJC_IVAR_$_CRSEllipsoid._unit
+_OBJC_IVAR_$_CRSEllipsoid._identifiers
+__OBJC_$_INSTANCE_VARIABLES_CRSEllipsoid
+__OBJC_$_PROP_LIST_CRSEllipsoid
+__OBJC_CLASS_RO_$_CRSEllipsoid
+/Users/albintornqvist/projects/GlobalForester-iOS/Carthage/Checkouts/coordinate-reference-systems-ios/crs-ios/geo/CRSEllipsoid.m
+crs-ios/geo/CRSEllipsoid.m
+crs-ios/geo/CRSEllipsoid.h
++[CRSGeoDatums initialize]
++[CRSGeoDatums initializeDatum:]
++[CRSGeoDatums createWithType:andCode:andEllipsoid:andName:]
++[CRSGeoDatums createWithType:andCode:andTranslationX:andTranslationY:andTranslationZ:andEllipsoid:andName:]
++[CRSGeoDatums createWithType:andCode:andTranslationX:andTranslationY:andTranslationZ:andRotationX:andRotationY:andRotationZ:andScaleDifference:andEllipsoid:andName:]
++[CRSGeoDatums createWithType:andCode:andTransform:andEllipsoid:andName:]
++[CRSGeoDatums createWithType:andCode:andEllipsoid:andNames:]
++[CRSGeoDatums createWithType:andCode:andTranslationX:andTranslationY:andTranslationZ:andEllipsoid:andNames:]
++[CRSGeoDatums createWithType:andCode:andTranslationX:andTranslationY:andTranslationZ:andRotationX:andRotationY:andRotationZ:andScaleDifference:andEllipsoid:andNames:]
++[CRSGeoDatums createWithType:andCode:andTransform:andEllipsoid:andNames:]
++[CRSGeoDatums fromType:]
++[CRSGeoDatums fromName:]
+-[CRSGeoDatums initWithType:andCode:andEllipsoid:andName:]
+-[CRSGeoDatums initWithType:andCode:andTranslationX:andTranslationY:andTranslationZ:andEllipsoid:andName:]
+-[CRSGeoDatums initWithType:andCode:andTranslationX:andTranslationY:andTranslationZ:andRotationX:andRotationY:andRotationZ:andScaleDifference:andEllipsoid:andName:]
+-[CRSGeoDatums initWithType:andCode:andTransform:andEllipsoid:andName:]
+-[CRSGeoDatums initWithType:andCode:andEllipsoid:andNames:]
+-[CRSGeoDatums initWithType:andCode:andTranslationX:andTranslationY:andTranslationZ:andEllipsoid:andNames:]
+-[CRSGeoDatums initWithType:andCode:andTranslationX:andTranslationY:andTranslationZ:andRotationX:andRotationY:andRotationZ:andScaleDifference:andEllipsoid:andNames:]
+-[CRSGeoDatums initWithType:andCode:andTransform:andEllipsoid:andNames:]
+-[CRSGeoDatums type]
+-[CRSGeoDatums code]
+-[CRSGeoDatums name]
+-[CRSGeoDatums names]
+-[CRSGeoDatums transform]
+-[CRSGeoDatums ellipsoid]
+-[CRSGeoDatums description]
+-[CRSGeoDatums isEqual:]
+-[CRSGeoDatums hash]
+-[CRSGeoDatums setType:]
+-[CRSGeoDatums setCode:]
+-[CRSGeoDatums setNames:]
+-[CRSGeoDatums setTransform:]
+-[CRSGeoDatums setEllipsoid:]
+-[CRSGeoDatums .cxx_destruct]
+_typeDatums
+_nameDatums
+_OBJC_CLASSLIST_REFERENCES_$_.77
+_OBJC_CLASSLIST_REFERENCES_$_.92
+_OBJC_CLASSLIST_REFERENCES_$_.113
+_OBJC_SELECTOR_REFERENCES_.122
+_OBJC_SELECTOR_REFERENCES_.138
+__OBJC_$_CLASS_METHODS_CRSGeoDatums
+__OBJC_METACLASS_RO_$_CRSGeoDatums
+__OBJC_$_INSTANCE_METHODS_CRSGeoDatums
+_OBJC_IVAR_$_CRSGeoDatums._type
+_OBJC_IVAR_$_CRSGeoDatums._code
+_OBJC_IVAR_$_CRSGeoDatums._names
+_OBJC_IVAR_$_CRSGeoDatums._transform
+_OBJC_IVAR_$_CRSGeoDatums._ellipsoid
+__OBJC_$_INSTANCE_VARIABLES_CRSGeoDatums
+__OBJC_$_PROP_LIST_CRSGeoDatums
+__OBJC_CLASS_RO_$_CRSGeoDatums
+/Users/albintornqvist/projects/GlobalForester-iOS/Carthage/Checkouts/coordinate-reference-systems-ios/crs-ios/geo/CRSGeoDatums.m
+crs-ios/geo/CRSGeoDatums.m
++[CRSTriaxialEllipsoid create]
+-[CRSTriaxialEllipsoid init]
+-[CRSTriaxialEllipsoid initWithName:andSemiMajorAxis:andSemiMedianAxis:andSemiMinorAxis:]
+-[CRSTriaxialEllipsoid initWithName:andSemiMajorAxisText:andSemiMedianAxisText:andSemiMinorAxisText:]
+-[CRSTriaxialEllipsoid type]
+-[CRSTriaxialEllipsoid inverseFlattening]
+-[CRSTriaxialEllipsoid setInverseFlattening:]
+-[CRSTriaxialEllipsoid setSemiMedianAxis:]
+-[CRSTriaxialEllipsoid setSemiMedianAxisText:]
+-[CRSTriaxialEllipsoid setSemiMinorAxis:]
+-[CRSTriaxialEllipsoid setSemiMinorAxisText:]
+-[CRSTriaxialEllipsoid isEqualToTriaxialEllipsoid:]
+-[CRSTriaxialEllipsoid isEqual:]
+-[CRSTriaxialEllipsoid hash]
+-[CRSTriaxialEllipsoid semiMedianAxis]
+-[CRSTriaxialEllipsoid semiMedianAxisText]
+-[CRSTriaxialEllipsoid semiMinorAxis]
+-[CRSTriaxialEllipsoid semiMinorAxisText]
+-[CRSTriaxialEllipsoid .cxx_destruct]
+_OBJC_IVAR_$_CRSTriaxialEllipsoid._semiMedianAxis
+_OBJC_IVAR_$_CRSTriaxialEllipsoid._semiMedianAxisText
+_OBJC_IVAR_$_CRSTriaxialEllipsoid._semiMinorAxis
+_OBJC_IVAR_$_CRSTriaxialEllipsoid._semiMinorAxisText
+__OBJC_$_CLASS_METHODS_CRSTriaxialEllipsoid
+__OBJC_METACLASS_RO_$_CRSTriaxialEllipsoid
+__OBJC_$_INSTANCE_METHODS_CRSTriaxialEllipsoid
+__OBJC_$_INSTANCE_VARIABLES_CRSTriaxialEllipsoid
+__OBJC_$_PROP_LIST_CRSTriaxialEllipsoid
+__OBJC_CLASS_RO_$_CRSTriaxialEllipsoid
+/Users/albintornqvist/projects/GlobalForester-iOS/Carthage/Checkouts/coordinate-reference-systems-ios/crs-ios/geo/CRSTriaxialEllipsoid.m
+crs-ios/geo/CRSTriaxialEllipsoid.m
+crs-ios/geo/CRSTriaxialEllipsoid.h
++[CRSExtent create]
+-[CRSExtent init]
+-[CRSExtent hasAreaDescription]
+-[CRSExtent hasGeographicBoundingBox]
+-[CRSExtent hasVerticalExtent]
+-[CRSExtent hasTemporalExtent]
+-[CRSExtent isEqualToExtent:]
+-[CRSExtent isEqual:]
+-[CRSExtent hash]
+-[CRSExtent description]
+-[CRSExtent areaDescription]
+-[CRSExtent setAreaDescription:]
+-[CRSExtent geographicBoundingBox]
+-[CRSExtent setGeographicBoundingBox:]
+-[CRSExtent verticalExtent]
+-[CRSExtent setVerticalExtent:]
+-[CRSExtent temporalExtent]
+-[CRSExtent setTemporalExtent:]
+-[CRSExtent .cxx_destruct]
+__OBJC_$_CLASS_METHODS_CRSExtent
+__OBJC_METACLASS_RO_$_CRSExtent
+__OBJC_$_INSTANCE_METHODS_CRSExtent
+_OBJC_IVAR_$_CRSExtent._areaDescription
+_OBJC_IVAR_$_CRSExtent._geographicBoundingBox
+_OBJC_IVAR_$_CRSExtent._verticalExtent
+_OBJC_IVAR_$_CRSExtent._temporalExtent
+__OBJC_$_INSTANCE_VARIABLES_CRSExtent
+__OBJC_$_PROP_LIST_CRSExtent
+__OBJC_CLASS_RO_$_CRSExtent
+/Users/albintornqvist/projects/GlobalForester-iOS/Carthage/Checkouts/coordinate-reference-systems-ios/crs-ios/common/CRSExtent.m
+crs-ios/common/CRSExtent.m
+crs-ios/common/CRSExtent.h
++[CRSCoordinateMetadata create]
+-[CRSCoordinateMetadata init]
+-[CRSCoordinateMetadata initWithCoordinateReferenceSystem:]
+-[CRSCoordinateMetadata initWithCoordinateReferenceSystem:andEpoch:]
+-[CRSCoordinateMetadata initWithCoordinateReferenceSystem:andEpochText:]
+-[CRSCoordinateMetadata hasEpoch]
+-[CRSCoordinateMetadata setEpoch:]
+-[CRSCoordinateMetadata setEpochText:]
+-[CRSCoordinateMetadata name]
+-[CRSCoordinateMetadata setName:]
+-[CRSCoordinateMetadata usages]
+-[CRSCoordinateMetadata hasUsages]
+-[CRSCoordinateMetadata numUsages]
+-[CRSCoordinateMetadata usageAtIndex:]
+-[CRSCoordinateMetadata setUsages:]
+-[CRSCoordinateMetadata addUsage:]
+-[CRSCoordinateMetadata addUsages:]
+-[CRSCoordinateMetadata identifiers]
+-[CRSCoordinateMetadata hasIdentifiers]
+-[CRSCoordinateMetadata numIdentifiers]
+-[CRSCoordinateMetadata identifierAtIndex:]
+-[CRSCoordinateMetadata setIdentifiers:]
+-[CRSCoordinateMetadata addIdentifier:]
+-[CRSCoordinateMetadata addIdentifiers:]
+-[CRSCoordinateMetadata remark]
+-[CRSCoordinateMetadata hasRemark]
+-[CRSCoordinateMetadata setRemark:]
+-[CRSCoordinateMetadata isEqualToCoordinateMetadata:]
+-[CRSCoordinateMetadata isEqual:]
+-[CRSCoordinateMetadata hash]
+-[CRSCoordinateMetadata coordinateReferenceSystem]
+-[CRSCoordinateMetadata setCoordinateReferenceSystem:]
+-[CRSCoordinateMetadata epoch]
+-[CRSCoordinateMetadata epochText]
+-[CRSCoordinateMetadata .cxx_destruct]
+_OBJC_IVAR_$_CRSCoordinateMetadata._epoch
+_OBJC_CLASSLIST_REFERENCES_$_.13
+_OBJC_IVAR_$_CRSCoordinateMetadata._epochText
+_OBJC_IVAR_$_CRSCoordinateMetadata._coordinateReferenceSystem
+__OBJC_$_CLASS_METHODS_CRSCoordinateMetadata
+__OBJC_METACLASS_RO_$_CRSCoordinateMetadata
+__OBJC_$_INSTANCE_METHODS_CRSCoordinateMetadata
+__OBJC_$_INSTANCE_VARIABLES_CRSCoordinateMetadata
+__OBJC_$_PROP_LIST_CRSCoordinateMetadata
+__OBJC_CLASS_RO_$_CRSCoordinateMetadata
+/Users/albintornqvist/projects/GlobalForester-iOS/Carthage/Checkouts/coordinate-reference-systems-ios/crs-ios/metadata/CRSCoordinateMetadata.m
+crs-ios/metadata/CRSCoordinateMetadata.m
+crs-ios/metadata/CRSCoordinateMetadata.h
++[CRSVerticalReferenceFrame create]
+-[CRSVerticalReferenceFrame init]
+-[CRSVerticalReferenceFrame initWithName:]
+-[CRSVerticalReferenceFrame isEqualToVerticalReferenceFrame:]
+-[CRSVerticalReferenceFrame isEqual:]
+-[CRSVerticalReferenceFrame hash]
+__OBJC_$_CLASS_METHODS_CRSVerticalReferenceFrame
+__OBJC_METACLASS_RO_$_CRSVerticalReferenceFrame
+__OBJC_$_INSTANCE_METHODS_CRSVerticalReferenceFrame
+__OBJC_CLASS_RO_$_CRSVerticalReferenceFrame
+/Users/albintornqvist/projects/GlobalForester-iOS/Carthage/Checkouts/coordinate-reference-systems-ios/crs-ios/vertical/CRSVerticalReferenceFrame.m
+crs-ios/vertical/CRSVerticalReferenceFrame.m
++[CRSPrimeMeridians initialize]
++[CRSPrimeMeridians initializePrimeMeridian:]
++[CRSPrimeMeridians eastWithType:andName:andDegree:andMinute:andSecond:]
++[CRSPrimeMeridians westWithType:andName:andDegree:andMinute:andSecond:]
++[CRSPrimeMeridians createWithType:andName:andOffset:]
++[CRSPrimeMeridians fromType:]
++[CRSPrimeMeridians fromName:]
+-[CRSPrimeMeridians initWithType:andName:andOffset:]
+-[CRSPrimeMeridians type]
+-[CRSPrimeMeridians name]
+-[CRSPrimeMeridians offsetFromGreenwich]
+-[CRSPrimeMeridians description]
+-[CRSPrimeMeridians isEqual:]
+-[CRSPrimeMeridians hash]
+-[CRSPrimeMeridians setType:]
+-[CRSPrimeMeridians setName:]
+-[CRSPrimeMeridians setOffsetFromGreenwich:]
+-[CRSPrimeMeridians .cxx_destruct]
+_typePrimeMeridians
+_namePrimeMeridians
+_OBJC_CLASSLIST_REFERENCES_$_.44
+__OBJC_$_CLASS_METHODS_CRSPrimeMeridians
+__OBJC_METACLASS_RO_$_CRSPrimeMeridians
+__OBJC_$_INSTANCE_METHODS_CRSPrimeMeridians
+_OBJC_IVAR_$_CRSPrimeMeridians._type
+_OBJC_IVAR_$_CRSPrimeMeridians._name
+_OBJC_IVAR_$_CRSPrimeMeridians._offsetFromGreenwich
+__OBJC_$_INSTANCE_VARIABLES_CRSPrimeMeridians
+__OBJC_$_PROP_LIST_CRSPrimeMeridians
+__OBJC_CLASS_RO_$_CRSPrimeMeridians
+/Users/albintornqvist/projects/GlobalForester-iOS/Carthage/Checkouts/coordinate-reference-systems-ios/crs-ios/geo/CRSPrimeMeridians.m
+crs-ios/geo/CRSPrimeMeridians.m
+-[CRSCoordinateReferenceSystem init]
+-[CRSCoordinateReferenceSystem initWithType:]
+-[CRSCoordinateReferenceSystem initWithName:andType:]
+-[CRSCoordinateReferenceSystem isEqualToCoordinateReferenceSystem:]
+-[CRSCoordinateReferenceSystem isEqual:]
+-[CRSCoordinateReferenceSystem hash]
+__OBJC_METACLASS_RO_$_CRSCoordinateReferenceSystem
+__OBJC_$_INSTANCE_METHODS_CRSCoordinateReferenceSystem
+__OBJC_CLASS_RO_$_CRSCoordinateReferenceSystem
+/Users/albintornqvist/projects/GlobalForester-iOS/Carthage/Checkouts/coordinate-reference-systems-ios/crs-ios/CRSCoordinateReferenceSystem.m
+crs-ios/CRSCoordinateReferenceSystem.m
++[CRSKeyword initialize]
++[CRSKeyword initializeKeyword:]
++[CRSKeyword createWithType:andName:]
++[CRSKeyword createWithType:andName:andKeyword:]
++[CRSKeyword createWithType:andName:andKeywords:]
+-[CRSKeyword initWithType:andName:]
+-[CRSKeyword initWithType:andName:andKeyword:]
+-[CRSKeyword initWithType:andName:andKeywords:]
+-[CRSKeyword type]
+-[CRSKeyword name]
+-[CRSKeyword keywords]
+-[CRSKeyword isEqualToKeyword:]
+-[CRSKeyword isEqual:]
+-[CRSKeyword hash]
++[CRSKeyword keyword:]
++[CRSKeyword type:]
++[CRSKeyword requiredKeyword:]
++[CRSKeyword requiredType:]
++[CRSKeyword keywords:]
++[CRSKeyword types:]
++[CRSKeyword requiredKeywords:]
++[CRSKeyword requiredTypes:]
++[CRSKeyword keywordOfType:]
++[CRSKeyword nameOfType:]
+-[CRSKeyword setType:]
+-[CRSKeyword setName:]
+-[CRSKeyword setKeywords:]
+-[CRSKeyword .cxx_destruct]
+_keywordTypes
+_typeKeywords
+_OBJC_CLASSLIST_REFERENCES_$_.225
+_OBJC_SELECTOR_REFERENCES_.227
+_OBJC_SELECTOR_REFERENCES_.229
+_OBJC_CLASSLIST_REFERENCES_$_.232
+_OBJC_SELECTOR_REFERENCES_.260
+_OBJC_SELECTOR_REFERENCES_.264
+_OBJC_CLASSLIST_REFERENCES_$_.265
+__OBJC_$_CLASS_METHODS_CRSKeyword
+__OBJC_METACLASS_RO_$_CRSKeyword
+__OBJC_$_INSTANCE_METHODS_CRSKeyword
+_OBJC_IVAR_$_CRSKeyword._type
+_OBJC_IVAR_$_CRSKeyword._name
+_OBJC_IVAR_$_CRSKeyword._keywords
+__OBJC_$_INSTANCE_VARIABLES_CRSKeyword
+__OBJC_$_PROP_LIST_CRSKeyword
+__OBJC_CLASS_RO_$_CRSKeyword
+/Users/albintornqvist/projects/GlobalForester-iOS/Carthage/Checkouts/coordinate-reference-systems-ios/crs-ios/wkt/CRSKeyword.m
+crs-ios/wkt/CRSKeyword.m
+-[CRSSimpleCoordinateReferenceSystem init]
+-[CRSSimpleCoordinateReferenceSystem initWithType:]
+-[CRSSimpleCoordinateReferenceSystem initWithName:andType:]
+-[CRSSimpleCoordinateReferenceSystem initWithName:andType:andCoordinateSystem:]
+-[CRSSimpleCoordinateReferenceSystem isEqualToSimpleCoordinateReferenceSystem:]
+-[CRSSimpleCoordinateReferenceSystem isEqual:]
+-[CRSSimpleCoordinateReferenceSystem hash]
+-[CRSSimpleCoordinateReferenceSystem coordinateSystem]
+-[CRSSimpleCoordinateReferenceSystem setCoordinateSystem:]
+-[CRSSimpleCoordinateReferenceSystem .cxx_destruct]
+_OBJC_IVAR_$_CRSSimpleCoordinateReferenceSystem._coordinateSystem
+__OBJC_METACLASS_RO_$_CRSSimpleCoordinateReferenceSystem
+__OBJC_$_INSTANCE_METHODS_CRSSimpleCoordinateReferenceSystem
+__OBJC_$_INSTANCE_VARIABLES_CRSSimpleCoordinateReferenceSystem
+__OBJC_$_PROP_LIST_CRSSimpleCoordinateReferenceSystem
+__OBJC_CLASS_RO_$_CRSSimpleCoordinateReferenceSystem
+/Users/albintornqvist/projects/GlobalForester-iOS/Carthage/Checkouts/coordinate-reference-systems-ios/crs-ios/CRSSimpleCoordinateReferenceSystem.m
+crs-ios/CRSSimpleCoordinateReferenceSystem.m
+crs-ios/CRSSimpleCoordinateReferenceSystem.h
+__OBJC_METACLASS_RO_$_CRSTextConstants
+__OBJC_CLASS_RO_$_CRSTextConstants
+/Users/albintornqvist/projects/GlobalForester-iOS/Carthage/Checkouts/coordinate-reference-systems-ios/crs-ios/wkt/CRSTextConstants.m
++[CRSEllipsoidTypes name:]
++[CRSEllipsoidTypes type:]
+__OBJC_$_CLASS_METHODS_CRSEllipsoidTypes
+__OBJC_METACLASS_RO_$_CRSEllipsoidTypes
+__OBJC_CLASS_RO_$_CRSEllipsoidTypes
+/Users/albintornqvist/projects/GlobalForester-iOS/Carthage/Checkouts/coordinate-reference-systems-ios/crs-ios/geo/CRSEllipsoidTypes.m
+crs-ios/geo/CRSEllipsoidTypes.m
++[CRSOperationParameter create]
+-[CRSOperationParameter init]
+-[CRSOperationParameter initWithName:andValue:]
+-[CRSOperationParameter initWithName:andValueText:]
+-[CRSOperationParameter initWithName:andValue:andUnit:]
+-[CRSOperationParameter initWithName:andValueText:andUnit:]
+-[CRSOperationParameter initWithParameter:andValue:]
+-[CRSOperationParameter initWithParameter:andValueText:]
+-[CRSOperationParameter initWithParameter:andValue:andUnit:]
+-[CRSOperationParameter initWithParameter:andValueText:andUnit:]
+-[CRSOperationParameter initWithName:andFileName:]
+-[CRSOperationParameter setName:]
+-[CRSOperationParameter setValue:]
+-[CRSOperationParameter setValueText:]
+-[CRSOperationParameter hasUnit]
+-[CRSOperationParameter isFile]
+-[CRSOperationParameter hasIdentifiers]
+-[CRSOperationParameter numIdentifiers]
+-[CRSOperationParameter identifierAtIndex:]
+-[CRSOperationParameter addIdentifier:]
+-[CRSOperationParameter addIdentifiers:]
+-[CRSOperationParameter hasParameter]
+-[CRSOperationParameter updateParameter]
+-[CRSOperationParameter isEqualToOperationParameter:]
+-[CRSOperationParameter isEqual:]
+-[CRSOperationParameter hash]
+-[CRSOperationParameter description]
+-[CRSOperationParameter name]
+-[CRSOperationParameter value]
+-[CRSOperationParameter valueText]
+-[CRSOperationParameter unit]
+-[CRSOperationParameter setUnit:]
+-[CRSOperationParameter fileName]
+-[CRSOperationParameter setFileName:]
+-[CRSOperationParameter identifiers]
+-[CRSOperationParameter setIdentifiers:]
+-[CRSOperationParameter parameter]
+-[CRSOperationParameter setParameter:]
+-[CRSOperationParameter .cxx_destruct]
+__OBJC_$_CLASS_METHODS_CRSOperationParameter
+__OBJC_CLASS_PROTOCOLS_$_CRSOperationParameter
+__OBJC_METACLASS_RO_$_CRSOperationParameter
+__OBJC_$_INSTANCE_METHODS_CRSOperationParameter
+_OBJC_IVAR_$_CRSOperationParameter._name
+_OBJC_IVAR_$_CRSOperationParameter._value
+_OBJC_IVAR_$_CRSOperationParameter._valueText
+_OBJC_IVAR_$_CRSOperationParameter._unit
+_OBJC_IVAR_$_CRSOperationParameter._fileName
+_OBJC_IVAR_$_CRSOperationParameter._identifiers
+_OBJC_IVAR_$_CRSOperationParameter._parameter
+__OBJC_$_INSTANCE_VARIABLES_CRSOperationParameter
+__OBJC_$_PROP_LIST_CRSOperationParameter
+__OBJC_CLASS_RO_$_CRSOperationParameter
+/Users/albintornqvist/projects/GlobalForester-iOS/Carthage/Checkouts/coordinate-reference-systems-ios/crs-ios/operation/CRSOperationParameter.m
+crs-ios/operation/CRSOperationParameter.m
+crs-ios/operation/CRSOperationParameter.h
+-[CRSOperation initWithType:]
+-[CRSOperation initWithName:andType:andSource:]
+-[CRSOperation hasVersion]
+-[CRSOperation hasAccuracy]
+-[CRSOperation setAccuracy:]
+-[CRSOperation setAccuracyText:]
+-[CRSOperation isEqualToOperation:]
+-[CRSOperation isEqual:]
+-[CRSOperation hash]
+-[CRSOperation version]
+-[CRSOperation setVersion:]
+-[CRSOperation source]
+-[CRSOperation setSource:]
+-[CRSOperation accuracy]
+-[CRSOperation accuracyText]
+-[CRSOperation .cxx_destruct]
+_OBJC_IVAR_$_CRSOperation._accuracy
+_OBJC_IVAR_$_CRSOperation._accuracyText
+_OBJC_IVAR_$_CRSOperation._version
+_OBJC_IVAR_$_CRSOperation._source
+__OBJC_METACLASS_RO_$_CRSOperation
+__OBJC_$_INSTANCE_METHODS_CRSOperation
+__OBJC_$_INSTANCE_VARIABLES_CRSOperation
+__OBJC_$_PROP_LIST_CRSOperation
+__OBJC_CLASS_RO_$_CRSOperation
+/Users/albintornqvist/projects/GlobalForester-iOS/Carthage/Checkouts/coordinate-reference-systems-ios/crs-ios/operation/CRSOperation.m
+crs-ios/operation/CRSOperation.m
+crs-ios/operation/CRSOperation.h
++[CRSTemporalCoordinateReferenceSystem create]
+-[CRSTemporalCoordinateReferenceSystem init]
+-[CRSTemporalCoordinateReferenceSystem initWithName:andDatum:andCoordinateSystem:]
+-[CRSTemporalCoordinateReferenceSystem isEqualToTemporalCoordinateReferenceSystem:]
+-[CRSTemporalCoordinateReferenceSystem isEqual:]
+-[CRSTemporalCoordinateReferenceSystem hash]
+-[CRSTemporalCoordinateReferenceSystem datum]
+-[CRSTemporalCoordinateReferenceSystem setDatum:]
+-[CRSTemporalCoordinateReferenceSystem .cxx_destruct]
+_OBJC_IVAR_$_CRSTemporalCoordinateReferenceSystem._datum
+__OBJC_$_CLASS_METHODS_CRSTemporalCoordinateReferenceSystem
+__OBJC_METACLASS_RO_$_CRSTemporalCoordinateReferenceSystem
+__OBJC_$_INSTANCE_METHODS_CRSTemporalCoordinateReferenceSystem
+__OBJC_$_INSTANCE_VARIABLES_CRSTemporalCoordinateReferenceSystem
+__OBJC_$_PROP_LIST_CRSTemporalCoordinateReferenceSystem
+__OBJC_CLASS_RO_$_CRSTemporalCoordinateReferenceSystem
+/Users/albintornqvist/projects/GlobalForester-iOS/Carthage/Checkouts/coordinate-reference-systems-ios/crs-ios/temporal/CRSTemporalCoordinateReferenceSystem.m
+crs-ios/temporal/CRSTemporalCoordinateReferenceSystem.m
+crs-ios/temporal/CRSTemporalCoordinateReferenceSystem.h
++[CRSVerticalCoordinateReferenceSystem create]
+-[CRSVerticalCoordinateReferenceSystem init]
+-[CRSVerticalCoordinateReferenceSystem initWithName:andReferenceFrame:andCoordinateSystem:]
+-[CRSVerticalCoordinateReferenceSystem initWithName:andDatumEnsemble:andCoordinateSystem:]
+-[CRSVerticalCoordinateReferenceSystem initWithName:andDynamic:andReferenceFrame:andCoordinateSystem:]
+-[CRSVerticalCoordinateReferenceSystem hasReferenceFrame]
+-[CRSVerticalCoordinateReferenceSystem hasDatumEnsemble]
+-[CRSVerticalCoordinateReferenceSystem hasDynamic]
+-[CRSVerticalCoordinateReferenceSystem hasGeoidModelName]
+-[CRSVerticalCoordinateReferenceSystem hasGeoidModelIdentifier]
+-[CRSVerticalCoordinateReferenceSystem isEqualToVerticalCoordinateReferenceSystem:]
+-[CRSVerticalCoordinateReferenceSystem isEqual:]
+-[CRSVerticalCoordinateReferenceSystem hash]
+-[CRSVerticalCoordinateReferenceSystem referenceFrame]
+-[CRSVerticalCoordinateReferenceSystem setReferenceFrame:]
+-[CRSVerticalCoordinateReferenceSystem datumEnsemble]
+-[CRSVerticalCoordinateReferenceSystem setDatumEnsemble:]
+-[CRSVerticalCoordinateReferenceSystem dynamic]
+-[CRSVerticalCoordinateReferenceSystem setDynamic:]
+-[CRSVerticalCoordinateReferenceSystem geoidModelName]
+-[CRSVerticalCoordinateReferenceSystem setGeoidModelName:]
+-[CRSVerticalCoordinateReferenceSystem geoidModelIdentifier]
+-[CRSVerticalCoordinateReferenceSystem setGeoidModelIdentifier:]
+-[CRSVerticalCoordinateReferenceSystem .cxx_destruct]
+_OBJC_IVAR_$_CRSVerticalCoordinateReferenceSystem._referenceFrame
+_OBJC_IVAR_$_CRSVerticalCoordinateReferenceSystem._datumEnsemble
+_OBJC_IVAR_$_CRSVerticalCoordinateReferenceSystem._dynamic
+_OBJC_IVAR_$_CRSVerticalCoordinateReferenceSystem._geoidModelName
+_OBJC_IVAR_$_CRSVerticalCoordinateReferenceSystem._geoidModelIdentifier
+__OBJC_$_CLASS_METHODS_CRSVerticalCoordinateReferenceSystem
+__OBJC_METACLASS_RO_$_CRSVerticalCoordinateReferenceSystem
+__OBJC_$_INSTANCE_METHODS_CRSVerticalCoordinateReferenceSystem
+__OBJC_$_INSTANCE_VARIABLES_CRSVerticalCoordinateReferenceSystem
+__OBJC_$_PROP_LIST_CRSVerticalCoordinateReferenceSystem
+__OBJC_CLASS_RO_$_CRSVerticalCoordinateReferenceSystem
+/Users/albintornqvist/projects/GlobalForester-iOS/Carthage/Checkouts/coordinate-reference-systems-ios/crs-ios/vertical/CRSVerticalCoordinateReferenceSystem.m
+crs-ios/vertical/CRSVerticalCoordinateReferenceSystem.m
+crs-ios/vertical/CRSVerticalCoordinateReferenceSystem.h
++[CRSAxis create]
+-[CRSAxis init]
+-[CRSAxis initWithName:andDirection:]
+-[CRSAxis hasName]
+-[CRSAxis hasAbbreviation]
+-[CRSAxis hasMeridian]
+-[CRSAxis setMeridian:]
+-[CRSAxis setMeridianText:]
+-[CRSAxis hasBearing]
+-[CRSAxis setBearing:]
+-[CRSAxis setBearingText:]
+-[CRSAxis hasOrder]
+-[CRSAxis hasUnit]
+-[CRSAxis hasIdentifiers]
+-[CRSAxis numIdentifiers]
+-[CRSAxis identifierAtIndex:]
+-[CRSAxis addIdentifier:]
+-[CRSAxis addIdentifiers:]
+-[CRSAxis isEqualToAxis:]
+-[CRSAxis isEqual:]
+-[CRSAxis hash]
+-[CRSAxis description]
+-[CRSAxis name]
+-[CRSAxis setName:]
+-[CRSAxis abbreviation]
+-[CRSAxis setAbbreviation:]
+-[CRSAxis direction]
+-[CRSAxis setDirection:]
+-[CRSAxis meridian]
+-[CRSAxis meridianText]
+-[CRSAxis meridianUnit]
+-[CRSAxis setMeridianUnit:]
+-[CRSAxis bearing]
+-[CRSAxis bearingText]
+-[CRSAxis order]
+-[CRSAxis setOrder:]
+-[CRSAxis unit]
+-[CRSAxis setUnit:]
+-[CRSAxis identifiers]
+-[CRSAxis setIdentifiers:]
+-[CRSAxis .cxx_destruct]
+_OBJC_CLASSLIST_REFERENCES_$_.26
+__OBJC_$_CLASS_METHODS_CRSAxis
+__OBJC_CLASS_PROTOCOLS_$_CRSAxis
+__OBJC_METACLASS_RO_$_CRSAxis
+__OBJC_$_INSTANCE_METHODS_CRSAxis
+_OBJC_IVAR_$_CRSAxis._direction
+_OBJC_IVAR_$_CRSAxis._name
+_OBJC_IVAR_$_CRSAxis._abbreviation
+_OBJC_IVAR_$_CRSAxis._meridian
+_OBJC_IVAR_$_CRSAxis._meridianText
+_OBJC_IVAR_$_CRSAxis._meridianUnit
+_OBJC_IVAR_$_CRSAxis._bearing
+_OBJC_IVAR_$_CRSAxis._bearingText
+_OBJC_IVAR_$_CRSAxis._order
+_OBJC_IVAR_$_CRSAxis._unit
+_OBJC_IVAR_$_CRSAxis._identifiers
+__OBJC_$_INSTANCE_VARIABLES_CRSAxis
+__OBJC_$_PROP_LIST_CRSAxis
+__OBJC_CLASS_RO_$_CRSAxis
+/Users/albintornqvist/projects/GlobalForester-iOS/Carthage/Checkouts/coordinate-reference-systems-ios/crs-ios/common/CRSAxis.m
+crs-ios/common/CRSAxis.m
+crs-ios/common/CRSAxis.h
++[CRSOperationMethods initialize]
++[CRSOperationMethods initializeMethod:]
++[CRSOperationMethods createWithType:andCode:andName:andOperationType:andParameterCodes:]
++[CRSOperationMethods createWithType:andCode:andName:andOperationType:andAlias:andParameterCodes:]
++[CRSOperationMethods createWithType:andCode:andName:andOperationType:andAliases:andParameterCodes:]
+-[CRSOperationMethods initWithType:andCode:andName:andOperationType:andParameterCodes:]
+-[CRSOperationMethods initWithType:andCode:andName:andOperationType:andAlias:andParameterCodes:]
+-[CRSOperationMethods initWithType:andCode:andName:andOperationType:andAliases:andParameterCodes:]
+-[CRSOperationMethods addAlias:]
+-[CRSOperationMethods type]
+-[CRSOperationMethods name]
+-[CRSOperationMethods operationType]
+-[CRSOperationMethods aliases]
+-[CRSOperationMethods code]
+-[CRSOperationMethods parameterCodes]
+-[CRSOperationMethods numParameters]
+-[CRSOperationMethods parameterCodeAtIndex:]
+-[CRSOperationMethods parameterAtIndex:]
+-[CRSOperationMethods parameters]
+-[CRSOperationMethods isEqualToOperationMethods:]
+-[CRSOperationMethods isEqual:]
+-[CRSOperationMethods hash]
++[CRSOperationMethods method:]
++[CRSOperationMethods methodFromName:]
++[CRSOperationMethods methodsFromName:]
++[CRSOperationMethods methodFromCode:]
+-[CRSOperationMethods setType:]
+-[CRSOperationMethods setName:]
+-[CRSOperationMethods setOperationType:]
+-[CRSOperationMethods setAliases:]
+-[CRSOperationMethods setCode:]
+-[CRSOperationMethods setParameterCodes:]
+-[CRSOperationMethods .cxx_destruct]
+_typeMethods
+_aliasMethods
+_codeMethods
+_OBJC_CLASSLIST_REFERENCES_$_.2
+_OBJC_CLASSLIST_REFERENCES_$_.169
+__OBJC_$_CLASS_METHODS_CRSOperationMethods
+__OBJC_METACLASS_RO_$_CRSOperationMethods
+__OBJC_$_INSTANCE_METHODS_CRSOperationMethods
+_OBJC_IVAR_$_CRSOperationMethods._type
+_OBJC_IVAR_$_CRSOperationMethods._operationType
+_OBJC_IVAR_$_CRSOperationMethods._code
+_OBJC_IVAR_$_CRSOperationMethods._name
+_OBJC_IVAR_$_CRSOperationMethods._aliases
+_OBJC_IVAR_$_CRSOperationMethods._parameterCodes
+__OBJC_$_INSTANCE_VARIABLES_CRSOperationMethods
+__OBJC_$_PROP_LIST_CRSOperationMethods
+__OBJC_CLASS_RO_$_CRSOperationMethods
+/Users/albintornqvist/projects/GlobalForester-iOS/Carthage/Checkouts/coordinate-reference-systems-ios/crs-ios/operation/CRSOperationMethods.m
+crs-ios/operation/CRSOperationMethods.m
++[CRSCoordinateOperation create]
+-[CRSCoordinateOperation init]
+-[CRSCoordinateOperation initWithName:andSource:andTarget:andMethod:]
+-[CRSCoordinateOperation operationType]
+-[CRSCoordinateOperation hasInterpolation]
+-[CRSCoordinateOperation isEqualToCoordinateOperation:]
+-[CRSCoordinateOperation isEqual:]
+-[CRSCoordinateOperation hash]
+-[CRSCoordinateOperation target]
+-[CRSCoordinateOperation setTarget:]
+-[CRSCoordinateOperation interpolation]
+-[CRSCoordinateOperation setInterpolation:]
+-[CRSCoordinateOperation .cxx_destruct]
+_OBJC_IVAR_$_CRSCoordinateOperation._target
+_OBJC_IVAR_$_CRSCoordinateOperation._interpolation
+__OBJC_$_CLASS_METHODS_CRSCoordinateOperation
+__OBJC_METACLASS_RO_$_CRSCoordinateOperation
+__OBJC_$_INSTANCE_METHODS_CRSCoordinateOperation
+__OBJC_$_INSTANCE_VARIABLES_CRSCoordinateOperation
+__OBJC_$_PROP_LIST_CRSCoordinateOperation
+__OBJC_CLASS_RO_$_CRSCoordinateOperation
+/Users/albintornqvist/projects/GlobalForester-iOS/Carthage/Checkouts/coordinate-reference-systems-ios/crs-ios/operation/CRSCoordinateOperation.m
+crs-ios/operation/CRSCoordinateOperation.m
+crs-ios/operation/CRSCoordinateOperation.h
++[CRSParametricCoordinateReferenceSystem create]
+-[CRSParametricCoordinateReferenceSystem init]
+-[CRSParametricCoordinateReferenceSystem initWithName:andDatum:andCoordinateSystem:]
+-[CRSParametricCoordinateReferenceSystem isEqualToParametricCoordinateReferenceSystem:]
+-[CRSParametricCoordinateReferenceSystem isEqual:]
+-[CRSParametricCoordinateReferenceSystem hash]
+-[CRSParametricCoordinateReferenceSystem datum]
+-[CRSParametricCoordinateReferenceSystem setDatum:]
+-[CRSParametricCoordinateReferenceSystem .cxx_destruct]
+_OBJC_IVAR_$_CRSParametricCoordinateReferenceSystem._datum
+__OBJC_$_CLASS_METHODS_CRSParametricCoordinateReferenceSystem
+__OBJC_METACLASS_RO_$_CRSParametricCoordinateReferenceSystem
+__OBJC_$_INSTANCE_METHODS_CRSParametricCoordinateReferenceSystem
+__OBJC_$_INSTANCE_VARIABLES_CRSParametricCoordinateReferenceSystem
+__OBJC_$_PROP_LIST_CRSParametricCoordinateReferenceSystem
+__OBJC_CLASS_RO_$_CRSParametricCoordinateReferenceSystem
+/Users/albintornqvist/projects/GlobalForester-iOS/Carthage/Checkouts/coordinate-reference-systems-ios/crs-ios/parametric/CRSParametricCoordinateReferenceSystem.m
+crs-ios/parametric/CRSParametricCoordinateReferenceSystem.m
+crs-ios/parametric/CRSParametricCoordinateReferenceSystem.h
++[CRSAbridgedCoordinateTransformation create]
+-[CRSAbridgedCoordinateTransformation init]
+-[CRSAbridgedCoordinateTransformation initWithName:andMethod:]
+-[CRSAbridgedCoordinateTransformation operationType]
+-[CRSAbridgedCoordinateTransformation hasVersion]
+-[CRSAbridgedCoordinateTransformation hasUsages]
+-[CRSAbridgedCoordinateTransformation numUsages]
+-[CRSAbridgedCoordinateTransformation usageAtIndex:]
+-[CRSAbridgedCoordinateTransformation addUsage:]
+-[CRSAbridgedCoordinateTransformation addUsages:]
+-[CRSAbridgedCoordinateTransformation hasIdentifiers]
+-[CRSAbridgedCoordinateTransformation numIdentifiers]
+-[CRSAbridgedCoordinateTransformation identifierAtIndex:]
+-[CRSAbridgedCoordinateTransformation addIdentifier:]
+-[CRSAbridgedCoordinateTransformation addIdentifiers:]
+-[CRSAbridgedCoordinateTransformation hasRemark]
+-[CRSAbridgedCoordinateTransformation isEqualToAbridgedCoordinateTransformation:]
+-[CRSAbridgedCoordinateTransformation isEqual:]
+-[CRSAbridgedCoordinateTransformation hash]
+-[CRSAbridgedCoordinateTransformation description]
+-[CRSAbridgedCoordinateTransformation name]
+-[CRSAbridgedCoordinateTransformation setName:]
+-[CRSAbridgedCoordinateTransformation version]
+-[CRSAbridgedCoordinateTransformation setVersion:]
+-[CRSAbridgedCoordinateTransformation method]
+-[CRSAbridgedCoordinateTransformation setMethod:]
+-[CRSAbridgedCoordinateTransformation usages]
+-[CRSAbridgedCoordinateTransformation setUsages:]
+-[CRSAbridgedCoordinateTransformation identifiers]
+-[CRSAbridgedCoordinateTransformation setIdentifiers:]
+-[CRSAbridgedCoordinateTransformation remark]
+-[CRSAbridgedCoordinateTransformation setRemark:]
+-[CRSAbridgedCoordinateTransformation .cxx_destruct]
+__OBJC_$_CLASS_METHODS_CRSAbridgedCoordinateTransformation
+__OBJC_CLASS_PROTOCOLS_$_CRSAbridgedCoordinateTransformation
+__OBJC_METACLASS_RO_$_CRSAbridgedCoordinateTransformation
+__OBJC_$_INSTANCE_METHODS_CRSAbridgedCoordinateTransformation
+_OBJC_IVAR_$_CRSAbridgedCoordinateTransformation._name
+_OBJC_IVAR_$_CRSAbridgedCoordinateTransformation._version
+_OBJC_IVAR_$_CRSAbridgedCoordinateTransformation._method
+_OBJC_IVAR_$_CRSAbridgedCoordinateTransformation._usages
+_OBJC_IVAR_$_CRSAbridgedCoordinateTransformation._identifiers
+_OBJC_IVAR_$_CRSAbridgedCoordinateTransformation._remark
+__OBJC_$_INSTANCE_VARIABLES_CRSAbridgedCoordinateTransformation
+__OBJC_$_PROP_LIST_CRSAbridgedCoordinateTransformation
+__OBJC_CLASS_RO_$_CRSAbridgedCoordinateTransformation
+/Users/albintornqvist/projects/GlobalForester-iOS/Carthage/Checkouts/coordinate-reference-systems-ios/crs-ios/bound/CRSAbridgedCoordinateTransformation.m
+crs-ios/bound/CRSAbridgedCoordinateTransformation.m
+crs-ios/bound/CRSAbridgedCoordinateTransformation.h
++[CRSWriter write:]
++[CRSWriter writePretty:]
++[CRSWriter writePrettyTabIndent:]
++[CRSWriter writePrettyNoIndent:]
++[CRSWriter writePretty:withIndent:]
++[CRSWriter writePretty:withNewline:andIndent:]
++[CRSWriter writePrettyWithText:]
++[CRSWriter writePrettyTabIndentWithText:]
++[CRSWriter writePrettyNoIndentWithText:]
++[CRSWriter writePrettyWithText:andIndent:]
++[CRSWriter writePrettyWithText:andNewline:andIndent:]
++[CRSWriter create]
+-[CRSWriter init]
+-[CRSWriter initWithText:]
+-[CRSWriter text]
+-[CRSWriter writeCRS:]
+-[CRSWriter writeKeywordType:]
+-[CRSWriter writeKeyword:]
+-[CRSWriter writeLeftDelimiter]
+-[CRSWriter writeRightDelimiter]
+-[CRSWriter writeSeparator]
+-[CRSWriter writeQuotedText:]
+-[CRSWriter writeNumber:]
+-[CRSWriter writeNumberOrQuotedText:]
+-[CRSWriter writeDouble:]
+-[CRSWriter writeInt:]
+-[CRSWriter writeKeywordType:withDelimitedQuotedText:]
+-[CRSWriter writeKeyword:withDelimitedQuotedText:]
+-[CRSWriter writeGeo:]
+-[CRSWriter writeProjected:]
+-[CRSWriter writeVertical:]
+-[CRSWriter writeEngineering:]
+-[CRSWriter writeParametric:]
+-[CRSWriter writeTemporal:]
+-[CRSWriter writeDerived:]
+-[CRSWriter writeDerivedGeoCRS:]
+-[CRSWriter writeDerivedProjectedCRS:]
+-[CRSWriter writeDerivedVerticalCRS:]
+-[CRSWriter writeDerivedEngineeringCRS:]
+-[CRSWriter writeDerivedParametricCRS:]
+-[CRSWriter writeDerivedTemporalCRS:]
+-[CRSWriter writeCompound:]
+-[CRSWriter writeCoordinateMetadata:]
+-[CRSWriter writeCoordinateOperation:]
+-[CRSWriter writePointMotionOperation:]
+-[CRSWriter writeConcatenatedOperation:]
+-[CRSWriter writeBound:]
+-[CRSWriter writeScopeExtentIdentifierRemark:]
+-[CRSWriter writeReferenceFrame:]
+-[CRSWriter writeDatumEnsemble:]
+-[CRSWriter writeDatumEnsembleMember:]
+-[CRSWriter writeDynamic:]
+-[CRSWriter writePrimeMeridian:]
+-[CRSWriter writeEllipsoid:]
+-[CRSWriter writeUnit:]
+-[CRSWriter writeIdentifiers:]
+-[CRSWriter writeIdentifier:]
+-[CRSWriter writeCoordinateSystem:]
+-[CRSWriter writeAxis:]
+-[CRSWriter writeRemark:]
+-[CRSWriter writeUsages:]
+-[CRSWriter writeUsage:]
+-[CRSWriter writeScope:]
+-[CRSWriter writeExtent:]
+-[CRSWriter writeAreaDescription:]
+-[CRSWriter writeGeographicBoundingBox:]
+-[CRSWriter writeVerticalExtent:]
+-[CRSWriter writeTemporalExtent:]
+-[CRSWriter writeMapProjection:]
+-[CRSWriter writeOperationMethod:]
+-[CRSWriter writeOperationParameter:]
+-[CRSWriter writeTemporalDatum:]
+-[CRSWriter writeDerivingConversion:]
+-[CRSWriter writeOperationParameters:]
+-[CRSWriter writeVersion:]
+-[CRSWriter writeSource:]
+-[CRSWriter writeTarget:]
+-[CRSWriter writeInterpolation:]
+-[CRSWriter writeCoordinateReferenceSystem:withKeywordType:]
+-[CRSWriter writeAccuracy:]
+-[CRSWriter writeAccuracyText:]
+-[CRSWriter writeAbridgedCoordinateTransformation:]
+-[CRSWriter description]
+-[CRSWriter setText:]
+-[CRSWriter .cxx_destruct]
+_OBJC_CLASSLIST_REFERENCES_$_.63
+_OBJC_CLASSLIST_REFERENCES_$_.66
+_OBJC_CLASSLIST_REFERENCES_$_.71
+_OBJC_CLASSLIST_REFERENCES_$_.86
+_OBJC_SELECTOR_REFERENCES_.90
+_OBJC_CLASSLIST_REFERENCES_$_.95
+_OBJC_SELECTOR_REFERENCES_.163
+_OBJC_SELECTOR_REFERENCES_.165
+_OBJC_SELECTOR_REFERENCES_.167
+_OBJC_SELECTOR_REFERENCES_.191
+_OBJC_SELECTOR_REFERENCES_.211
+_OBJC_SELECTOR_REFERENCES_.213
+_OBJC_SELECTOR_REFERENCES_.249
+_OBJC_SELECTOR_REFERENCES_.251
+_OBJC_SELECTOR_REFERENCES_.253
+_OBJC_CLASSLIST_REFERENCES_$_.270
+_OBJC_SELECTOR_REFERENCES_.282
+_OBJC_SELECTOR_REFERENCES_.284
+_OBJC_SELECTOR_REFERENCES_.286
+_OBJC_CLASSLIST_REFERENCES_$_.287
+_OBJC_SELECTOR_REFERENCES_.299
+_OBJC_SELECTOR_REFERENCES_.301
+_OBJC_SELECTOR_REFERENCES_.303
+_OBJC_SELECTOR_REFERENCES_.305
+_OBJC_SELECTOR_REFERENCES_.307
+_OBJC_CLASSLIST_REFERENCES_$_.308
+_OBJC_SELECTOR_REFERENCES_.318
+_OBJC_SELECTOR_REFERENCES_.320
+_OBJC_SELECTOR_REFERENCES_.322
+_OBJC_SELECTOR_REFERENCES_.324
+_OBJC_CLASSLIST_REFERENCES_$_.325
+_OBJC_SELECTOR_REFERENCES_.329
+_OBJC_SELECTOR_REFERENCES_.331
+_OBJC_SELECTOR_REFERENCES_.333
+_OBJC_CLASSLIST_REFERENCES_$_.334
+_OBJC_SELECTOR_REFERENCES_.336
+_OBJC_SELECTOR_REFERENCES_.342
+_OBJC_SELECTOR_REFERENCES_.344
+_OBJC_SELECTOR_REFERENCES_.346
+_OBJC_SELECTOR_REFERENCES_.348
+_OBJC_SELECTOR_REFERENCES_.350
+_OBJC_SELECTOR_REFERENCES_.352
+_OBJC_CLASSLIST_REFERENCES_$_.355
+_OBJC_SELECTOR_REFERENCES_.357
+_OBJC_SELECTOR_REFERENCES_.359
+_OBJC_SELECTOR_REFERENCES_.361
+_OBJC_SELECTOR_REFERENCES_.363
+_OBJC_CLASSLIST_REFERENCES_$_.374
+_OBJC_SELECTOR_REFERENCES_.376
+_OBJC_SELECTOR_REFERENCES_.378
+_OBJC_SELECTOR_REFERENCES_.380
+_OBJC_SELECTOR_REFERENCES_.382
+_OBJC_SELECTOR_REFERENCES_.384
+_OBJC_SELECTOR_REFERENCES_.386
+_OBJC_SELECTOR_REFERENCES_.388
+_OBJC_SELECTOR_REFERENCES_.390
+_OBJC_SELECTOR_REFERENCES_.392
+_OBJC_SELECTOR_REFERENCES_.396
+_OBJC_SELECTOR_REFERENCES_.398
+_OBJC_SELECTOR_REFERENCES_.400
+_OBJC_SELECTOR_REFERENCES_.402
+_OBJC_SELECTOR_REFERENCES_.404
+_OBJC_SELECTOR_REFERENCES_.420
+_OBJC_SELECTOR_REFERENCES_.422
+_OBJC_SELECTOR_REFERENCES_.424
+_OBJC_SELECTOR_REFERENCES_.426
+_OBJC_SELECTOR_REFERENCES_.428
+_OBJC_SELECTOR_REFERENCES_.430
+_OBJC_SELECTOR_REFERENCES_.432
+_OBJC_SELECTOR_REFERENCES_.434
+_OBJC_SELECTOR_REFERENCES_.456
+_OBJC_SELECTOR_REFERENCES_.458
+_OBJC_SELECTOR_REFERENCES_.460
+_OBJC_SELECTOR_REFERENCES_.462
+_OBJC_SELECTOR_REFERENCES_.470
+__OBJC_$_CLASS_METHODS_CRSWriter
+__OBJC_METACLASS_RO_$_CRSWriter
+__OBJC_$_INSTANCE_METHODS_CRSWriter
+_OBJC_IVAR_$_CRSWriter._text
+__OBJC_$_INSTANCE_VARIABLES_CRSWriter
+__OBJC_$_PROP_LIST_CRSWriter
+__OBJC_CLASS_RO_$_CRSWriter
+/Users/albintornqvist/projects/GlobalForester-iOS/Carthage/Checkouts/coordinate-reference-systems-ios/crs-ios/wkt/CRSWriter.m
+crs-ios/wkt/CRSWriter.m
++[CRSPrimeMeridian create]
+-[CRSPrimeMeridian init]
+-[CRSPrimeMeridian initWithName:andLongitude:]
+-[CRSPrimeMeridian initWithName:andLongitudeText:]
+-[CRSPrimeMeridian setLongitude:]
+-[CRSPrimeMeridian setLongitudeText:]
+-[CRSPrimeMeridian hasLongitudeUnit]
+-[CRSPrimeMeridian hasIdentifiers]
+-[CRSPrimeMeridian numIdentifiers]
+-[CRSPrimeMeridian identifierAtIndex:]
+-[CRSPrimeMeridian addIdentifier:]
+-[CRSPrimeMeridian addIdentifiers:]
+-[CRSPrimeMeridian isEqualToPrimeMeridian:]
+-[CRSPrimeMeridian isEqual:]
+-[CRSPrimeMeridian hash]
+-[CRSPrimeMeridian description]
+-[CRSPrimeMeridian name]
+-[CRSPrimeMeridian setName:]
+-[CRSPrimeMeridian longitude]
+-[CRSPrimeMeridian longitudeText]
+-[CRSPrimeMeridian longitudeUnit]
+-[CRSPrimeMeridian setLongitudeUnit:]
+-[CRSPrimeMeridian identifiers]
+-[CRSPrimeMeridian setIdentifiers:]
+-[CRSPrimeMeridian .cxx_destruct]
+_OBJC_CLASSLIST_REFERENCES_$_.18
+__OBJC_$_CLASS_METHODS_CRSPrimeMeridian
+__OBJC_CLASS_PROTOCOLS_$_CRSPrimeMeridian
+__OBJC_METACLASS_RO_$_CRSPrimeMeridian
+__OBJC_$_INSTANCE_METHODS_CRSPrimeMeridian
+_OBJC_IVAR_$_CRSPrimeMeridian._name
+_OBJC_IVAR_$_CRSPrimeMeridian._longitude
+_OBJC_IVAR_$_CRSPrimeMeridian._longitudeText
+_OBJC_IVAR_$_CRSPrimeMeridian._longitudeUnit
+_OBJC_IVAR_$_CRSPrimeMeridian._identifiers
+__OBJC_$_INSTANCE_VARIABLES_CRSPrimeMeridian
+__OBJC_$_PROP_LIST_CRSPrimeMeridian
+__OBJC_CLASS_RO_$_CRSPrimeMeridian
+/Users/albintornqvist/projects/GlobalForester-iOS/Carthage/Checkouts/coordinate-reference-systems-ios/crs-ios/geo/CRSPrimeMeridian.m
+crs-ios/geo/CRSPrimeMeridian.m
+crs-ios/geo/CRSPrimeMeridian.h
++[CRSOperationMethod create]
+-[CRSOperationMethod init]
+-[CRSOperationMethod initWithName:]
+-[CRSOperationMethod initWithMethod:]
+-[CRSOperationMethod setName:]
+-[CRSOperationMethod hasParameters]
+-[CRSOperationMethod numParameters]
+-[CRSOperationMethod parameterAtIndex:]
+-[CRSOperationMethod addParameter:]
+-[CRSOperationMethod addParameters:]
+-[CRSOperationMethod hasIdentifiers]
+-[CRSOperationMethod numIdentifiers]
+-[CRSOperationMethod identifierAtIndex:]
+-[CRSOperationMethod addIdentifier:]
+-[CRSOperationMethod addIdentifiers:]
+-[CRSOperationMethod hasMethod]
+-[CRSOperationMethod updateMethod]
+-[CRSOperationMethod isEqualToOperationMethod:]
+-[CRSOperationMethod isEqual:]
+-[CRSOperationMethod hash]
+-[CRSOperationMethod description]
+-[CRSOperationMethod name]
+-[CRSOperationMethod parameters]
+-[CRSOperationMethod setParameters:]
+-[CRSOperationMethod identifiers]
+-[CRSOperationMethod setIdentifiers:]
+-[CRSOperationMethod method]
+-[CRSOperationMethod setMethod:]
+-[CRSOperationMethod .cxx_destruct]
+__OBJC_$_CLASS_METHODS_CRSOperationMethod
+__OBJC_CLASS_PROTOCOLS_$_CRSOperationMethod
+__OBJC_METACLASS_RO_$_CRSOperationMethod
+__OBJC_$_INSTANCE_METHODS_CRSOperationMethod
+_OBJC_IVAR_$_CRSOperationMethod._name
+_OBJC_IVAR_$_CRSOperationMethod._parameters
+_OBJC_IVAR_$_CRSOperationMethod._identifiers
+_OBJC_IVAR_$_CRSOperationMethod._method
+__OBJC_$_INSTANCE_VARIABLES_CRSOperationMethod
+__OBJC_$_PROP_LIST_CRSOperationMethod
+__OBJC_CLASS_RO_$_CRSOperationMethod
+/Users/albintornqvist/projects/GlobalForester-iOS/Carthage/Checkouts/coordinate-reference-systems-ios/crs-ios/operation/CRSOperationMethod.m
+crs-ios/operation/CRSOperationMethod.m
+crs-ios/operation/CRSOperationMethod.h
++[CRSUsage create]
+-[CRSUsage init]
+-[CRSUsage initWithScope:andExtent:]
+-[CRSUsage isEqualToUsage:]
+-[CRSUsage isEqual:]
+-[CRSUsage hash]
+-[CRSUsage description]
+-[CRSUsage scope]
+-[CRSUsage setScope:]
+-[CRSUsage extent]
+-[CRSUsage setExtent:]
+-[CRSUsage .cxx_destruct]
+__OBJC_$_CLASS_METHODS_CRSUsage
+__OBJC_METACLASS_RO_$_CRSUsage
+__OBJC_$_INSTANCE_METHODS_CRSUsage
+_OBJC_IVAR_$_CRSUsage._scope
+_OBJC_IVAR_$_CRSUsage._extent
+__OBJC_$_INSTANCE_VARIABLES_CRSUsage
+__OBJC_$_PROP_LIST_CRSUsage
+__OBJC_CLASS_RO_$_CRSUsage
+/Users/albintornqvist/projects/GlobalForester-iOS/Carthage/Checkouts/coordinate-reference-systems-ios/crs-ios/common/CRSUsage.m
+crs-ios/common/CRSUsage.m
+crs-ios/common/CRSUsage.h

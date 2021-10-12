@@ -1,0 +1,514 @@
+BCSymbolMap Version: 2.0
+Apple clang version 13.0.0 (clang-1300.0.29.3)
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS15.0.sdk
+iPhoneOS15.0.sdk
+/Users/albintornqvist/Library/Caches/org.carthage.CarthageKit/DerivedData/13.0_13A233/simple-features-geojson-ios/cbfc0299998f722d4b503725ac2ca6e55d5a8a72/Build/Intermediates.noindex/ArchiveIntermediates/sf-geojson-ios/IntermediateBuildFilesPath/sf-geojson-ios.build/Release-iphoneos/sf-geojson-ios.build/DerivedSources/sf_geojson_ios_vers.c
+/Users/albintornqvist/projects/GlobalForester-iOS/Carthage/Checkouts/simple-features-geojson-ios
++[SFGFeatureCollection initialize]
+-[SFGFeatureCollection init]
+-[SFGFeatureCollection initWithFeature:]
+-[SFGFeatureCollection initWithFeatures:]
+-[SFGFeatureCollection initWithTree:]
+-[SFGFeatureCollection addFeature:]
+-[SFGFeatureCollection addFeatures:]
+-[SFGFeatureCollection numFeatures]
+-[SFGFeatureCollection featureAtIndex:]
+-[SFGFeatureCollection geometryType]
+-[SFGFeatureCollection properties]
+-[SFGFeatureCollection type]
+-[SFGFeatureCollection toTree]
+-[SFGFeatureCollection fromTree:]
+-[SFGFeatureCollection keys]
+-[SFGFeatureCollection features]
+-[SFGFeatureCollection setFeatures:]
+-[SFGFeatureCollection .cxx_destruct]
+_keys
+_OBJC_CLASSLIST_REFERENCES_$_
+_OBJC_SELECTOR_REFERENCES_
+_OBJC_SELECTOR_REFERENCES_.4
+_OBJC_CLASSLIST_REFERENCES_$_.5
+_OBJC_SELECTOR_REFERENCES_.7
+_OBJC_SELECTOR_REFERENCES_.9
+_OBJC_SELECTOR_REFERENCES_.11
+_OBJC_SELECTOR_REFERENCES_.13
+_OBJC_SELECTOR_REFERENCES_.15
+_OBJC_SELECTOR_REFERENCES_.17
+_OBJC_SELECTOR_REFERENCES_.19
+_OBJC_SELECTOR_REFERENCES_.21
+_OBJC_SELECTOR_REFERENCES_.23
+_OBJC_SELECTOR_REFERENCES_.25
+_OBJC_SELECTOR_REFERENCES_.27
+_OBJC_CLASSLIST_REFERENCES_$_.28
+_OBJC_SELECTOR_REFERENCES_.30
+_OBJC_SELECTOR_REFERENCES_.32
+_OBJC_SELECTOR_REFERENCES_.34
+_OBJC_SELECTOR_REFERENCES_.36
+_OBJC_SELECTOR_REFERENCES_.38
+_OBJC_SELECTOR_REFERENCES_.40
+_OBJC_CLASSLIST_REFERENCES_$_.41
+_OBJC_SELECTOR_REFERENCES_.43
+_OBJC_SELECTOR_REFERENCES_.45
+_OBJC_CLASSLIST_REFERENCES_$_.46
+_OBJC_SELECTOR_REFERENCES_.48
+_OBJC_IVAR_$_SFGFeatureCollection._features
+__OBJC_$_CLASS_METHODS_SFGFeatureCollection
+__OBJC_METACLASS_RO_$_SFGFeatureCollection
+__OBJC_$_INSTANCE_METHODS_SFGFeatureCollection
+__OBJC_$_INSTANCE_VARIABLES_SFGFeatureCollection
+__OBJC_$_PROP_LIST_SFGFeatureCollection
+__OBJC_CLASS_RO_$_SFGFeatureCollection
+/Users/albintornqvist/projects/GlobalForester-iOS/Carthage/Checkouts/simple-features-geojson-ios/sf-geojson-ios/SFGFeatureCollection.m
+sf-geojson-ios/SFGFeatureCollection.m
+sf-geojson-ios/SFGFeatureCollection.h
++[SFGFeatureConverter jsonToFeature:]
++[SFGFeatureConverter treeToFeature:]
++[SFGFeatureConverter simpleGeometryToFeature:]
++[SFGFeatureConverter jsonToFeatureCollection:]
++[SFGFeatureConverter treeToFeatureCollection:]
++[SFGFeatureConverter simpleGeometryToFeatureCollection:]
++[SFGFeatureConverter simpleGeometriesToFeatureCollection:]
++[SFGFeatureConverter jsonToObject:]
++[SFGFeatureConverter treeToObject:]
++[SFGFeatureConverter objectToJSON:]
++[SFGFeatureConverter simpleGeometryToJSON:]
++[SFGFeatureConverter treeToJSON:]
++[SFGFeatureConverter objectToMutableTree:]
++[SFGFeatureConverter objectToTree:]
++[SFGFeatureConverter jsonToMutableTree:]
++[SFGFeatureConverter jsonToTree:]
++[SFGFeatureConverter simpleGeometryToMutableTree:]
++[SFGFeatureConverter simpleGeometryToTree:]
++[SFGFeatureConverter jsonToGeometry:]
++[SFGFeatureConverter treeToGeometry:]
++[SFGFeatureConverter simpleGeometryToGeometry:]
++[SFGFeatureConverter treeToPoint:]
++[SFGFeatureConverter treeToLineString:]
++[SFGFeatureConverter treeToPolygon:]
++[SFGFeatureConverter treeToMultiPoint:]
++[SFGFeatureConverter treeToMultiLineString:]
++[SFGFeatureConverter treeToMultiPolygon:]
++[SFGFeatureConverter treeToGeometryCollection:]
+_OBJC_SELECTOR_REFERENCES_.2
+_OBJC_SELECTOR_REFERENCES_.6
+_OBJC_SELECTOR_REFERENCES_.8
+_OBJC_SELECTOR_REFERENCES_.10
+_OBJC_CLASSLIST_REFERENCES_$_.11
+_OBJC_CLASSLIST_REFERENCES_$_.16
+_OBJC_SELECTOR_REFERENCES_.18
+_OBJC_SELECTOR_REFERENCES_.20
+_OBJC_SELECTOR_REFERENCES_.22
+_OBJC_SELECTOR_REFERENCES_.24
+_OBJC_SELECTOR_REFERENCES_.26
+_OBJC_CLASSLIST_REFERENCES_$_.27
+_OBJC_SELECTOR_REFERENCES_.29
+_OBJC_SELECTOR_REFERENCES_.31
+_OBJC_SELECTOR_REFERENCES_.33
+_OBJC_SELECTOR_REFERENCES_.35
+_OBJC_SELECTOR_REFERENCES_.37
+_OBJC_SELECTOR_REFERENCES_.39
+_OBJC_CLASSLIST_REFERENCES_$_.40
+_OBJC_SELECTOR_REFERENCES_.42
+_OBJC_CLASSLIST_REFERENCES_$_.43
+_OBJC_SELECTOR_REFERENCES_.47
+_OBJC_SELECTOR_REFERENCES_.49
+_OBJC_CLASSLIST_REFERENCES_$_.50
+_OBJC_SELECTOR_REFERENCES_.52
+_OBJC_SELECTOR_REFERENCES_.58
+_OBJC_SELECTOR_REFERENCES_.60
+_OBJC_SELECTOR_REFERENCES_.62
+_OBJC_SELECTOR_REFERENCES_.64
+_OBJC_SELECTOR_REFERENCES_.66
+_OBJC_SELECTOR_REFERENCES_.68
+_OBJC_CLASSLIST_REFERENCES_$_.73
+_OBJC_SELECTOR_REFERENCES_.75
+_OBJC_CLASSLIST_REFERENCES_$_.76
+_OBJC_CLASSLIST_REFERENCES_$_.77
+_OBJC_SELECTOR_REFERENCES_.79
+_OBJC_SELECTOR_REFERENCES_.81
+_OBJC_SELECTOR_REFERENCES_.83
+_OBJC_SELECTOR_REFERENCES_.85
+_OBJC_SELECTOR_REFERENCES_.87
+_OBJC_SELECTOR_REFERENCES_.89
+_OBJC_SELECTOR_REFERENCES_.91
+_OBJC_SELECTOR_REFERENCES_.93
+_OBJC_SELECTOR_REFERENCES_.95
+_OBJC_SELECTOR_REFERENCES_.97
+_OBJC_SELECTOR_REFERENCES_.103
+_OBJC_CLASSLIST_REFERENCES_$_.104
+_OBJC_SELECTOR_REFERENCES_.106
+_OBJC_CLASSLIST_REFERENCES_$_.107
+_OBJC_SELECTOR_REFERENCES_.109
+_OBJC_CLASSLIST_REFERENCES_$_.110
+_OBJC_SELECTOR_REFERENCES_.112
+_OBJC_CLASSLIST_REFERENCES_$_.113
+_OBJC_SELECTOR_REFERENCES_.115
+_OBJC_CLASSLIST_REFERENCES_$_.116
+_OBJC_SELECTOR_REFERENCES_.118
+_OBJC_CLASSLIST_REFERENCES_$_.119
+_OBJC_SELECTOR_REFERENCES_.121
+_OBJC_CLASSLIST_REFERENCES_$_.122
+_OBJC_SELECTOR_REFERENCES_.124
+_OBJC_CLASSLIST_REFERENCES_$_.125
+_OBJC_SELECTOR_REFERENCES_.127
+__OBJC_$_CLASS_METHODS_SFGFeatureConverter
+__OBJC_METACLASS_RO_$_SFGFeatureConverter
+__OBJC_CLASS_RO_$_SFGFeatureConverter
+/Users/albintornqvist/projects/GlobalForester-iOS/Carthage/Checkouts/simple-features-geojson-ios/sf-geojson-ios/SFGFeatureConverter.m
+sf-geojson-ios/SFGFeatureConverter.m
++[SFGGeometryCollection initialize]
+-[SFGGeometryCollection init]
+-[SFGGeometryCollection initWithCoordinates:]
+-[SFGGeometryCollection initWithGeometryCollection:]
+-[SFGGeometryCollection initWithTree:]
+-[SFGGeometryCollection geometryCollection]
+-[SFGGeometryCollection coordinates]
+-[SFGGeometryCollection setCoordinates:]
+-[SFGGeometryCollection toTree]
+-[SFGGeometryCollection fromTree:]
+-[SFGGeometryCollection keys]
+-[SFGGeometryCollection geometry]
+-[SFGGeometryCollection type]
++[SFGGeometryCollection geometriesFromGeometryCollection:]
++[SFGGeometryCollection geometryCollectionFromGeometries:]
++[SFGGeometryCollection treeGeometries:]
+-[SFGGeometryCollection setGeometryCollection:]
+-[SFGGeometryCollection .cxx_destruct]
+_OBJC_IVAR_$_SFGGeometryCollection._geometryCollection
+_OBJC_CLASSLIST_REFERENCES_$_.26
+_OBJC_SELECTOR_REFERENCES_.28
+_OBJC_CLASSLIST_REFERENCES_$_.31
+_OBJC_SELECTOR_REFERENCES_.44
+__OBJC_$_CLASS_METHODS_SFGGeometryCollection
+__OBJC_METACLASS_RO_$_SFGGeometryCollection
+__OBJC_$_INSTANCE_METHODS_SFGGeometryCollection
+__OBJC_$_INSTANCE_VARIABLES_SFGGeometryCollection
+__OBJC_$_PROP_LIST_SFGGeometryCollection
+__OBJC_CLASS_RO_$_SFGGeometryCollection
+/Users/albintornqvist/projects/GlobalForester-iOS/Carthage/Checkouts/simple-features-geojson-ios/sf-geojson-ios/SFGGeometryCollection.m
+sf-geojson-ios/SFGGeometryCollection.m
++[SFGFeature initialize]
+-[SFGFeature init]
+-[SFGFeature initWithGeometry:]
+-[SFGFeature initWithTree:]
+-[SFGFeature geometry]
+-[SFGFeature setGeometry:]
+-[SFGFeature properties]
+-[SFGFeature setProperties:]
+-[SFGFeature feature]
+-[SFGFeature simpleGeometry]
+-[SFGFeature geometryType]
+-[SFGFeature type]
+-[SFGFeature toTree]
+-[SFGFeature fromTree:]
+-[SFGFeature keys]
+-[SFGFeature id]
+-[SFGFeature setId:]
+-[SFGFeature setFeature:]
+-[SFGFeature .cxx_destruct]
+_OBJC_CLASSLIST_REFERENCES_$_.9
+_OBJC_IVAR_$_SFGFeature._feature
+_OBJC_CLASSLIST_REFERENCES_$_.35
+_OBJC_CLASSLIST_REFERENCES_$_.38
+_OBJC_SELECTOR_REFERENCES_.46
+_OBJC_SELECTOR_REFERENCES_.50
+_OBJC_IVAR_$_SFGFeature._id
+__OBJC_$_CLASS_METHODS_SFGFeature
+__OBJC_METACLASS_RO_$_SFGFeature
+__OBJC_$_INSTANCE_METHODS_SFGFeature
+__OBJC_$_INSTANCE_VARIABLES_SFGFeature
+__OBJC_$_PROP_LIST_SFGFeature
+__OBJC_CLASS_RO_$_SFGFeature
+/Users/albintornqvist/projects/GlobalForester-iOS/Carthage/Checkouts/simple-features-geojson-ios/sf-geojson-ios/SFGFeature.m
+sf-geojson-ios/SFGFeature.m
+sf-geojson-ios/SFGFeature.h
++[SFGGeometry initialize]
+-[SFGGeometry init]
+-[SFGGeometry initWithCoordinates:]
+-[SFGGeometry initWithTree:]
+-[SFGGeometry geometry]
+-[SFGGeometry coordinates]
+-[SFGGeometry setCoordinates:]
+-[SFGGeometry toTree]
+-[SFGGeometry fromTree:]
+-[SFGGeometry keys]
++[SFGGeometry treeCoordinates:]
+_OBJC_SELECTOR_REFERENCES_.12
+_OBJC_SELECTOR_REFERENCES_.14
+_OBJC_SELECTOR_REFERENCES_.16
+_OBJC_CLASSLIST_REFERENCES_$_.17
+__OBJC_$_CLASS_METHODS_SFGGeometry
+__OBJC_METACLASS_RO_$_SFGGeometry
+__OBJC_$_INSTANCE_METHODS_SFGGeometry
+__OBJC_CLASS_RO_$_SFGGeometry
+/Users/albintornqvist/projects/GlobalForester-iOS/Carthage/Checkouts/simple-features-geojson-ios/sf-geojson-ios/SFGGeometry.m
+sf-geojson-ios/SFGGeometry.m
+-[SFGMultiPoint init]
+-[SFGMultiPoint initWithCoordinates:]
+-[SFGMultiPoint initWithMultiPoint:]
+-[SFGMultiPoint initWithTree:]
+-[SFGMultiPoint multiPoint]
+-[SFGMultiPoint coordinates]
+-[SFGMultiPoint setCoordinates:]
+-[SFGMultiPoint geometry]
+-[SFGMultiPoint type]
++[SFGMultiPoint coordinatesFromMultiPoint:]
++[SFGMultiPoint multiPointFromCoordinates:]
+-[SFGMultiPoint setMultiPoint:]
+-[SFGMultiPoint .cxx_destruct]
+_OBJC_IVAR_$_SFGMultiPoint._multiPoint
+_OBJC_CLASSLIST_REFERENCES_$_.13
+_OBJC_CLASSLIST_REFERENCES_$_.18
+_OBJC_CLASSLIST_REFERENCES_$_.25
+__OBJC_$_CLASS_METHODS_SFGMultiPoint
+__OBJC_METACLASS_RO_$_SFGMultiPoint
+__OBJC_$_INSTANCE_METHODS_SFGMultiPoint
+__OBJC_$_INSTANCE_VARIABLES_SFGMultiPoint
+__OBJC_$_PROP_LIST_SFGMultiPoint
+__OBJC_CLASS_RO_$_SFGMultiPoint
+/Users/albintornqvist/projects/GlobalForester-iOS/Carthage/Checkouts/simple-features-geojson-ios/sf-geojson-ios/SFGMultiPoint.m
+sf-geojson-ios/SFGMultiPoint.m
+-[SFGLineString init]
+-[SFGLineString initWithCoordinates:]
+-[SFGLineString initWithLineString:]
+-[SFGLineString initWithTree:]
+-[SFGLineString lineString]
+-[SFGLineString coordinates]
+-[SFGLineString setCoordinates:]
+-[SFGLineString geometry]
+-[SFGLineString type]
++[SFGLineString coordinatesFromLineString:]
++[SFGLineString lineStringFromCoordinates:]
+-[SFGLineString setLineString:]
+-[SFGLineString .cxx_destruct]
+_OBJC_IVAR_$_SFGLineString._lineString
+__OBJC_$_CLASS_METHODS_SFGLineString
+__OBJC_METACLASS_RO_$_SFGLineString
+__OBJC_$_INSTANCE_METHODS_SFGLineString
+__OBJC_$_INSTANCE_VARIABLES_SFGLineString
+__OBJC_$_PROP_LIST_SFGLineString
+__OBJC_CLASS_RO_$_SFGLineString
+/Users/albintornqvist/projects/GlobalForester-iOS/Carthage/Checkouts/simple-features-geojson-ios/sf-geojson-ios/SFGLineString.m
+sf-geojson-ios/SFGLineString.m
+-[SFGPosition initWithPoint:]
+-[SFGPosition initWithLongitude:andLatitude:]
+-[SFGPosition initWithLongitude:andLatitude:andAltitude:]
+-[SFGPosition initWithLongitude:andLatitude:andAltitude:andAdditional:]
+-[SFGPosition initWithLongitude:andLatitude:andAltitude:andAdditionals:]
+-[SFGPosition initWithCoordinates:]
+-[SFGPosition coordinates]
+-[SFGPosition hasAdditionalElements]
+-[SFGPosition additionalElements]
+-[SFGPosition x]
+-[SFGPosition y]
+-[SFGPosition z]
+-[SFGPosition m]
+-[SFGPosition hasZ]
+-[SFGPosition hasM]
+-[SFGPosition toSimplePoint]
+-[SFGPosition setCoordinates:]
+-[SFGPosition .cxx_destruct]
+_OBJC_CLASSLIST_REFERENCES_$_.21
+_OBJC_CLASSLIST_REFERENCES_$_.33
+_OBJC_SELECTOR_REFERENCES_.41
+_OBJC_SELECTOR_REFERENCES_.51
+_OBJC_CLASSLIST_REFERENCES_$_.52
+_OBJC_SELECTOR_REFERENCES_.54
+__OBJC_METACLASS_RO_$_SFGPosition
+__OBJC_$_INSTANCE_METHODS_SFGPosition
+_OBJC_IVAR_$_SFGPosition._coordinates
+__OBJC_$_INSTANCE_VARIABLES_SFGPosition
+__OBJC_$_PROP_LIST_SFGPosition
+__OBJC_CLASS_RO_$_SFGPosition
+/Users/albintornqvist/projects/GlobalForester-iOS/Carthage/Checkouts/simple-features-geojson-ios/sf-geojson-ios/SFGPosition.m
+sf-geojson-ios/SFGPosition.m
+NSMakeRange
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS15.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSRange.h
+-[SFGOrderedDictionary init]
+-[SFGOrderedDictionary initWithCapacity:]
+-[SFGOrderedDictionary commonInitWithCapacity:]
+-[SFGOrderedDictionary copy]
+-[SFGOrderedDictionary setObject:forKey:]
+-[SFGOrderedDictionary removeObjectForKey:]
+-[SFGOrderedDictionary count]
+-[SFGOrderedDictionary objectForKey:]
+-[SFGOrderedDictionary keyEnumerator]
+-[SFGOrderedDictionary reverseKeyEnumerator]
+-[SFGOrderedDictionary insertObject:forKey:atIndex:]
+-[SFGOrderedDictionary keyAtIndex:]
+-[SFGOrderedDictionary objectAtIndexedSubscript:]
+-[SFGOrderedDictionary setObject:atIndexedSubscript:]
+-[SFGOrderedDictionary objectForKeyedSubscript:]
+-[SFGOrderedDictionary setObject:forKeyedSubscript:]
+-[SFGOrderedDictionary indexOfKey:]
+-[SFGOrderedDictionary indexOfKey:inRange:]
+-[SFGOrderedDictionary indexOfKeyIdenticalTo:]
+-[SFGOrderedDictionary indexOfKeyIdenticalTo:inRange:]
+-[SFGOrderedDictionary lastKey]
+-[SFGOrderedDictionary sortUsingFunction:context:]
+-[SFGOrderedDictionary sortUsingSelector:]
+-[SFGOrderedDictionary sortUsingComparator:]
+-[SFGOrderedDictionary sortWithOptions:usingComparator:]
+-[SFGOrderedDictionary descriptionWithLocale:]
+-[SFGOrderedDictionary descriptionWithLocale:indent:]
+_DescriptionForObject
+-[SFGOrderedDictionary .cxx_destruct]
+_OBJC_CLASSLIST_REFERENCES_$_.30
+_OBJC_CLASSLIST_REFERENCES_$_.53
+_OBJC_SELECTOR_REFERENCES_.55
+_OBJC_SELECTOR_REFERENCES_.59
+_OBJC_SELECTOR_REFERENCES_.63
+_OBJC_SELECTOR_REFERENCES_.65
+_OBJC_SELECTOR_REFERENCES_.69
+_OBJC_SELECTOR_REFERENCES_.71
+__OBJC_METACLASS_RO_$_SFGOrderedDictionary
+__OBJC_$_INSTANCE_METHODS_SFGOrderedDictionary
+__OBJC_$_INSTANCE_VARIABLES_SFGOrderedDictionary
+__OBJC_CLASS_RO_$_SFGOrderedDictionary
+_OBJC_SELECTOR_REFERENCES_.110
+_OBJC_SELECTOR_REFERENCES_.111
+_OBJC_SELECTOR_REFERENCES_.113
+/Users/albintornqvist/projects/GlobalForester-iOS/Carthage/Checkouts/simple-features-geojson-ios/sf-geojson-ios/SFGOrderedDictionary.m
+sf-geojson-ios/SFGOrderedDictionary.m
+DescriptionForObject
+-[SFGMultiLineString init]
+-[SFGMultiLineString initWithCoordinates:]
+-[SFGMultiLineString initWithMultiLineString:]
+-[SFGMultiLineString initWithTree:]
+-[SFGMultiLineString multiLineString]
+-[SFGMultiLineString coordinates]
+-[SFGMultiLineString setCoordinates:]
+-[SFGMultiLineString geometry]
+-[SFGMultiLineString type]
++[SFGMultiLineString coordinatesFromMultiLineString:]
++[SFGMultiLineString multiLineStringFromCoordinates:]
+-[SFGMultiLineString setMultiLineString:]
+-[SFGMultiLineString .cxx_destruct]
+_OBJC_IVAR_$_SFGMultiLineString._multiLineString
+__OBJC_$_CLASS_METHODS_SFGMultiLineString
+__OBJC_METACLASS_RO_$_SFGMultiLineString
+__OBJC_$_INSTANCE_METHODS_SFGMultiLineString
+__OBJC_$_INSTANCE_VARIABLES_SFGMultiLineString
+__OBJC_$_PROP_LIST_SFGMultiLineString
+__OBJC_CLASS_RO_$_SFGMultiLineString
+/Users/albintornqvist/projects/GlobalForester-iOS/Carthage/Checkouts/simple-features-geojson-ios/sf-geojson-ios/SFGMultiLineString.m
+sf-geojson-ios/SFGMultiLineString.m
+-[SFGPoint init]
+-[SFGPoint initWithCoordinates:]
+-[SFGPoint initWithPosition:]
+-[SFGPoint initWithPoint:]
+-[SFGPoint initWithTree:]
+-[SFGPoint point]
+-[SFGPoint coordinates]
+-[SFGPoint setCoordinates:]
+-[SFGPoint setPosition:]
+-[SFGPoint geometry]
+-[SFGPoint type]
++[SFGPoint coordinatesFromPoint:]
++[SFGPoint coordinatesFromPosition:]
++[SFGPoint pointFromCoordinates:]
++[SFGPoint pointFromPosition:]
++[SFGPoint positionFromCoordinates:]
++[SFGPoint positionFromPoint:]
+-[SFGPoint position]
+-[SFGPoint setPoint:]
+-[SFGPoint .cxx_destruct]
+_OBJC_IVAR_$_SFGPoint._point
+_OBJC_CLASSLIST_REFERENCES_$_.7
+_OBJC_IVAR_$_SFGPoint._position
+_OBJC_CLASSLIST_REFERENCES_$_.24
+__OBJC_$_CLASS_METHODS_SFGPoint
+__OBJC_METACLASS_RO_$_SFGPoint
+__OBJC_$_INSTANCE_METHODS_SFGPoint
+__OBJC_$_INSTANCE_VARIABLES_SFGPoint
+__OBJC_$_PROP_LIST_SFGPoint
+__OBJC_CLASS_RO_$_SFGPoint
+/Users/albintornqvist/projects/GlobalForester-iOS/Carthage/Checkouts/simple-features-geojson-ios/sf-geojson-ios/SFGPoint.m
+sf-geojson-ios/SFGPoint.m
+sf-geojson-ios/SFGPoint.h
+-[SFGPolygon init]
+-[SFGPolygon initWithCoordinates:]
+-[SFGPolygon initWithPolygon:]
+-[SFGPolygon initWithTree:]
+-[SFGPolygon polygon]
+-[SFGPolygon coordinates]
+-[SFGPolygon setCoordinates:]
+-[SFGPolygon geometry]
+-[SFGPolygon type]
++[SFGPolygon coordinatesFromPolygon:]
++[SFGPolygon polygonFromCoordinates:]
+-[SFGPolygon setPolygon:]
+-[SFGPolygon .cxx_destruct]
+_OBJC_IVAR_$_SFGPolygon._polygon
+_OBJC_CLASSLIST_REFERENCES_$_.20
+_OBJC_CLASSLIST_REFERENCES_$_.37
+__OBJC_$_CLASS_METHODS_SFGPolygon
+__OBJC_METACLASS_RO_$_SFGPolygon
+__OBJC_$_INSTANCE_METHODS_SFGPolygon
+__OBJC_$_INSTANCE_VARIABLES_SFGPolygon
+__OBJC_$_PROP_LIST_SFGPolygon
+__OBJC_CLASS_RO_$_SFGPolygon
+/Users/albintornqvist/projects/GlobalForester-iOS/Carthage/Checkouts/simple-features-geojson-ios/sf-geojson-ios/SFGPolygon.m
+sf-geojson-ios/SFGPolygon.m
+-[SFGGeoJSONObject init]
+-[SFGGeoJSONObject initWithTree:]
+-[SFGGeoJSONObject type]
+-[SFGGeoJSONObject toTree]
+-[SFGGeoJSONObject fromTree:]
+-[SFGGeoJSONObject keys]
++[SFGGeoJSONObject treeType:]
+-[SFGGeoJSONObject bbox]
+-[SFGGeoJSONObject setBbox:]
+-[SFGGeoJSONObject foreignMembers]
+-[SFGGeoJSONObject setForeignMembers:]
+-[SFGGeoJSONObject .cxx_destruct]
+_OBJC_CLASSLIST_REFERENCES_$_.29
+__OBJC_$_CLASS_METHODS_SFGGeoJSONObject
+__OBJC_METACLASS_RO_$_SFGGeoJSONObject
+__OBJC_$_INSTANCE_METHODS_SFGGeoJSONObject
+_OBJC_IVAR_$_SFGGeoJSONObject._bbox
+_OBJC_IVAR_$_SFGGeoJSONObject._foreignMembers
+__OBJC_$_INSTANCE_VARIABLES_SFGGeoJSONObject
+__OBJC_$_PROP_LIST_SFGGeoJSONObject
+__OBJC_CLASS_RO_$_SFGGeoJSONObject
+/Users/albintornqvist/projects/GlobalForester-iOS/Carthage/Checkouts/simple-features-geojson-ios/sf-geojson-ios/SFGGeoJSONObject.m
+sf-geojson-ios/SFGGeoJSONObject.m
+sf-geojson-ios/SFGGeoJSONObject.h
+-[SFGMultiPolygon init]
+-[SFGMultiPolygon initWithCoordinates:]
+-[SFGMultiPolygon initWithMultiPolygon:]
+-[SFGMultiPolygon initWithTree:]
+-[SFGMultiPolygon multiPolygon]
+-[SFGMultiPolygon coordinates]
+-[SFGMultiPolygon setCoordinates:]
+-[SFGMultiPolygon geometry]
+-[SFGMultiPolygon type]
++[SFGMultiPolygon coordinatesFromMultiPolygon:]
++[SFGMultiPolygon multiPolygonFromCoordinates:]
+-[SFGMultiPolygon setMultiPolygon:]
+-[SFGMultiPolygon .cxx_destruct]
+_OBJC_IVAR_$_SFGMultiPolygon._multiPolygon
+__OBJC_$_CLASS_METHODS_SFGMultiPolygon
+__OBJC_METACLASS_RO_$_SFGMultiPolygon
+__OBJC_$_INSTANCE_METHODS_SFGMultiPolygon
+__OBJC_$_INSTANCE_VARIABLES_SFGMultiPolygon
+__OBJC_$_PROP_LIST_SFGMultiPolygon
+__OBJC_CLASS_RO_$_SFGMultiPolygon
+/Users/albintornqvist/projects/GlobalForester-iOS/Carthage/Checkouts/simple-features-geojson-ios/sf-geojson-ios/SFGMultiPolygon.m
+sf-geojson-ios/SFGMultiPolygon.m
+-[SFGSimpleFeature init]
+-[SFGSimpleFeature initWithGeometry:andProperties:]
+-[SFGSimpleFeature geometry]
+-[SFGSimpleFeature setGeometry:]
+-[SFGSimpleFeature properties]
+-[SFGSimpleFeature setProperties:]
+-[SFGSimpleFeature .cxx_destruct]
+__OBJC_METACLASS_RO_$_SFGSimpleFeature
+__OBJC_$_INSTANCE_METHODS_SFGSimpleFeature
+_OBJC_IVAR_$_SFGSimpleFeature._geometry
+_OBJC_IVAR_$_SFGSimpleFeature._properties
+__OBJC_$_INSTANCE_VARIABLES_SFGSimpleFeature
+__OBJC_$_PROP_LIST_SFGSimpleFeature
+__OBJC_CLASS_RO_$_SFGSimpleFeature
+/Users/albintornqvist/projects/GlobalForester-iOS/Carthage/Checkouts/simple-features-geojson-ios/sf-geojson-ios/SFGSimpleFeature.m
+sf-geojson-ios/SFGSimpleFeature.m
+sf-geojson-ios/SFGSimpleFeature.h

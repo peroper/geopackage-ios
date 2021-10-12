@@ -1,0 +1,6 @@
+framework module geopackage_ios {
+  umbrella header "geopackage_ios.h"
+
+  export *
+  module * { export * }
+}

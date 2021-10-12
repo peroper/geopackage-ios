@@ -1,0 +1,128 @@
+BCSymbolMap Version: 2.0
+Apple clang version 13.0.0 (clang-1300.0.29.3)
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS15.0.sdk
+iPhoneOS15.0.sdk
+/Users/albintornqvist/Library/Caches/org.carthage.CarthageKit/DerivedData/13.0_13A233/simple-features-proj-ios/5115b588659a24ad9f2e896b53e4d987a9665b7c/Build/Intermediates.noindex/ArchiveIntermediates/sf-proj-ios/IntermediateBuildFilesPath/sf-proj-ios.build/Release-iphoneos/sf-proj-ios.build/DerivedSources/sf_proj_ios_vers.c
+/Users/albintornqvist/projects/GlobalForester-iOS/Carthage/Checkouts/simple-features-proj-ios
++[SFPGeometryTransform transformFromProjection:andToProjection:]
++[SFPGeometryTransform transformFromEpsg:andToEpsg:]
++[SFPGeometryTransform transformFromAuthority:andFromIntCode:andToAuthority:andToIntCode:]
++[SFPGeometryTransform transformFromAuthority:andFromCode:andToAuthority:andToCode:]
++[SFPGeometryTransform transformFromProjection:andToEpsg:]
++[SFPGeometryTransform transformFromProjection:andToAuthority:andToCode:]
++[SFPGeometryTransform transformFromEpsg:andToProjection:]
++[SFPGeometryTransform transformFromAuthority:andFromCode:andToProjection:]
+-[SFPGeometryTransform initWithFromProjection:andToProjection:]
+-[SFPGeometryTransform initWithFromEpsg:andToEpsg:]
+-[SFPGeometryTransform initWithFromAuthority:andFromIntCode:andToAuthority:andToIntCode:]
+-[SFPGeometryTransform initWithFromAuthority:andFromCode:andToAuthority:andToCode:]
+-[SFPGeometryTransform initWithFromProjection:andToEpsg:]
+-[SFPGeometryTransform initWithFromProjection:andToAuthority:andToCode:]
+-[SFPGeometryTransform initWithFromEpsg:andToProjection:]
+-[SFPGeometryTransform initWithFromAuthority:andFromCode:andToProjection:]
+-[SFPGeometryTransform initWithProjectionTransform:]
+-[SFPGeometryTransform transformGeometryEnvelope:]
+-[SFPGeometryTransform transformGeometry:]
+-[SFPGeometryTransform transformPoint:]
+-[SFPGeometryTransform transformPoints:]
+-[SFPGeometryTransform transformLineString:]
+-[SFPGeometryTransform transformPolygon:]
+-[SFPGeometryTransform transformMultiPoint:]
+-[SFPGeometryTransform transformMultiLineString:]
+-[SFPGeometryTransform transformMultiPolygon:]
+-[SFPGeometryTransform transformCircularString:]
+-[SFPGeometryTransform transformCompoundCurve:]
+-[SFPGeometryTransform transformCurvePolygon:]
+-[SFPGeometryTransform transformPolyhedralSurface:]
+-[SFPGeometryTransform transformTIN:]
+-[SFPGeometryTransform transformTriangle:]
+-[SFPGeometryTransform transformGeometryCollection:]
+-[SFPGeometryTransform inverseTransformation]
+_OBJC_CLASSLIST_REFERENCES_$_
+_OBJC_SELECTOR_REFERENCES_
+_OBJC_SELECTOR_REFERENCES_.2
+_OBJC_SELECTOR_REFERENCES_.4
+_OBJC_SELECTOR_REFERENCES_.6
+_OBJC_SELECTOR_REFERENCES_.8
+_OBJC_SELECTOR_REFERENCES_.10
+_OBJC_SELECTOR_REFERENCES_.12
+_OBJC_SELECTOR_REFERENCES_.14
+_OBJC_SELECTOR_REFERENCES_.16
+_OBJC_SELECTOR_REFERENCES_.18
+_OBJC_SELECTOR_REFERENCES_.20
+_OBJC_SELECTOR_REFERENCES_.22
+_OBJC_SELECTOR_REFERENCES_.24
+_OBJC_SELECTOR_REFERENCES_.26
+_OBJC_SELECTOR_REFERENCES_.28
+_OBJC_CLASSLIST_REFERENCES_$_.29
+_OBJC_SELECTOR_REFERENCES_.31
+_OBJC_SELECTOR_REFERENCES_.33
+_OBJC_SELECTOR_REFERENCES_.35
+_OBJC_SELECTOR_REFERENCES_.37
+_OBJC_SELECTOR_REFERENCES_.39
+_OBJC_SELECTOR_REFERENCES_.41
+_OBJC_SELECTOR_REFERENCES_.43
+_OBJC_SELECTOR_REFERENCES_.45
+_OBJC_SELECTOR_REFERENCES_.47
+_OBJC_SELECTOR_REFERENCES_.49
+_OBJC_SELECTOR_REFERENCES_.51
+_OBJC_SELECTOR_REFERENCES_.53
+_OBJC_SELECTOR_REFERENCES_.55
+_OBJC_SELECTOR_REFERENCES_.57
+_OBJC_SELECTOR_REFERENCES_.59
+_OBJC_SELECTOR_REFERENCES_.61
+_OBJC_CLASSLIST_REFERENCES_$_.62
+_OBJC_SELECTOR_REFERENCES_.66
+_OBJC_SELECTOR_REFERENCES_.68
+_OBJC_SELECTOR_REFERENCES_.70
+_OBJC_CLASSLIST_REFERENCES_$_.71
+_OBJC_SELECTOR_REFERENCES_.73
+_OBJC_SELECTOR_REFERENCES_.75
+_OBJC_SELECTOR_REFERENCES_.77
+_OBJC_SELECTOR_REFERENCES_.79
+_OBJC_SELECTOR_REFERENCES_.81
+_OBJC_CLASSLIST_REFERENCES_$_.82
+_OBJC_SELECTOR_REFERENCES_.84
+_OBJC_SELECTOR_REFERENCES_.86
+_OBJC_CLASSLIST_REFERENCES_$_.87
+_OBJC_SELECTOR_REFERENCES_.89
+_OBJC_SELECTOR_REFERENCES_.91
+_OBJC_SELECTOR_REFERENCES_.93
+_OBJC_SELECTOR_REFERENCES_.95
+_OBJC_CLASSLIST_REFERENCES_$_.96
+_OBJC_SELECTOR_REFERENCES_.98
+_OBJC_SELECTOR_REFERENCES_.100
+_OBJC_SELECTOR_REFERENCES_.102
+_OBJC_CLASSLIST_REFERENCES_$_.103
+_OBJC_SELECTOR_REFERENCES_.105
+_OBJC_CLASSLIST_REFERENCES_$_.106
+_OBJC_SELECTOR_REFERENCES_.108
+_OBJC_SELECTOR_REFERENCES_.110
+_OBJC_CLASSLIST_REFERENCES_$_.111
+_OBJC_CLASSLIST_REFERENCES_$_.112
+_OBJC_SELECTOR_REFERENCES_.114
+_OBJC_SELECTOR_REFERENCES_.116
+_OBJC_CLASSLIST_REFERENCES_$_.117
+_OBJC_CLASSLIST_REFERENCES_$_.118
+_OBJC_SELECTOR_REFERENCES_.120
+_OBJC_SELECTOR_REFERENCES_.122
+_OBJC_CLASSLIST_REFERENCES_$_.123
+_OBJC_SELECTOR_REFERENCES_.125
+_OBJC_SELECTOR_REFERENCES_.127
+_OBJC_CLASSLIST_REFERENCES_$_.128
+_OBJC_CLASSLIST_REFERENCES_$_.129
+_OBJC_CLASSLIST_REFERENCES_$_.130
+_OBJC_CLASSLIST_REFERENCES_$_.131
+_OBJC_CLASSLIST_REFERENCES_$_.132
+_OBJC_SELECTOR_REFERENCES_.134
+_OBJC_SELECTOR_REFERENCES_.136
+_OBJC_SELECTOR_REFERENCES_.138
+_OBJC_SELECTOR_REFERENCES_.140
+_OBJC_SELECTOR_REFERENCES_.142
+_OBJC_SELECTOR_REFERENCES_.144
+__OBJC_$_CLASS_METHODS_SFPGeometryTransform
+__OBJC_METACLASS_RO_$_SFPGeometryTransform
+__OBJC_$_INSTANCE_METHODS_SFPGeometryTransform
+__OBJC_CLASS_RO_$_SFPGeometryTransform
+/Users/albintornqvist/projects/GlobalForester-iOS/Carthage/Checkouts/simple-features-proj-ios/sf-proj-ios/SFPGeometryTransform.m
+sf-proj-ios/SFPGeometryTransform.m

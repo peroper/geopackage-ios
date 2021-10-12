@@ -1,0 +1,6 @@
+framework module tiff_ios {
+  umbrella header "tiff_ios.h"
+
+  export *
+  module * { export * }
+}

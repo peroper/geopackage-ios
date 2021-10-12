@@ -1,0 +1,803 @@
+BCSymbolMap Version: 2.0
+Apple clang version 13.0.0 (clang-1300.0.29.3)
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS15.0.sdk
+iPhoneOS15.0.sdk
+/Users/albintornqvist/Library/Caches/org.carthage.CarthageKit/DerivedData/13.0_13A233/tiff-ios/1c00e132284e2d86783c9451214662b48c8bd281/Build/Intermediates.noindex/ArchiveIntermediates/tiff-ios/IntermediateBuildFilesPath/tiff-ios.build/Release-iphoneos/tiff-ios.build/DerivedSources/tiff_ios_vers.c
+/Users/albintornqvist/projects/GlobalForester-iOS/Carthage/Checkouts/tiff-ios
+-[TIFFPackbitsCompression decodeData:withByteOrder:]
+-[TIFFPackbitsCompression rowEncoding]
+-[TIFFPackbitsCompression encodeData:withByteOrder:]
+_OBJC_CLASSLIST_REFERENCES_$_
+_OBJC_SELECTOR_REFERENCES_
+_OBJC_CLASSLIST_REFERENCES_$_.1
+_OBJC_SELECTOR_REFERENCES_.3
+_OBJC_SELECTOR_REFERENCES_.5
+_OBJC_SELECTOR_REFERENCES_.7
+_OBJC_SELECTOR_REFERENCES_.9
+_OBJC_SELECTOR_REFERENCES_.11
+_OBJC_SELECTOR_REFERENCES_.13
+_OBJC_SELECTOR_REFERENCES_.15
+_OBJC_SELECTOR_REFERENCES_.17
+_OBJC_SELECTOR_REFERENCES_.19
+_OBJC_SELECTOR_REFERENCES_.21
+_OBJC_CLASSLIST_REFERENCES_$_.22
+_OBJC_SELECTOR_REFERENCES_.26
+__OBJC_$_PROTOCOL_INSTANCE_METHODS_NSObject
+__OBJC_$_PROTOCOL_INSTANCE_METHODS_OPT_NSObject
+__OBJC_$_PROP_LIST_NSObject
+__OBJC_$_PROTOCOL_METHOD_TYPES_NSObject
+__OBJC_PROTOCOL_$_NSObject
+__OBJC_LABEL_PROTOCOL_$_NSObject
+__OBJC_$_PROTOCOL_REFS_TIFFCompressionDecoder
+__OBJC_$_PROTOCOL_INSTANCE_METHODS_TIFFCompressionDecoder
+__OBJC_$_PROTOCOL_METHOD_TYPES_TIFFCompressionDecoder
+__OBJC_PROTOCOL_$_TIFFCompressionDecoder
+__OBJC_LABEL_PROTOCOL_$_TIFFCompressionDecoder
+__OBJC_$_PROTOCOL_REFS_TIFFCompressionEncoder
+__OBJC_$_PROTOCOL_INSTANCE_METHODS_TIFFCompressionEncoder
+__OBJC_$_PROTOCOL_METHOD_TYPES_TIFFCompressionEncoder
+__OBJC_PROTOCOL_$_TIFFCompressionEncoder
+__OBJC_LABEL_PROTOCOL_$_TIFFCompressionEncoder
+__OBJC_CLASS_PROTOCOLS_$_TIFFPackbitsCompression
+__OBJC_METACLASS_RO_$_TIFFPackbitsCompression
+__OBJC_$_INSTANCE_METHODS_TIFFPackbitsCompression
+__OBJC_$_PROP_LIST_TIFFPackbitsCompression
+__OBJC_CLASS_RO_$_TIFFPackbitsCompression
+/Users/albintornqvist/projects/GlobalForester-iOS/Carthage/Checkouts/tiff-ios/tiff-ios/compression/TIFFPackbitsCompression.m
+tiff-ios/compression/TIFFPackbitsCompression.m
+-[TIFFByteWriter init]
+-[TIFFByteWriter initWithByteOrder:]
+-[TIFFByteWriter close]
+-[TIFFByteWriter data]
+-[TIFFByteWriter size]
+-[TIFFByteWriter writeString:]
+-[TIFFByteWriter writeNumberAsByte:]
+-[TIFFByteWriter writeByte:]
+-[TIFFByteWriter writeNumberAsUnsignedByte:]
+-[TIFFByteWriter writeUnsignedByte:]
+-[TIFFByteWriter write8BitInt:]
+-[TIFFByteWriter writeBytesWithData:]
+-[TIFFByteWriter writeNumberAsShort:]
+-[TIFFByteWriter writeShort:]
+-[TIFFByteWriter writeNumberAsUnsignedShort:]
+-[TIFFByteWriter writeUnsignedShort:]
+-[TIFFByteWriter write16BitInt:]
+-[TIFFByteWriter writeNumberAsInt:]
+-[TIFFByteWriter writeInt:]
+-[TIFFByteWriter writeNumberAsUnsignedInt:]
+-[TIFFByteWriter writeUnsignedInt:]
+-[TIFFByteWriter write32BitInt:]
+-[TIFFByteWriter writeNumberAsFloat:]
+-[TIFFByteWriter writeFloat:]
+-[TIFFByteWriter writeNumberAsDouble:]
+-[TIFFByteWriter writeDouble:]
+-[TIFFByteWriter nextByte]
+-[TIFFByteWriter setNextByte:]
+-[TIFFByteWriter os]
+-[TIFFByteWriter setOs:]
+-[TIFFByteWriter byteOrder]
+-[TIFFByteWriter setByteOrder:]
+-[TIFFByteWriter .cxx_destruct]
+_OBJC_SELECTOR_REFERENCES_.2
+_OBJC_SELECTOR_REFERENCES_.4
+_OBJC_SELECTOR_REFERENCES_.6
+_OBJC_SELECTOR_REFERENCES_.8
+_OBJC_SELECTOR_REFERENCES_.10
+_OBJC_SELECTOR_REFERENCES_.12
+_OBJC_SELECTOR_REFERENCES_.14
+_OBJC_SELECTOR_REFERENCES_.16
+_OBJC_SELECTOR_REFERENCES_.18
+_OBJC_SELECTOR_REFERENCES_.20
+_OBJC_CLASSLIST_REFERENCES_$_.21
+_OBJC_SELECTOR_REFERENCES_.23
+_OBJC_SELECTOR_REFERENCES_.25
+_OBJC_SELECTOR_REFERENCES_.27
+_OBJC_SELECTOR_REFERENCES_.29
+_OBJC_SELECTOR_REFERENCES_.31
+_OBJC_SELECTOR_REFERENCES_.33
+_OBJC_SELECTOR_REFERENCES_.35
+_OBJC_SELECTOR_REFERENCES_.37
+_OBJC_SELECTOR_REFERENCES_.39
+_OBJC_SELECTOR_REFERENCES_.41
+_OBJC_SELECTOR_REFERENCES_.43
+_OBJC_SELECTOR_REFERENCES_.45
+_OBJC_SELECTOR_REFERENCES_.47
+_OBJC_SELECTOR_REFERENCES_.49
+_OBJC_SELECTOR_REFERENCES_.51
+_OBJC_SELECTOR_REFERENCES_.53
+_OBJC_SELECTOR_REFERENCES_.55
+_OBJC_SELECTOR_REFERENCES_.57
+_OBJC_SELECTOR_REFERENCES_.59
+_OBJC_SELECTOR_REFERENCES_.61
+_OBJC_SELECTOR_REFERENCES_.63
+_OBJC_SELECTOR_REFERENCES_.65
+_OBJC_SELECTOR_REFERENCES_.67
+_OBJC_SELECTOR_REFERENCES_.69
+_OBJC_SELECTOR_REFERENCES_.71
+_OBJC_SELECTOR_REFERENCES_.73
+__OBJC_METACLASS_RO_$_TIFFByteWriter
+__OBJC_$_INSTANCE_METHODS_TIFFByteWriter
+_OBJC_IVAR_$_TIFFByteWriter._nextByte
+_OBJC_IVAR_$_TIFFByteWriter._os
+_OBJC_IVAR_$_TIFFByteWriter._byteOrder
+__OBJC_$_INSTANCE_VARIABLES_TIFFByteWriter
+__OBJC_$_PROP_LIST_TIFFByteWriter
+__OBJC_CLASS_RO_$_TIFFByteWriter
+/Users/albintornqvist/projects/GlobalForester-iOS/Carthage/Checkouts/tiff-ios/tiff-ios/io/TIFFByteWriter.m
+tiff-ios/io/TIFFByteWriter.m
+tiff-ios/io/TIFFByteWriter.h
+CFSwapInt64HostToBig
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS15.0.sdk/System/Library/Frameworks/CoreFoundation.framework/Headers/CFByteOrder.h
+CFSwapInt32HostToBig
+-[TIFFFileDirectory initWithEntries:andReader:]
+-[TIFFFileDirectory initWithEntries:andReader:andCacheData:]
+-[TIFFFileDirectory init]
+-[TIFFFileDirectory initWithRasters:]
+-[TIFFFileDirectory initWithEntries:andRasters:]
+-[TIFFFileDirectory addEntry:]
+___30-[TIFFFileDirectory addEntry:]_block_invoke
+-[TIFFFileDirectory setCacheData:]
+-[TIFFFileDirectory reader]
+-[TIFFFileDirectory isTiled]
+-[TIFFFileDirectory decoder]
+-[TIFFFileDirectory numEntries]
+-[TIFFFileDirectory entryByFieldTagType:]
+-[TIFFFileDirectory entries]
+-[TIFFFileDirectory fieldTagTypeMapping]
+-[TIFFFileDirectory imageWidth]
+-[TIFFFileDirectory setImageWidth:]
+-[TIFFFileDirectory setImageWidthAsLong:]
+-[TIFFFileDirectory imageHeight]
+-[TIFFFileDirectory setImageHeight:]
+-[TIFFFileDirectory setImageHeightAsLong:]
+-[TIFFFileDirectory bitsPerSample]
+-[TIFFFileDirectory setBitsPerSample:]
+-[TIFFFileDirectory setBitsPerSampleAsSingleValue:]
+-[TIFFFileDirectory maxBitsPerSample]
+-[TIFFFileDirectory compression]
+-[TIFFFileDirectory setCompression:]
+-[TIFFFileDirectory photometricInterpretation]
+-[TIFFFileDirectory setPhotometricInterpretation:]
+-[TIFFFileDirectory stripOffsets]
+-[TIFFFileDirectory setStripOffsets:]
+-[TIFFFileDirectory setStripOffsetsAsLongs:]
+-[TIFFFileDirectory setStripOffsetsAsSingleValue:]
+-[TIFFFileDirectory setStripOffsetsAsSingleLongValue:]
+-[TIFFFileDirectory samplesPerPixel]
+-[TIFFFileDirectory setSamplesPerPixel:]
+-[TIFFFileDirectory rowsPerStrip]
+-[TIFFFileDirectory setRowsPerStrip:]
+-[TIFFFileDirectory setRowsPerStripAsLong:]
+-[TIFFFileDirectory stripByteCounts]
+-[TIFFFileDirectory setStripByteCounts:]
+-[TIFFFileDirectory setStripByteCountsAsLongs:]
+-[TIFFFileDirectory setStripByteCountsAsSingleValue:]
+-[TIFFFileDirectory setStripByteCountsAsSingleLongValue:]
+-[TIFFFileDirectory xResolution]
+-[TIFFFileDirectory setXResolution:]
+-[TIFFFileDirectory setXResolutionAsSingleValue:]
+-[TIFFFileDirectory yResolution]
+-[TIFFFileDirectory setYResolution:]
+-[TIFFFileDirectory setYResolutionAsSingleValue:]
+-[TIFFFileDirectory planarConfiguration]
+-[TIFFFileDirectory setPlanarConfiguration:]
+-[TIFFFileDirectory resolutionUnit]
+-[TIFFFileDirectory setResolutionUnit:]
+-[TIFFFileDirectory modelPixelScale]
+-[TIFFFileDirectory modelTiepoint]
+-[TIFFFileDirectory colorMap]
+-[TIFFFileDirectory setColorMap:]
+-[TIFFFileDirectory setColorMapAsSingleValue:]
+-[TIFFFileDirectory tileWidth]
+-[TIFFFileDirectory setTileWidth:]
+-[TIFFFileDirectory setTileWidthAsLong:]
+-[TIFFFileDirectory tileHeight]
+-[TIFFFileDirectory setTileHeight:]
+-[TIFFFileDirectory setTileHeightAsLong:]
+-[TIFFFileDirectory tileOffsets]
+-[TIFFFileDirectory setTileOffsets:]
+-[TIFFFileDirectory setTileOffsetsAsSingleValue:]
+-[TIFFFileDirectory tileByteCounts]
+-[TIFFFileDirectory setTileByteCounts:]
+-[TIFFFileDirectory setTileByteCountsAsLongs:]
+-[TIFFFileDirectory setTileByteCountsAsSingleValue:]
+-[TIFFFileDirectory setTileByteCountsAsSingleLongValue:]
+-[TIFFFileDirectory sampleFormat]
+-[TIFFFileDirectory setSampleFormat:]
+-[TIFFFileDirectory setSampleFormatAsSingleValue:]
+-[TIFFFileDirectory maxSampleFormat]
+-[TIFFFileDirectory readRasters]
+-[TIFFFileDirectory readInterleavedRasters]
+-[TIFFFileDirectory readRastersWithWindow:]
+-[TIFFFileDirectory readInterleavedRastersWithWindow:]
+-[TIFFFileDirectory readRastersWithSamples:]
+-[TIFFFileDirectory readInterleavedRastersWithSamples:]
+-[TIFFFileDirectory readRastersWithWindow:andSamples:]
+-[TIFFFileDirectory readInterleavedRastersWithWindow:andSamples:]
+-[TIFFFileDirectory readRastersWithSampleValues:andInterleaveValues:]
+-[TIFFFileDirectory readRastersWithWindow:andSampleValues:andInterleaveValues:]
+-[TIFFFileDirectory readRastersWithSamples:andSampleValues:andInterleaveValues:]
+-[TIFFFileDirectory readRastersWithWindow:andSamples:andSampleValues:andInterleaveValues:]
+-[TIFFFileDirectory readRastersWithWindow:andSamples:andRasters:]
+-[TIFFFileDirectory readValueWithByteReader:andFieldType:]
+-[TIFFFileDirectory fieldTypeForSample:]
+-[TIFFFileDirectory tileOrStripWithX:andY:andSample:]
+-[TIFFFileDirectory sampleByteSizeOfSampleIndex:]
+-[TIFFFileDirectory bytesPerPixel]
+-[TIFFFileDirectory shortEntryValueWithFieldTag:]
+-[TIFFFileDirectory setUnsignedShortEntryValue:withFieldTag:]
+-[TIFFFileDirectory numberEntryValueWithFieldTag:]
+-[TIFFFileDirectory setUnsignedLongEntryValue:withFieldTag:]
+-[TIFFFileDirectory stringEntryValueWithFieldTag:]
+-[TIFFFileDirectory setStringEntryValue:withFieldTag:]
+-[TIFFFileDirectory shortListEntryValueWithFieldTag:]
+-[TIFFFileDirectory setUnsignedShortListEntryValue:withFieldTag:]
+-[TIFFFileDirectory maxShortEntryValueWithFieldTag:]
+-[TIFFFileDirectory numberListEntryValueWithFieldTag:]
+-[TIFFFileDirectory longListEntryValueWithFieldTag:]
+-[TIFFFileDirectory setUnsignedLongListEntryValue:withFieldTag:]
+-[TIFFFileDirectory setRationalEntryValue:withFieldTag:]
+-[TIFFFileDirectory entryValueWithFieldTag:]
+-[TIFFFileDirectory setEntryValue:withFieldTag:andFieldType:andTypeCount:]
+-[TIFFFileDirectory sumOfValues:fromStart:andEnd:]
+-[TIFFFileDirectory createSingleShortListWithValue:]
+-[TIFFFileDirectory createSingleLongListWithValue:]
+-[TIFFFileDirectory createRationalValue:]
+-[TIFFFileDirectory size]
+-[TIFFFileDirectory sizeWithValues]
+-[TIFFFileDirectory writeRasters]
+-[TIFFFileDirectory setWriteRasters:]
+-[TIFFFileDirectory setEntries:]
+-[TIFFFileDirectory setFieldTagTypeMapping:]
+-[TIFFFileDirectory setReader:]
+-[TIFFFileDirectory tiled]
+-[TIFFFileDirectory setTiled:]
+-[TIFFFileDirectory planarConfig]
+-[TIFFFileDirectory setPlanarConfig:]
+-[TIFFFileDirectory setDecoder:]
+-[TIFFFileDirectory cache]
+-[TIFFFileDirectory setCache:]
+-[TIFFFileDirectory lastBlockIndex]
+-[TIFFFileDirectory setLastBlockIndex:]
+-[TIFFFileDirectory lastBlock]
+-[TIFFFileDirectory setLastBlock:]
+-[TIFFFileDirectory .cxx_destruct]
+_OBJC_CLASSLIST_REFERENCES_$_.7
+_OBJC_CLASSLIST_REFERENCES_$_.8
+_OBJC_SELECTOR_REFERENCES_.22
+_OBJC_SELECTOR_REFERENCES_.24
+_OBJC_SELECTOR_REFERENCES_.28
+_OBJC_SELECTOR_REFERENCES_.30
+_OBJC_SELECTOR_REFERENCES_.32
+_OBJC_CLASSLIST_REFERENCES_$_.33
+_OBJC_CLASSLIST_REFERENCES_$_.44
+_OBJC_SELECTOR_REFERENCES_.46
+_OBJC_CLASSLIST_REFERENCES_$_.47
+_OBJC_CLASSLIST_REFERENCES_$_.48
+_OBJC_SELECTOR_REFERENCES_.52
+_OBJC_SELECTOR_REFERENCES_.54
+_OBJC_CLASSLIST_REFERENCES_$_.59
+_OBJC_CLASSLIST_REFERENCES_$_.62
+_OBJC_CLASSLIST_REFERENCES_$_.63
+_OBJC_CLASSLIST_REFERENCES_$_.68
+_OBJC_SELECTOR_REFERENCES_.70
+_OBJC_SELECTOR_REFERENCES_.72
+_OBJC_SELECTOR_REFERENCES_.74
+___block_descriptor_32_e59_q24?0"TIFFFileDirectoryEntry"8"TIFFFileDirectoryEntry"16l
+___block_literal_global
+_OBJC_SELECTOR_REFERENCES_.77
+_OBJC_SELECTOR_REFERENCES_.79
+_OBJC_SELECTOR_REFERENCES_.81
+_OBJC_SELECTOR_REFERENCES_.83
+_OBJC_SELECTOR_REFERENCES_.85
+_OBJC_SELECTOR_REFERENCES_.87
+_OBJC_SELECTOR_REFERENCES_.89
+_OBJC_SELECTOR_REFERENCES_.91
+_OBJC_SELECTOR_REFERENCES_.93
+_OBJC_SELECTOR_REFERENCES_.95
+_OBJC_SELECTOR_REFERENCES_.97
+_OBJC_SELECTOR_REFERENCES_.99
+_OBJC_SELECTOR_REFERENCES_.101
+_OBJC_SELECTOR_REFERENCES_.103
+_OBJC_SELECTOR_REFERENCES_.105
+_OBJC_SELECTOR_REFERENCES_.107
+_OBJC_SELECTOR_REFERENCES_.109
+_OBJC_SELECTOR_REFERENCES_.111
+_OBJC_SELECTOR_REFERENCES_.113
+_OBJC_SELECTOR_REFERENCES_.115
+_OBJC_SELECTOR_REFERENCES_.117
+_OBJC_SELECTOR_REFERENCES_.119
+_OBJC_SELECTOR_REFERENCES_.121
+_OBJC_SELECTOR_REFERENCES_.123
+_OBJC_SELECTOR_REFERENCES_.125
+_OBJC_SELECTOR_REFERENCES_.127
+_OBJC_SELECTOR_REFERENCES_.129
+_OBJC_SELECTOR_REFERENCES_.131
+_OBJC_SELECTOR_REFERENCES_.133
+_OBJC_SELECTOR_REFERENCES_.135
+_OBJC_SELECTOR_REFERENCES_.137
+_OBJC_SELECTOR_REFERENCES_.139
+_OBJC_CLASSLIST_REFERENCES_$_.140
+_OBJC_SELECTOR_REFERENCES_.142
+_OBJC_SELECTOR_REFERENCES_.144
+_OBJC_SELECTOR_REFERENCES_.146
+_OBJC_SELECTOR_REFERENCES_.148
+_OBJC_SELECTOR_REFERENCES_.150
+_OBJC_SELECTOR_REFERENCES_.152
+_OBJC_SELECTOR_REFERENCES_.154
+_OBJC_SELECTOR_REFERENCES_.156
+_OBJC_SELECTOR_REFERENCES_.158
+_OBJC_SELECTOR_REFERENCES_.160
+_OBJC_SELECTOR_REFERENCES_.162
+_OBJC_SELECTOR_REFERENCES_.164
+_OBJC_SELECTOR_REFERENCES_.174
+_OBJC_CLASSLIST_REFERENCES_$_.175
+_OBJC_SELECTOR_REFERENCES_.177
+_OBJC_SELECTOR_REFERENCES_.179
+_OBJC_SELECTOR_REFERENCES_.181
+_OBJC_CLASSLIST_REFERENCES_$_.186
+_OBJC_SELECTOR_REFERENCES_.188
+_OBJC_SELECTOR_REFERENCES_.190
+_OBJC_SELECTOR_REFERENCES_.192
+_OBJC_SELECTOR_REFERENCES_.194
+_OBJC_SELECTOR_REFERENCES_.196
+_OBJC_SELECTOR_REFERENCES_.198
+_OBJC_SELECTOR_REFERENCES_.200
+_OBJC_SELECTOR_REFERENCES_.202
+_OBJC_SELECTOR_REFERENCES_.204
+_OBJC_SELECTOR_REFERENCES_.206
+_OBJC_SELECTOR_REFERENCES_.208
+_OBJC_SELECTOR_REFERENCES_.210
+_OBJC_CLASSLIST_REFERENCES_$_.211
+_OBJC_SELECTOR_REFERENCES_.213
+_OBJC_SELECTOR_REFERENCES_.215
+_OBJC_SELECTOR_REFERENCES_.217
+_OBJC_SELECTOR_REFERENCES_.219
+_OBJC_SELECTOR_REFERENCES_.221
+_OBJC_SELECTOR_REFERENCES_.223
+_OBJC_SELECTOR_REFERENCES_.225
+_OBJC_SELECTOR_REFERENCES_.227
+_OBJC_SELECTOR_REFERENCES_.229
+_OBJC_SELECTOR_REFERENCES_.231
+_OBJC_SELECTOR_REFERENCES_.233
+_OBJC_SELECTOR_REFERENCES_.235
+_OBJC_SELECTOR_REFERENCES_.237
+_OBJC_SELECTOR_REFERENCES_.239
+_OBJC_SELECTOR_REFERENCES_.241
+_OBJC_SELECTOR_REFERENCES_.243
+_OBJC_SELECTOR_REFERENCES_.245
+_OBJC_SELECTOR_REFERENCES_.251
+_OBJC_CLASSLIST_REFERENCES_$_.252
+_OBJC_SELECTOR_REFERENCES_.254
+_OBJC_SELECTOR_REFERENCES_.256
+_OBJC_SELECTOR_REFERENCES_.258
+_OBJC_SELECTOR_REFERENCES_.260
+_OBJC_SELECTOR_REFERENCES_.262
+_OBJC_SELECTOR_REFERENCES_.264
+_OBJC_SELECTOR_REFERENCES_.266
+_OBJC_SELECTOR_REFERENCES_.268
+_OBJC_SELECTOR_REFERENCES_.270
+_OBJC_SELECTOR_REFERENCES_.272
+_OBJC_SELECTOR_REFERENCES_.274
+_OBJC_SELECTOR_REFERENCES_.276
+_OBJC_SELECTOR_REFERENCES_.288
+_OBJC_SELECTOR_REFERENCES_.290
+_OBJC_SELECTOR_REFERENCES_.292
+_OBJC_SELECTOR_REFERENCES_.294
+_OBJC_SELECTOR_REFERENCES_.296
+_OBJC_SELECTOR_REFERENCES_.300
+_OBJC_SELECTOR_REFERENCES_.306
+_OBJC_SELECTOR_REFERENCES_.308
+_OBJC_CLASSLIST_REFERENCES_$_.309
+_OBJC_SELECTOR_REFERENCES_.311
+_OBJC_SELECTOR_REFERENCES_.313
+_OBJC_CLASSLIST_REFERENCES_$_.314
+_OBJC_SELECTOR_REFERENCES_.316
+_OBJC_SELECTOR_REFERENCES_.318
+_OBJC_SELECTOR_REFERENCES_.320
+__OBJC_METACLASS_RO_$_TIFFFileDirectory
+__OBJC_$_INSTANCE_METHODS_TIFFFileDirectory
+_OBJC_IVAR_$_TIFFFileDirectory._tiled
+_OBJC_IVAR_$_TIFFFileDirectory._planarConfig
+_OBJC_IVAR_$_TIFFFileDirectory._lastBlockIndex
+_OBJC_IVAR_$_TIFFFileDirectory._writeRasters
+_OBJC_IVAR_$_TIFFFileDirectory._entries
+_OBJC_IVAR_$_TIFFFileDirectory._fieldTagTypeMapping
+_OBJC_IVAR_$_TIFFFileDirectory._reader
+_OBJC_IVAR_$_TIFFFileDirectory._decoder
+_OBJC_IVAR_$_TIFFFileDirectory._cache
+_OBJC_IVAR_$_TIFFFileDirectory._lastBlock
+__OBJC_$_INSTANCE_VARIABLES_TIFFFileDirectory
+__OBJC_$_PROP_LIST_TIFFFileDirectory
+__OBJC_CLASS_RO_$_TIFFFileDirectory
+/Users/albintornqvist/projects/GlobalForester-iOS/Carthage/Checkouts/tiff-ios/tiff-ios/TIFFFileDirectory.m
+tiff-ios/TIFFFileDirectory.m
+tiff-ios/TIFFFileDirectory.h
+__30-[TIFFFileDirectory addEntry:]_block_invoke
+NSMakeRange
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS15.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSRange.h
+-[TIFFUnsupportedCompression initWithMessage:]
+-[TIFFUnsupportedCompression decodeData:withByteOrder:]
+-[TIFFUnsupportedCompression rowEncoding]
+-[TIFFUnsupportedCompression encodeData:withByteOrder:]
+-[TIFFUnsupportedCompression message]
+-[TIFFUnsupportedCompression setMessage:]
+-[TIFFUnsupportedCompression .cxx_destruct]
+__OBJC_CLASS_PROTOCOLS_$_TIFFUnsupportedCompression
+__OBJC_METACLASS_RO_$_TIFFUnsupportedCompression
+__OBJC_$_INSTANCE_METHODS_TIFFUnsupportedCompression
+_OBJC_IVAR_$_TIFFUnsupportedCompression._message
+__OBJC_$_INSTANCE_VARIABLES_TIFFUnsupportedCompression
+__OBJC_$_PROP_LIST_TIFFUnsupportedCompression
+__OBJC_CLASS_RO_$_TIFFUnsupportedCompression
+/Users/albintornqvist/projects/GlobalForester-iOS/Carthage/Checkouts/tiff-ios/tiff-ios/compression/TIFFUnsupportedCompression.m
+tiff-ios/compression/TIFFUnsupportedCompression.m
+-[TIFFRasters initWithWidth:andHeight:andSamplesPerPixel:andBitsPerSample:andSampleValues:]
+-[TIFFRasters initWithWidth:andHeight:andSamplesPerPixel:andBitsPerSample:andInterleaveValues:]
+-[TIFFRasters initWithWidth:andHeight:andSamplesPerPixel:andBitsPerSample:andSampleValues:andInterleaveValues:]
+-[TIFFRasters initWithWidth:andHeight:andSamplesPerPixel:andBitsPerSample:]
+-[TIFFRasters initWithWidth:andHeight:andSamplesPerPixel:andSingleBitsPerSample:]
+-[TIFFRasters validateValues]
+-[TIFFRasters hasSampleValues]
+-[TIFFRasters hasInterleaveValues]
+-[TIFFRasters addSampleValue:toIndex:andCoordinate:]
+-[TIFFRasters addInterleaveValue:toCoordinate:]
+-[TIFFRasters width]
+-[TIFFRasters height]
+-[TIFFRasters numPixels]
+-[TIFFRasters samplesPerPixel]
+-[TIFFRasters bitsPerSample]
+-[TIFFRasters sampleValues]
+-[TIFFRasters setSampleValuesAndValidate:]
+-[TIFFRasters interleaveValues]
+-[TIFFRasters setInterleaveValuesAndValidate:]
+-[TIFFRasters sampleValueAtSample:andIndex:]
+-[TIFFRasters interleaveValueAtIndex:]
+-[TIFFRasters numberValue:]
+-[TIFFRasters pixelAtX:andY:]
+-[TIFFRasters setPixelAtX:andY:withValues:]
+-[TIFFRasters pixelSampleAtSample:andX:andY:]
+-[TIFFRasters setPixelSampleAtSample:andX:andY:withValue:]
+-[TIFFRasters firstPixelSampleAtX:andY:]
+-[TIFFRasters setFirstPixelSampleAtX:andY:withValue:]
+-[TIFFRasters sampleIndexAtX:andY:]
+-[TIFFRasters interleaveIndexAtX:andY:]
+-[TIFFRasters size]
+-[TIFFRasters sizePixel]
+-[TIFFRasters sizeSample:]
+-[TIFFRasters validateCoordinatesAtX:andY:]
+-[TIFFRasters validateSample:]
+-[TIFFRasters calculateRowsPerStripWithPlanarConfiguration:]
+-[TIFFRasters calculateRowsPerStripWithPlanarConfiguration:andMaxBytesPerStrip:]
++[TIFFRasters createEmptySampleValuesWithSamplesPerPixel:andWidth:andHeight:]
++[TIFFRasters createEmptySampleValuesWithSamplesPerPixel:andPixels:]
++[TIFFRasters createEmptyInterleaveValuesWithSamplesPerPixel:andWidth:andHeight:]
++[TIFFRasters createEmptyInterleaveValuesWithSamplesPerPixel:andPixels:]
+-[TIFFRasters rowsPerStripWithBitsPerPixel:andMaxBytesPerStrip:]
++[TIFFRasters makeBitsPerSampleArrayWithSamplesPerPixel:andBitsPerSample:]
+-[TIFFRasters setWidth:]
+-[TIFFRasters setHeight:]
+-[TIFFRasters setSamplesPerPixel:]
+-[TIFFRasters setBitsPerSample:]
+-[TIFFRasters setSampleValues:]
+-[TIFFRasters setInterleaveValues:]
+-[TIFFRasters .cxx_destruct]
+_OBJC_CLASSLIST_REFERENCES_$_.25
+_OBJC_SELECTOR_REFERENCES_.50
+_OBJC_CLASSLIST_REFERENCES_$_.55
+_OBJC_SELECTOR_REFERENCES_.75
+_OBJC_CLASSLIST_REFERENCES_$_.100
+_OBJC_SELECTOR_REFERENCES_.102
+_OBJC_SELECTOR_REFERENCES_.104
+_OBJC_SELECTOR_REFERENCES_.106
+_OBJC_SELECTOR_REFERENCES_.108
+__OBJC_$_CLASS_METHODS_TIFFRasters
+__OBJC_METACLASS_RO_$_TIFFRasters
+__OBJC_$_INSTANCE_METHODS_TIFFRasters
+_OBJC_IVAR_$_TIFFRasters._width
+_OBJC_IVAR_$_TIFFRasters._height
+_OBJC_IVAR_$_TIFFRasters._samplesPerPixel
+_OBJC_IVAR_$_TIFFRasters._bitsPerSample
+_OBJC_IVAR_$_TIFFRasters._sampleValues
+_OBJC_IVAR_$_TIFFRasters._interleaveValues
+__OBJC_$_INSTANCE_VARIABLES_TIFFRasters
+__OBJC_$_PROP_LIST_TIFFRasters
+__OBJC_CLASS_RO_$_TIFFRasters
+/Users/albintornqvist/projects/GlobalForester-iOS/Carthage/Checkouts/tiff-ios/tiff-ios/TIFFRasters.m
+tiff-ios/TIFFRasters.m
+-[TIFFRawCompression decodeData:withByteOrder:]
+-[TIFFRawCompression rowEncoding]
+-[TIFFRawCompression encodeData:withByteOrder:]
+__OBJC_CLASS_PROTOCOLS_$_TIFFRawCompression
+__OBJC_METACLASS_RO_$_TIFFRawCompression
+__OBJC_$_INSTANCE_METHODS_TIFFRawCompression
+__OBJC_$_PROP_LIST_TIFFRawCompression
+__OBJC_CLASS_RO_$_TIFFRawCompression
+/Users/albintornqvist/projects/GlobalForester-iOS/Carthage/Checkouts/tiff-ios/tiff-ios/compression/TIFFRawCompression.m
+tiff-ios/compression/TIFFRawCompression.m
++[TIFFFieldTagTypes tagId:]
++[TIFFFieldTagTypes isArray:]
++[TIFFFieldTagTypes typeByTagId:]
+__OBJC_$_CLASS_METHODS_TIFFFieldTagTypes
+__OBJC_METACLASS_RO_$_TIFFFieldTagTypes
+__OBJC_CLASS_RO_$_TIFFFieldTagTypes
+/Users/albintornqvist/projects/GlobalForester-iOS/Carthage/Checkouts/tiff-ios/tiff-ios/TIFFFieldTagTypes.m
+tiff-ios/TIFFFieldTagTypes.m
++[TIFFReader readTiffFromFile:]
++[TIFFReader readTiffFromFile:andCache:]
++[TIFFReader readTiffFromStream:]
++[TIFFReader readTiffFromStream:andCache:]
++[TIFFReader readTiffFromData:]
++[TIFFReader readTiffFromData:andCache:]
++[TIFFReader readTiffFromReader:]
++[TIFFReader readTiffFromReader:andCache:]
++[TIFFReader parseTIFFImageWithReader:andByteOffset:andCache:]
++[TIFFReader readFieldValuesWithReader:andFieldTag:andFieldType:andTypeCount:]
++[TIFFReader valuesWithReader:andFieldType:andTypeCount:]
+_OBJC_CLASSLIST_REFERENCES_$_.9
+_OBJC_CLASSLIST_REFERENCES_$_.18
+_OBJC_SELECTOR_REFERENCES_.34
+_OBJC_SELECTOR_REFERENCES_.36
+_OBJC_CLASSLIST_REFERENCES_$_.37
+_OBJC_CLASSLIST_REFERENCES_$_.42
+_OBJC_CLASSLIST_REFERENCES_$_.43
+_OBJC_CLASSLIST_REFERENCES_$_.46
+_OBJC_SELECTOR_REFERENCES_.48
+_OBJC_CLASSLIST_REFERENCES_$_.53
+_OBJC_CLASSLIST_REFERENCES_$_.58
+_OBJC_SELECTOR_REFERENCES_.60
+_OBJC_SELECTOR_REFERENCES_.62
+_OBJC_SELECTOR_REFERENCES_.64
+_OBJC_SELECTOR_REFERENCES_.66
+_OBJC_SELECTOR_REFERENCES_.68
+_OBJC_CLASSLIST_REFERENCES_$_.71
+_OBJC_CLASSLIST_REFERENCES_$_.88
+_OBJC_SELECTOR_REFERENCES_.90
+_OBJC_CLASSLIST_REFERENCES_$_.91
+__OBJC_$_CLASS_METHODS_TIFFReader
+__OBJC_METACLASS_RO_$_TIFFReader
+__OBJC_CLASS_RO_$_TIFFReader
+/Users/albintornqvist/projects/GlobalForester-iOS/Carthage/Checkouts/tiff-ios/tiff-ios/TIFFReader.m
+tiff-ios/TIFFReader.m
++[TIFFFieldTypes value:]
++[TIFFFieldTypes bytes:]
++[TIFFFieldTypes bits:]
++[TIFFFieldTypes typeByValue:]
++[TIFFFieldTypes typeBySampleFormat:andBitsPerSample:]
++[TIFFFieldTypes sampleFormatByType:]
+__OBJC_$_CLASS_METHODS_TIFFFieldTypes
+__OBJC_METACLASS_RO_$_TIFFFieldTypes
+__OBJC_CLASS_RO_$_TIFFFieldTypes
+/Users/albintornqvist/projects/GlobalForester-iOS/Carthage/Checkouts/tiff-ios/tiff-ios/TIFFFieldTypes.m
+tiff-ios/TIFFFieldTypes.m
+__OBJC_METACLASS_RO_$_TIFFConstants
+__OBJC_CLASS_RO_$_TIFFConstants
+/Users/albintornqvist/projects/GlobalForester-iOS/Carthage/Checkouts/tiff-ios/tiff-ios/util/TIFFConstants.m
+-[TIFFImage init]
+-[TIFFImage initWithFileDirectory:]
+-[TIFFImage initWithFileDirectories:]
+-[TIFFImage addFileDirectory:]
+-[TIFFImage fileDirectories]
+-[TIFFImage fileDirectory]
+-[TIFFImage fileDirectoryAtIndex:]
+-[TIFFImage sizeHeaderAndDirectories]
+-[TIFFImage sizeHeaderAndDirectoriesWithValues]
+-[TIFFImage setFileDirectories:]
+-[TIFFImage .cxx_destruct]
+__OBJC_METACLASS_RO_$_TIFFImage
+__OBJC_$_INSTANCE_METHODS_TIFFImage
+_OBJC_IVAR_$_TIFFImage._fileDirectories
+__OBJC_$_INSTANCE_VARIABLES_TIFFImage
+__OBJC_$_PROP_LIST_TIFFImage
+__OBJC_CLASS_RO_$_TIFFImage
+/Users/albintornqvist/projects/GlobalForester-iOS/Carthage/Checkouts/tiff-ios/tiff-ios/TIFFImage.m
+tiff-ios/TIFFImage.m
+-[TIFFImageWindow initWithMinX:andMinY:andMaxX:andMaxY:]
+-[TIFFImageWindow initWithX:andY:]
+-[TIFFImageWindow initWithFileDirectory:]
+-[TIFFImageWindow description]
+-[TIFFImageWindow minX]
+-[TIFFImageWindow setMinX:]
+-[TIFFImageWindow minY]
+-[TIFFImageWindow setMinY:]
+-[TIFFImageWindow maxX]
+-[TIFFImageWindow setMaxX:]
+-[TIFFImageWindow maxY]
+-[TIFFImageWindow setMaxY:]
+__OBJC_METACLASS_RO_$_TIFFImageWindow
+__OBJC_$_INSTANCE_METHODS_TIFFImageWindow
+_OBJC_IVAR_$_TIFFImageWindow._minX
+_OBJC_IVAR_$_TIFFImageWindow._minY
+_OBJC_IVAR_$_TIFFImageWindow._maxX
+_OBJC_IVAR_$_TIFFImageWindow._maxY
+__OBJC_$_INSTANCE_VARIABLES_TIFFImageWindow
+__OBJC_$_PROP_LIST_TIFFImageWindow
+__OBJC_CLASS_RO_$_TIFFImageWindow
+/Users/albintornqvist/projects/GlobalForester-iOS/Carthage/Checkouts/tiff-ios/tiff-ios/TIFFImageWindow.m
+tiff-ios/TIFFImageWindow.h
+tiff-ios/TIFFImageWindow.m
++[TIFFIOUtils copyFile:toFile:]
++[TIFFIOUtils copyInputStream:toFile:]
++[TIFFIOUtils fileData:]
++[TIFFIOUtils streamData:]
++[TIFFIOUtils copyInputStream:toOutputStream:]
+_OBJC_CLASSLIST_REFERENCES_$_.20
+__OBJC_$_CLASS_METHODS_TIFFIOUtils
+__OBJC_METACLASS_RO_$_TIFFIOUtils
+__OBJC_CLASS_RO_$_TIFFIOUtils
+/Users/albintornqvist/projects/GlobalForester-iOS/Carthage/Checkouts/tiff-ios/tiff-ios/io/TIFFIOUtils.m
+tiff-ios/io/TIFFIOUtils.m
+-[TIFFFileDirectoryEntry initWithFieldTag:andFieldType:andTypeCount:andValues:]
+-[TIFFFileDirectoryEntry fieldTag]
+-[TIFFFileDirectoryEntry fieldType]
+-[TIFFFileDirectoryEntry typeCount]
+-[TIFFFileDirectoryEntry values]
+-[TIFFFileDirectoryEntry sizeWithValues]
+-[TIFFFileDirectoryEntry sizeOfValues]
+-[TIFFFileDirectoryEntry setFieldTag:]
+-[TIFFFileDirectoryEntry setFieldType:]
+-[TIFFFileDirectoryEntry setTypeCount:]
+-[TIFFFileDirectoryEntry setValues:]
+-[TIFFFileDirectoryEntry .cxx_destruct]
+__OBJC_METACLASS_RO_$_TIFFFileDirectoryEntry
+__OBJC_$_INSTANCE_METHODS_TIFFFileDirectoryEntry
+_OBJC_IVAR_$_TIFFFileDirectoryEntry._fieldTag
+_OBJC_IVAR_$_TIFFFileDirectoryEntry._fieldType
+_OBJC_IVAR_$_TIFFFileDirectoryEntry._typeCount
+_OBJC_IVAR_$_TIFFFileDirectoryEntry._values
+__OBJC_$_INSTANCE_VARIABLES_TIFFFileDirectoryEntry
+__OBJC_$_PROP_LIST_TIFFFileDirectoryEntry
+__OBJC_CLASS_RO_$_TIFFFileDirectoryEntry
+/Users/albintornqvist/projects/GlobalForester-iOS/Carthage/Checkouts/tiff-ios/tiff-ios/TIFFFileDirectoryEntry.m
+tiff-ios/TIFFFileDirectoryEntry.m
++[TIFFWriter writeTiffWithFile:andImage:]
++[TIFFWriter writeTiffWithFile:andWriter:andImage:]
++[TIFFWriter writeTiffToDataWithImage:]
++[TIFFWriter writeTiffToDataWithWriter:andImage:]
++[TIFFWriter writeTiffWithWriter:andImage:]
++[TIFFWriter writeImageFileDirectoriesWithWriter:andImage:]
++[TIFFWriter populateRasterEntriesWithFileDirectory:]
++[TIFFWriter populateStripEntriesWithFileDirectory:]
++[TIFFWriter writeRastersWithByteOrder:andFileDirectory:andOffset:]
++[TIFFWriter writeStripRastersWithWriter:andFileDirectory:andOffset:andFieldTypes:andEncoder:]
++[TIFFWriter encoderWithFileDirectory:]
++[TIFFWriter writeValueWithWriter:andFieldType:andValue:]
++[TIFFWriter writerFillerBytesWithWriter:andCount:]
++[TIFFWriter writeValuesWithWriter:andFileDirectoryEntry:]
+_OBJC_CLASSLIST_REFERENCES_$_.12
+_OBJC_SELECTOR_REFERENCES_.38
+_OBJC_SELECTOR_REFERENCES_.40
+_OBJC_SELECTOR_REFERENCES_.42
+_OBJC_SELECTOR_REFERENCES_.56
+_OBJC_CLASSLIST_REFERENCES_$_.57
+_OBJC_CLASSLIST_REFERENCES_$_.73
+_OBJC_SELECTOR_REFERENCES_.141
+_OBJC_SELECTOR_REFERENCES_.143
+_OBJC_SELECTOR_REFERENCES_.145
+_OBJC_SELECTOR_REFERENCES_.147
+_OBJC_SELECTOR_REFERENCES_.149
+_OBJC_SELECTOR_REFERENCES_.151
+_OBJC_SELECTOR_REFERENCES_.153
+_OBJC_CLASSLIST_REFERENCES_$_.154
+_OBJC_CLASSLIST_REFERENCES_$_.161
+_OBJC_CLASSLIST_REFERENCES_$_.164
+_OBJC_CLASSLIST_REFERENCES_$_.165
+_OBJC_SELECTOR_REFERENCES_.169
+_OBJC_SELECTOR_REFERENCES_.171
+_OBJC_SELECTOR_REFERENCES_.173
+_OBJC_SELECTOR_REFERENCES_.175
+_OBJC_SELECTOR_REFERENCES_.183
+_OBJC_SELECTOR_REFERENCES_.185
+_OBJC_SELECTOR_REFERENCES_.187
+_OBJC_SELECTOR_REFERENCES_.189
+_OBJC_SELECTOR_REFERENCES_.191
+_OBJC_SELECTOR_REFERENCES_.193
+_OBJC_SELECTOR_REFERENCES_.199
+_OBJC_CLASSLIST_REFERENCES_$_.200
+_OBJC_SELECTOR_REFERENCES_.212
+_OBJC_SELECTOR_REFERENCES_.214
+_OBJC_SELECTOR_REFERENCES_.216
+_OBJC_SELECTOR_REFERENCES_.218
+_OBJC_SELECTOR_REFERENCES_.220
+__OBJC_$_CLASS_METHODS_TIFFWriter
+__OBJC_METACLASS_RO_$_TIFFWriter
+__OBJC_CLASS_RO_$_TIFFWriter
+/Users/albintornqvist/projects/GlobalForester-iOS/Carthage/Checkouts/tiff-ios/tiff-ios/TIFFWriter.m
+tiff-ios/TIFFWriter.m
+-[TIFFLZWCompression decodeData:withByteOrder:]
+-[TIFFLZWCompression initializeTable]
+-[TIFFLZWCompression checkByteLength]
+-[TIFFLZWCompression addToTableWithValue:]
+-[TIFFLZWCompression addToTableWithCode:andValue:]
+-[TIFFLZWCompression concatArray:withNumber:]
+-[TIFFLZWCompression concatArray:withArray:]
+-[TIFFLZWCompression writeValue:toStream:]
+-[TIFFLZWCompression nextCodeWithReader:]
+-[TIFFLZWCompression byteWithReader:]
+-[TIFFLZWCompression rowEncoding]
+-[TIFFLZWCompression encodeData:withByteOrder:]
+-[TIFFLZWCompression table]
+-[TIFFLZWCompression setTable:]
+-[TIFFLZWCompression maxCode]
+-[TIFFLZWCompression setMaxCode:]
+-[TIFFLZWCompression byteLength]
+-[TIFFLZWCompression setByteLength:]
+-[TIFFLZWCompression position]
+-[TIFFLZWCompression setPosition:]
+-[TIFFLZWCompression .cxx_destruct]
+_OBJC_CLASSLIST_REFERENCES_$_.19
+_OBJC_CLASSLIST_REFERENCES_$_.38
+_OBJC_SELECTOR_REFERENCES_.78
+__OBJC_CLASS_PROTOCOLS_$_TIFFLZWCompression
+__OBJC_METACLASS_RO_$_TIFFLZWCompression
+__OBJC_$_INSTANCE_METHODS_TIFFLZWCompression
+_OBJC_IVAR_$_TIFFLZWCompression._maxCode
+_OBJC_IVAR_$_TIFFLZWCompression._byteLength
+_OBJC_IVAR_$_TIFFLZWCompression._position
+_OBJC_IVAR_$_TIFFLZWCompression._table
+__OBJC_$_INSTANCE_VARIABLES_TIFFLZWCompression
+__OBJC_$_PROP_LIST_TIFFLZWCompression
+__OBJC_CLASS_RO_$_TIFFLZWCompression
+/Users/albintornqvist/projects/GlobalForester-iOS/Carthage/Checkouts/tiff-ios/tiff-ios/compression/TIFFLZWCompression.m
+tiff-ios/compression/TIFFLZWCompression.m
+-[TIFFDeflateCompression decodeData:withByteOrder:]
+-[TIFFDeflateCompression rowEncoding]
+-[TIFFDeflateCompression encodeData:withByteOrder:]
+__OBJC_CLASS_PROTOCOLS_$_TIFFDeflateCompression
+__OBJC_METACLASS_RO_$_TIFFDeflateCompression
+__OBJC_$_INSTANCE_METHODS_TIFFDeflateCompression
+__OBJC_$_PROP_LIST_TIFFDeflateCompression
+__OBJC_CLASS_RO_$_TIFFDeflateCompression
+/Users/albintornqvist/projects/GlobalForester-iOS/Carthage/Checkouts/tiff-ios/tiff-ios/compression/TIFFDeflateCompression.m
+tiff-ios/compression/TIFFDeflateCompression.m
+-[TIFFByteReader initWithData:]
+-[TIFFByteReader initWithData:andByteOrder:]
+-[TIFFByteReader hasByte]
+-[TIFFByteReader hasByteWithOffset:]
+-[TIFFByteReader hasBytesWithCount:]
+-[TIFFByteReader hasBytesWithCount:andOffset:]
+-[TIFFByteReader readStringWithCount:]
+-[TIFFByteReader readStringWithCount:andOffset:]
+-[TIFFByteReader readByte]
+-[TIFFByteReader readByteWithOffset:]
+-[TIFFByteReader readUnsignedByte]
+-[TIFFByteReader readUnsignedByteWithOffset:]
+-[TIFFByteReader read8BitIntWithOffset:]
+-[TIFFByteReader readBytesWithCount:]
+-[TIFFByteReader readBytesWithCount:andOffset:]
+-[TIFFByteReader readShort]
+-[TIFFByteReader readShortWithOffset:]
+-[TIFFByteReader readUnsignedShort]
+-[TIFFByteReader readUnsignedShortWithOffset:]
+-[TIFFByteReader read16BitIntWithOffset:]
+-[TIFFByteReader readInt]
+-[TIFFByteReader readIntWithOffset:]
+-[TIFFByteReader readUnsignedInt]
+-[TIFFByteReader readUnsignedIntWithOffset:]
+-[TIFFByteReader read32BitIntWithOffset:]
+-[TIFFByteReader readFloat]
+-[TIFFByteReader readFloatWithOffset:]
+-[TIFFByteReader readDouble]
+-[TIFFByteReader readDoubleWithOffset:]
+-[TIFFByteReader byteLength]
+-[TIFFByteReader verifyRemainingBytesWithOffset:andBytesToRead:]
+-[TIFFByteReader nextByte]
+-[TIFFByteReader setNextByte:]
+-[TIFFByteReader bytes]
+-[TIFFByteReader setBytes:]
+-[TIFFByteReader byteOrder]
+-[TIFFByteReader setByteOrder:]
+-[TIFFByteReader .cxx_destruct]
+_OBJC_CLASSLIST_REFERENCES_$_.31
+_OBJC_CLASSLIST_REFERENCES_$_.66
+__OBJC_METACLASS_RO_$_TIFFByteReader
+__OBJC_$_INSTANCE_METHODS_TIFFByteReader
+_OBJC_IVAR_$_TIFFByteReader._nextByte
+_OBJC_IVAR_$_TIFFByteReader._bytes
+_OBJC_IVAR_$_TIFFByteReader._byteOrder
+__OBJC_$_INSTANCE_VARIABLES_TIFFByteReader
+__OBJC_$_PROP_LIST_TIFFByteReader
+__OBJC_CLASS_RO_$_TIFFByteReader
+/Users/albintornqvist/projects/GlobalForester-iOS/Carthage/Checkouts/tiff-ios/tiff-ios/io/TIFFByteReader.m
+tiff-ios/io/TIFFByteReader.m
+tiff-ios/io/TIFFByteReader.h
