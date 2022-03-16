@@ -21,57 +21,57 @@ let package = Package(
         .target(
             name: "geopackage-ios-wrapper",
             dependencies: [
-                "geopackage-ios",
-                "tiff-ios",
-                "simple-features-ios",
-                "simple-features-projections-ios",
-                "simple-features-geojson-ios",
-                "ogc-api-features-json-ios",
-                "simple-features-wkt-ios",
-                "simple-features-wkb-ios",
-                "coordinate-reference-systems-ios",
-                "projections-ios"
+                "geopackage_ios",
+                "tiff_ios",
+                "sf_ios",
+                "sf_proj_ios",
+                "sf_geojson_ios",
+                "ogc_api_features_json_ios",
+                "sf_wkt_ios",
+                "sf_wkb_ios",
+                "crs_ios",
+                "proj_ios"
             ],
             path: "geopackage-ios-wrapper"
         ),
         .binaryTarget(
-            name: "geopackage-ios",
+            name: "geopackage_ios",
             path: "XCFrameworks/geopackage_ios.xcframework"
         ),
         .binaryTarget(
-            name: "tiff-ios",
+            name: "tiff_ios",
             path: "XCFrameworks/tiff_ios.xcframework"
         ),
         .binaryTarget(
-            name: "simple-features-ios",
+            name: "sf_ios",
             path: "XCFrameworks/sf_ios.xcframework"
         ),
         .binaryTarget(
-            name: "simple-features-projections-ios",
+            name: "sf_proj_ios",
             path: "XCFrameworks/sf_proj_ios.xcframework"
         ),
         .binaryTarget(
-            name: "simple-features-geojson-ios",
+            name: "sf_geojson_ios",
             path: "XCFrameworks/sf_geojson_ios.xcframework"
         ),
         .binaryTarget(
-            name: "ogc-api-features-json-ios",
+            name: "ogc_api_features_json_ios",
             path: "XCFrameworks/ogc_api_features_json_ios.xcframework"
         ),
         .binaryTarget(
-            name: "simple-features-wkt-ios",
+            name: "sf_wkt_ios",
             path: "XCFrameworks/sf_wkt_ios.xcframework"
         ),
         .binaryTarget(
-            name: "simple-features-wkb-ios",
+            name: "sf_wkb_ios",
             path: "XCFrameworks/sf_wkb_ios.xcframework"
         ),
         .binaryTarget(
-            name: "coordinate-reference-systems-ios",
+            name: "crs_ios",
             path: "XCFrameworks/crs_ios.xcframework"
         ),
         .binaryTarget(
-            name: "projections-ios",
+            name: "proj_ios",
             path: "XCFrameworks/proj_ios.xcframework"
         )
     ]
